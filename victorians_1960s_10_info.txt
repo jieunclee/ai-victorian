@@ -1,0 +1,457 @@
+Topic 0:
+- poem: 0.011279220692813396
+- poetry: 0.009334390051662922
+- man: 0.007641547359526157
+- poet: 0.007134273648262024
+- nature: 0.006656679790467024
+- life: 0.00613773800432682
+- arthur: 0.0059601012617349625
+- arnold: 0.00568917952477932
+- tennyson: 0.005663555581122637
+- victorian: 0.004862275440245867
+- time: 0.004449422005563974
+- love: 0.004446092527359724
+- darwin: 0.004173367749899626
+- world: 0.003963673487305641
+- london: 0.003847400425001979
+- city: 0.003679696237668395
+- wordsworth: 0.0036386726424098015
+- king: 0.0035818147007375956
+- human: 0.003493004711344838
+- word: 0.0033989069052040577
+- hopkin: 0.0032825495582073927
+- great: 0.0032307414803653955
+- image: 0.003186470363289118
+- natural: 0.003171690972521901
+- last: 0.0029004451353102922
+- brown: 0.00280201667919755
+- self: 0.002799759153276682
+- letter: 0.002795381238684058
+- long: 0.0027885823510587215
+- sense: 0.002686165040358901
+Topic 1:
+- victorian: 0.012162989005446434
+- local: 0.008557640947401524
+- act: 0.007985718548297882
+- life: 0.0072784810326993465
+- man: 0.005269779823720455
+- taylor: 0.005033167544752359
+- government: 0.0048897117376327515
+- inspector: 0.004460315685719252
+- board: 0.0043960497714579105
+- london: 0.004390986170619726
+- smith: 0.004215501714497805
+- time: 0.004176883492618799
+- office: 0.004164359997957945
+- place: 0.004160585347563028
+- health: 0.003935317974537611
+- social: 0.003933420870453119
+- central: 0.0039028313476592302
+- dicken: 0.0038242440205067396
+- power: 0.0037313520442694426
+- sensibility: 0.003558011492714286
+- year: 0.0033570588566362858
+- sanitary: 0.0032486137934029102
+- great: 0.0031521921046078205
+- public: 0.003148183925077319
+- authority: 0.0030020081903785467
+- far: 0.002865952905267477
+- case: 0.002577040111646056
+- report: 0.002527029952034354
+- town: 0.0025053757708519697
+- richard: 0.002425197046250105
+Topic 2:
+- art: 0.022393934428691864
+- union: 0.01310001127421856
+- housman: 0.009292535483837128
+- man: 0.007268396206200123
+- mrs: 0.007264098152518272
+- poem: 0.0070105791091918945
+- mill: 0.006885663606226444
+- lady: 0.006881047505885363
+- lawrence: 0.0056539373472332954
+- hopkin: 0.005586632993072271
+- poet: 0.005480223800987005
+- god: 0.005256285425275564
+- victorian: 0.005227122455835342
+- self: 0.004814596381038427
+- brown: 0.004238458815962076
+- london: 0.004087549634277821
+- poetry: 0.0038719510193914175
+- year: 0.003796953009441495
+- life: 0.003583746263757348
+- pauline: 0.003573101246729493
+- ward: 0.003492585849016905
+- committee: 0.0033827368170022964
+- nature: 0.0033289564307779074
+- trumpet: 0.003308977000415325
+- society: 0.003298421623185277
+- time: 0.0029582746792584658
+- world: 0.002804153598845005
+- artist: 0.002680474193766713
+- picture: 0.0026252237148582935
+- meeting: 0.0026190844364464283
+Topic 3:
+- carlyle: 0.010441786609590054
+- man: 0.00769386813044548
+- pater: 0.007665565703064203
+- life: 0.007539170328527689
+- victorian: 0.007274376694113016
+- swinburne: 0.00677857780829072
+- book: 0.0055065457709133625
+- fiction: 0.005370344500988722
+- novel: 0.005002432968467474
+- time: 0.004807444289326668
+- experience: 0.0045807636342942715
+- moral: 0.004502222407609224
+- eliot: 0.004095017910003662
+- love: 0.003967533353716135
+- god: 0.003916718531399965
+- plato: 0.003683247836306691
+- sense: 0.003627534955739975
+- religion: 0.0035333370324224234
+- world: 0.00349040562286973
+- thing: 0.003229477908462286
+- great: 0.003001272212713957
+- truth: 0.002997925505042076
+- feel: 0.0029288383666425943
+- sea: 0.002866156632080674
+- poem: 0.0027630941476672888
+- art: 0.0027608750388026237
+- thus: 0.0027102231979370117
+- character: 0.0026923464611172676
+- nature: 0.002567065181210637
+- poetry: 0.002547401236370206
+Topic 4:
+- scott: 0.013334411196410656
+- victorian: 0.009030762128531933
+- life: 0.00842232070863247
+- london: 0.006908598821610212
+- novel: 0.006834026891738176
+- spencer: 0.0062124766409397125
+- man: 0.005875026807188988
+- time: 0.005734509788453579
+- laughter: 0.005019699223339558
+- history: 0.004605479538440704
+- essay: 0.004527595359832048
+- dicken: 0.003953190520405769
+- comic: 0.003924016375094652
+- poem: 0.003906673286110163
+- william: 0.0036132519599050283
+- humor: 0.0034627218265086412
+- great: 0.0031272252090275288
+- letter: 0.0030274740420281887
+- stephen: 0.002917915116995573
+- nonsense: 0.0028803388122469187
+- world: 0.0027544342447072268
+- herbert: 0.0026951271574944258
+- clough: 0.0026629276107996702
+- child: 0.0026628465857356787
+- book: 0.0026048554573208094
+- kind: 0.002580824540928006
+- carlyle: 0.0025219295639544725
+- tale: 0.0025161094963550568
+- play: 0.0024488940834999084
+- day: 0.002439942443743348
+Topic 5:
+- newman: 0.012976507656276226
+- world: 0.0085677495226264
+- stephen: 0.008324754424393177
+- man: 0.008263318799436092
+- reason: 0.007693277206271887
+- brown: 0.007208278402686119
+- hume: 0.006908463779836893
+- eighteenth: 0.006900752428919077
+- faith: 0.006112844217568636
+- god: 0.005898047238588333
+- thought: 0.005789498798549175
+- sense: 0.005510050803422928
+- nature: 0.005479408893734217
+- jones: 0.005441633984446526
+- soul: 0.00543123297393322
+- view: 0.005186320282518864
+- philosophical: 0.005066893063485622
+- natural: 0.004888704512268305
+- brother: 0.00444578193128109
+- mind: 0.004363499116152525
+- lawrence: 0.004257763735949993
+- university: 0.0042406427673995495
+- poem: 0.004214975517243147
+- intellectual: 0.004088107496500015
+- life: 0.003952682949602604
+- theory: 0.003860189812257886
+- question: 0.003858136245980859
+- logical: 0.0037560397759079933
+- belief: 0.0036425194703042507
+- sermon: 0.0036422547418624163
+Topic 6:
+- rossetti: 0.013541456311941147
+- poem: 0.012646490707993507
+- love: 0.010693575255572796
+- swinburne: 0.008640222251415253
+- hopkin: 0.00743510015308857
+- indian: 0.007418526802212
+- victorian: 0.0073532359674572945
+- poetry: 0.00596685940399766
+- mary: 0.005699712783098221
+- art: 0.004802177660167217
+- death: 0.004760202951729298
+- picture: 0.004052405711263418
+- sonnet: 0.00390132749453187
+- time: 0.003891164204105735
+- man: 0.0038779061287641525
+- image: 0.0037552390713244677
+- india: 0.0036261531058698893
+- fact: 0.0033688468392938375
+- subject: 0.003157886676490307
+- colony: 0.0031404958572238684
+- lover: 0.0030883089639246464
+- thing: 0.002971752779558301
+- book: 0.0029429811984300613
+- life: 0.0028867784421890974
+- act: 0.0028602536767721176
+- poetic: 0.0028179173823446035
+- word: 0.002772787120193243
+- violent: 0.002747691934928298
+- morris: 0.002686745021492243
+- blood: 0.0026834600139409304
+Topic 7:
+- tennyson: 0.025137247517704964
+- poem: 0.020884346216917038
+- poetry: 0.009609833359718323
+- ulysse: 0.009070376865565777
+- sea: 0.008543985895812511
+- poet: 0.006446165032684803
+- brown: 0.006406129337847233
+- life: 0.005266996566206217
+- victorian: 0.004693933296948671
+- arthur: 0.004391166847199202
+- love: 0.004139295779168606
+- man: 0.004024926573038101
+- world: 0.0037528621032834053
+- dramatic: 0.0037497386801987886
+- geraint: 0.003602738259360194
+- symbol: 0.003337786067277193
+- reader: 0.0031694085337221622
+- monologue: 0.0031240221578627825
+- death: 0.0030144418124109507
+- spiritual: 0.0027336806524544954
+- last: 0.002621377818286419
+- year: 0.0025062549393624067
+- form: 0.0025060053449124098
+- three: 0.0024531707167625427
+- experience: 0.0024087373167276382
+- inner: 0.0023559939581900835
+- time: 0.002341038314625621
+- still: 0.002295014914125204
+- second: 0.0022907613310962915
+- view: 0.0022784851025789976
+Topic 8:
+- london: 0.012796199880540371
+- comte: 0.012600195594131947
+- exhibition: 0.008809085004031658
+- bridge: 0.008383642882108688
+- add: 0.007170496508479118
+- positivist: 0.006783042103052139
+- man: 0.006412623915821314
+- prince: 0.006322167813777924
+- religion: 0.005747737362980843
+- letter: 0.005683081224560738
+- life: 0.005322355777025223
+- lord: 0.005244630388915539
+- great: 0.004980374593287706
+- class: 0.004832422360777855
+- society: 0.004621902015060186
+- immortality: 0.004549982026219368
+- cole: 0.004520063754171133
+- disciple: 0.004422626458108425
+- year: 0.004020994994789362
+- humanity: 0.0039537884294986725
+- queen: 0.003731420263648033
+- death: 0.0035224980674684048
+- french: 0.003235151059925556
+- movement: 0.0032083524856716394
+- henry: 0.00316255702637136
+- working: 0.0030396422371268272
+- royal: 0.0028961128555238247
+- particularly: 0.002867820207029581
+- sense: 0.0028657454531639814
+- england: 0.0027865224983543158
+Topic 9:
+- london: 0.008273620158433914
+- victorian: 0.006330858916044235
+- time: 0.006060481071472168
+- society: 0.005873745772987604
+- church: 0.005863452795892954
+- temperance: 0.005341734271496534
+- year: 0.0050771706737577915
+- man: 0.004564341157674789
+- house: 0.0037973744329065084
+- class: 0.0037328468170017004
+- reform: 0.003484544577077031
+- social: 0.0034653092734515667
+- great: 0.003341241739690304
+- periodical: 0.003231555223464966
+- newspaper: 0.0032066325657069683
+- public: 0.0031897842418402433
+- british: 0.0030973278917372227
+- trade: 0.0030950054060667753
+- general: 0.003090368816629052
+- change: 0.00305975996889174
+- government: 0.003040687181055546
+- book: 0.00289485277608037
+- movement: 0.0028890126850456
+- report: 0.0028672553598880768
+- builder: 0.0028461473993957043
+- tait: 0.0028436232823878527
+- high: 0.002841194625943899
+- building: 0.0028258522506803274
+- party: 0.002780237700790167
+- national: 0.002719881245866418
+Topic 0:
+	0.9996501207351685	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_Tennyson's Tragic Vitalism Idylls of the King.txt
+	0.9994105696678162	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Dover Revisited The Wordsworthian Matrix in the Poetry of Matthew Arnold.txt
+	0.9992002248764038	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_The Structure of Tennyson's The Last Tournament.txt
+	0.9991397261619568	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_A Decadent's Nature The Poetry of Ernest Dowson.txt
+	0.9988641738891602	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_Imagery in Locksley Hall.txt
+	0.998845100402832	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_The Artistic Consistency of Browning's In a Balcony.txt
+	0.9983683228492737	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_Matthew Arnold's Revision of Tristram and Iseult Some Instances of Clough's Influence.txt
+	0.9982094168663025	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_Shakespeare's Dauphin and Hopkins' Windhover.txt
+	0.9972790479660034	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_An Allusion to Pope in an Early Unpublished Arnold Letter.txt
+	0.9758011102676392	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Browning's Grotesque Period.txt
+	0.9585086703300476	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_Matthew Arnold's The Neckan  The Real Issues.txt
+	0.957724392414093	./txt_preprocessed\VP\1960s\article\general\VP_1967_5.1_How Matthew Arnold Altered Goethe on Poetry.txt
+	0.9085690379142761	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_The Windhover.txt
+	0.7999712228775024	./txt_preprocessed\VS\1960s\article\special\VS_1968_11.1_The Victorian City and the Frightened Poets.txt
+	0.7671310901641846	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Tennyson and the Romantics.txt
+	0.742715060710907	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Hopkins' Dangerous Fire.txt
+	0.6989901661872864	./txt_preprocessed\VS\1960s\article\general\VS_1961_5.2_The Bases of Darwin's Achievement A Revaluation.txt
+	0.6850367188453674	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Tennyson's Idylls of the King as Tragic Drama.txt
+	0.6224762797355652	./txt_preprocessed\VS\1960s\article\general\VS_1965_9.2_Instress and Devotion in the Poetry of Gerard Manley Hopkins.txt
+	0.598922073841095	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_Tennyson's Doubt and Prayer Sonnet.txt
+	0.5920352339744568	./txt_preprocessed\VP\1960s\article\general\VP_1967_5.1_Cousin Clara Vere de Vere.txt
+	0.5582180023193359	./txt_preprocessed\VP\1960s\article\general\VP_1967_5.1_Arnold's Passive Questers.txt
+	0.5579060912132263	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_The Germ of Meredith's Lucifer in Starlight.txt
+	0.5461764931678772	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Browning's Essay on Shelley.txt
+	0.5391653180122375	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Ambiguities in the Structure and Meaning of Browning's Christmas-Eve.txt
+	0.5100865960121155	./txt_preprocessed\VP\1960s\article\general\VP_1967_5.1_The Idealist's Dilemma in Idylls of the King.txt
+	0.5052472949028015	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_Landor and Immortality.txt
+	0.40030309557914734	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_Herbert Clough and Their Church-Windows.txt
+	0.33446934819221497	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Memo to the Next Annotator of Browning.txt
+	0.29725223779678345	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Hardy's Afterwards.txt
+Topic 1:
+	0.9998069405555725	./txt_preprocessed\VS\1960s\article\general\VS_1962_6.2_Central and Local Relations in Mid-Victorian England The Local Government Act Office 1858-71.txt
+	0.7278677821159363	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Housman Versus Vaughan Williams Is My Team Plowing.txt
+	0.6938326954841614	./txt_preprocessed\VS\1960s\article\general\VS_1965_9.2_The Alkali Acts Administration 1863-84 The Emergence of the Civil Scientist.txt
+	0.608394205570221	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_An Image of The Windhover.txt
+	0.5943709015846252	./txt_preprocessed\VS\1960s\article\general\VS_1967_11.2_The Gradgrind School Political Economy in the Classroom.txt
+	0.4931453764438629	./txt_preprocessed\VS\1960s\article\general\VS_1967_11.2_Richard Jefferies and the English Countryside.txt
+	0.47843724489212036	./txt_preprocessed\VS\1960s\article\special\VS_1963_7.1_The Victorian Sensibility.txt
+	0.38899824023246765	./txt_preprocessed\VP\1960s\article\general\VP_1965_3.1_Aestheticism in Browning's Early Renaissance Monologues.txt
+	0.35900813341140747	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_Trial by Water in William Morris' The Haystack in the Floods.txt
+	0.3420270085334778	./txt_preprocessed\VP\1960s\article\general\VP_1965_3.1_The Symbolism of Browning's Master Hugues of Saxe-Gotha.txt
+Topic 2:
+	0.9980804920196533	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_The Pattern of Ascent in Hopkins.txt
+	0.9975854158401489	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_A E Housman's Modification of the Flower Motif of the Pastoral Elegy.txt
+	0.9633591175079346	./txt_preprocessed\VS\1960s\article\general\VS_1965_9.2_Mill and Pauline The Myth and Some Facts.txt
+	0.7830954194068909	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Browning's Metamorphoses.txt
+	0.744295060634613	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_Housman's Use of Classical Convention.txt
+	0.6380788683891296	./txt_preprocessed\VS\1960s\article\general\VS_1964_8.2_George Godwin and the Art Union of London 1837-1911.txt
+	0.6032293438911438	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_A Slight Meteorological Disturbance The Last Two Stanzas of Tennyson's The Poet.txt
+	0.5734796524047852	./txt_preprocessed\VS\1960s\article\general\VS_1969_13.2_Zion's Trumpet Evangelical Enterprise and Rivalry 1833-35.txt
+	0.557041585445404	./txt_preprocessed\VS\1960s\article\general\VS_1960_4.2_The Rival Ladies Mrs Ward's Lady Connie and Lawrence's Lady Chatterley's Lover.txt
+	0.48317641019821167	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_A Note on Browning's Soliloquy of the Spanish Cloister.txt
+	0.4323779344558716	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_The Creation of Excalibur An Apparent Inconsistency in the Idylls.txt
+	0.33603760600090027	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_The Artistic and Tonal Integrity of Hopkins' The Shepherd's Brow.txt
+Topic 3:
+	0.999701976776123	./txt_preprocessed\VS\1960s\article\general\VS_1962_6.2_Pater's Religion of Sanity Plato and Platonism as a Document of Victorian Unbelief.txt
+	0.9875659942626953	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_A Reading of Pippa Passes.txt
+	0.8732618689537048	./txt_preprocessed\VS\1960s\article\general\VS_1964_8.2_Sartor Resartus and the Balance of Fiction.txt
+	0.7268491387367249	./txt_preprocessed\VS\1960s\article\general\VS_1967_11.2_Swinburne.txt
+	0.6327006220817566	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_A Francis William Lauderdale Adams Unknown Poem.txt
+	0.5719505548477173	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_The Human Condition Browning's Cleon.txt
+	0.5602607131004333	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_Browning's Mr Sludge The Medium.txt
+	0.4921095371246338	./txt_preprocessed\VS\1960s\article\general\VS_1961_5.2_George Eliot in the 1860's.txt
+	0.4888366162776947	./txt_preprocessed\VS\1960s\article\general\VS_1969_13.2_My Secret Life Theme and Variations.txt
+	0.3859073221683502	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Swinburne Greene and The Triumph of Time.txt
+Topic 4:
+	0.9998082518577576	./txt_preprocessed\VS\1960s\article\general\VS_1966_10.2_The Uses of Victorian Laughter.txt
+	0.9997830986976624	./txt_preprocessed\VS\1960s\article\special\VS_1963_7.1_What Scott Meant to the Victorians.txt
+	0.9967365860939026	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_Macaulay on Periodical Style.txt
+	0.696803629398346	./txt_preprocessed\VPR\1960s\article\general\VPR_1969_2.1_The Germ (1850) and The Oxford and Cambridge Magazine (1856).txt
+	0.6556922197341919	./txt_preprocessed\VS\1960s\article\general\VS_1962_6.2_W H Mallock's Contributions to The Miscellany.txt
+	0.6491525173187256	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Clough's Epi-strauss-ium and Carlyle.txt
+	0.6254417896270752	./txt_preprocessed\VS\1960s\article\special\VS_1968_11.1_Town Guano and Social Statics.txt
+	0.3732675611972809	./txt_preprocessed\VS\1960s\article\general\VS_1966_10.2_Inverse Sublimity in Victorian Humor.txt
+Topic 5:
+	0.9996855854988098	./txt_preprocessed\VS\1960s\article\general\VS_1960_4.2_The Night Battle Newman and Empiricism.txt
+	0.9988514184951782	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Rabbi Ben Ezra 49-72 A New Key to an Old Crux.txt
+	0.9983384609222412	./txt_preprocessed\VP\1960s\article\general\VP_1968_6.1_Animal and Vegetable in the Spanish Cloister.txt
+	0.5575554966926575	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_Henry Jones on Browning's Optimism.txt
+	0.36908867955207825	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Hopkins' Ooze of Oil Rises Again.txt
+	0.33827507495880127	./txt_preprocessed\VS\1960s\article\general\VS_1962_6.2_Leslie Stephen's English Thought in the Eighteenth Century A Tract for the Times.txt
+Topic 6:
+	0.9992892146110535	./txt_preprocessed\VP\1960s\article\general\VP_1965_3.1_D G Rossetti as Painter and Poet.txt
+	0.9992059469223022	./txt_preprocessed\VP\1960s\article\general\VP_1967_5.1_Character and Action in Swinburne's Chastelard.txt
+	0.9988135099411011	./txt_preprocessed\VS\1960s\article\general\VS_1966_10.2_Answers to an Inquiry.txt
+	0.9983627796173096	./txt_preprocessed\VS\1960s\article\general\VS_1966_10.2_Reply to a Reviewer.txt
+	0.8154405951499939	./txt_preprocessed\VP\1960s\article\general\VP_1967_5.1_Hopkins' Dark Sonnets Another New Expression.txt
+	0.7328994870185852	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_Violent Imagery in the Poetry of Gerard Manley Hopkins.txt
+	0.6867685914039612	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_A Note on the Little Magazines of the English Decadence.txt
+	0.6247099041938782	./txt_preprocessed\VS\1960s\article\general\VS_1961_5.2_Inside Victorian Walls.txt
+	0.5443990230560303	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_Rossetti's Significant Details.txt
+	0.533430278301239	./txt_preprocessed\VP\1960s\article\general\VP_1965_3.1_In Search of Archibald Grosvenor A New Look at Gilbert's Patience.txt
+Topic 7:
+	0.9996471405029297	./txt_preprocessed\VP\1960s\article\general\VP_1965_3.1_Tennyson and the Summons from the Sea.txt
+	0.9996416568756104	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Tennyson's Ulysses A Reconciliation of Opposites.txt
+	0.9988936185836792	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_The Weeding of the Garden Tennyson's Geraint Idylls and the Mabinogion.txt
+	0.9987420439720154	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Structure and Symbol in Crossing the Bar.txt
+	0.997672975063324	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_A Unifying Element in Tennyson's Maud.txt
+	0.6896470189094543	./txt_preprocessed\VP\1960s\article\general\VP_1967_5.1_Rossetti's A Last Confession A Dramatic Monologue.txt
+	0.6842780709266663	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_Evelyn Hope's Lover.txt
+	0.6699590682983398	./txt_preprocessed\VP\1960s\article\general\VP_1966_4.1_The Dating of Browning's Love Among the Ruins Women and Roses and Childe Roland.txt
+	0.6385431289672852	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_The Monsignor in Pippa Passes Browning's First Clerical Character.txt
+	0.6260892152786255	./txt_preprocessed\VP\1960s\article\general\VP_1965_3.1_Two Early Poems By Tennyson.txt
+	0.593715250492096	./txt_preprocessed\VP\1960s\article\general\VP_1965_3.1_Tennyson's Crossing the Bar A Poem of Frustration.txt
+	0.5645427107810974	./txt_preprocessed\VP\1960s\article\general\VP_1964_2.1_Problems of Form and Content in the Poetry of Dante Gabriel Rossetti.txt
+	0.5235140919685364	./txt_preprocessed\VP\1960s\article\general\VP_1965_3.1_Growing Old Rabbi Ben Ezra and Tears Idle Tears.txt
+	0.4625971019268036	./txt_preprocessed\VP\1960s\article\general\VP_1969_7.1_Housman's He Standing Hushed.txt
+Topic 8:
+	0.9995867609977722	./txt_preprocessed\VS\1960s\article\general\VS_1964_8.2_Auguste Comte's English Disciples.txt
+	0.660353422164917	./txt_preprocessed\VS\1960s\article\general\VS_1966_10.2_Workers under Glass in 1851.txt
+Topic 9:
+	0.9998156428337097	./txt_preprocessed\VS\1960s\article\special\VS_1963_7.1_The Transformation of Conservatism in the Late Nineteenth Century.txt
+	0.9998124837875366	./txt_preprocessed\VS\1960s\article\general\VS_1969_13.2_A World of Which We Had No Conception Liberalism and the English Temperance Press 1830-1872.txt
+	0.9997233152389526	./txt_preprocessed\VS\1960s\article\general\VS_1969_13.2_English Working-Class Newspapers in 1867.txt
+	0.9996874928474426	./txt_preprocessed\VPR\1960s\article\general\VPR_1969_2.1_Mitchell's Newspaper Press Directory 1846-1907.txt
+	0.9981428980827332	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_The Wellesley Index Uses and Problems.txt
+	0.9973289370536804	./txt_preprocessed\VS\1960s\article\special\VS_1968_11.1_The Speculative Builders and Developers of Victorian London.txt
+	0.9952574968338013	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_Editorial Business.txt
+	0.9832497239112854	./txt_preprocessed\VS\1960s\article\general\VS_1964_8.2_The Protestant Alliance and Roman Catholic Schools 1872-74.txt
+	0.9682438969612122	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_Obstacles to the Use of Victorian Periodicals.txt
+	0.9558179974555969	./txt_preprocessed\VS\1960s\article\general\VS_1969_13.2_Higher Journalism and the Mid-Victorian Clerisy.txt
+	0.9544183015823364	./txt_preprocessed\VS\1960s\article\general\VS_1965_9.2_The Primate and the Prime Minister Archbishop Tait Gladstone and the National Church.txt
+	0.9410191178321838	./txt_preprocessed\VS\1960s\article\special\VS_1963_7.1_Interdisciplinary Studies at the University of Sussex.txt
+	0.9343971610069275	./txt_preprocessed\VS\1960s\article\general\VS_1966_10.2_The Stone Table in the Round Church and the Crisis of the Cambridge Camden Society.txt
+	0.8934824466705322	./txt_preprocessed\VS\1960s\article\general\VS_1960_4.2_Midlothian A Study in Politics and Ideas.txt
+	0.8786681890487671	./txt_preprocessed\VS\1960s\article\general\VS_1961_5.2_The Road to Hiram's Hospital A Byway of Early Victorian History.txt
+	0.8619213700294495	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_Nineteenth-Century Newspapers and Magazines in the New CBEL.txt
+	0.8339424729347229	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_Notes on Westminster Review Research.txt
+	0.8155912756919861	./txt_preprocessed\VS\1960s\article\general\VS_1966_10.2_The Toronto Conference on Editing Nineteenth-Century Materials.txt
+	0.7640315890312195	./txt_preprocessed\VPR\1960s\article\general\VPR_1969_2.1_Poole's Index.txt
+	0.7439320087432861	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_On the Use of Communicated in the Rambler.txt
+	0.7166953682899475	./txt_preprocessed\VPR\1960s\article\general\VPR_1969_2.1_W T Stead's Borderland A Quarterly Review and Index of Psychic Phenomena 1893-97.txt
+	0.6826704144477844	./txt_preprocessed\VS\1960s\article\general\VS_1964_8.2_Comments and Queries.txt
+	0.67806077003479	./txt_preprocessed\VPR\1960s\article\general\VPR_1969_2.1_Sportswriting.txt
+	0.667481541633606	./txt_preprocessed\VS\1960s\article\general\VS_1967_11.2_Some Fruits of Victorian Imperialism Gandhi and the Indian Question in Natal 1893-99.txt
+	0.6496996879577637	./txt_preprocessed\VS\1960s\article\general\VS_1965_9.2_Comments and Queries.txt
+	0.647424042224884	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_Re-Reading the Examiner 1832-55.txt
+	0.6322354674339294	./txt_preprocessed\VPR\1960s\article\general\VPR_1968_1.1_Dickens's Weeklies.txt
+	0.6255097985267639	./txt_preprocessed\VS\1960s\article\general\VS_1960_4.2_Comments and Queries.txt
+	0.6073525547981262	./txt_preprocessed\VS\1960s\article\special\VS_1963_7.1_An Inter-Departmental Course on Victorian England.txt
+	0.6008509993553162	./txt_preprocessed\VP\1960s\article\general\VP_1963_1.1_Editorial.txt
+	0.5605053901672363	./txt_preprocessed\VS\1960s\article\special\VS_1968_11.1_The Victorian City Quantity and Quality.txt
+	0.5339293479919434	./txt_preprocessed\VS\1960s\article\general\VS_1967_11.2_The Conservative and Radical Interpretations of Early Victorian Social Legislation.txt
+	0.46018707752227783	./txt_preprocessed\VPR\1960s\article\general\VPR_1969_2.1_The Reader A Review of Literature Science and the Arts 1863-67.txt
+	0.45251619815826416	./txt_preprocessed\VS\1960s\article\general\VS_1967_11.2_Comments and Queries.txt
+	0.44177302718162537	./txt_preprocessed\VS\1960s\article\general\VS_1960_4.2_Mrs Trollope and the Early Factory System.txt

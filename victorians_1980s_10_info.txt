@@ -1,0 +1,577 @@
+Topic 0:
+- london: 0.011032408103346825
+- society: 0.006308456417173147
+- victorian: 0.006037270184606314
+- liberal: 0.00497080571949482
+- man: 0.004624832887202501
+- class: 0.004573366604745388
+- social: 0.003909978549927473
+- england: 0.0035651393700391054
+- year: 0.0033282162621617317
+- life: 0.0031857204157859087
+- war: 0.0030843184795230627
+- party: 0.002945041051134467
+- british: 0.0028833469841629267
+- time: 0.002857053419575095
+- soul: 0.0028139753267169
+- church: 0.0027908652555197477
+- house: 0.00274185580201447
+- anglo: 0.002554822014644742
+- home: 0.002493608742952347
+- report: 0.0024859823752194643
+- lord: 0.0024619554169476032
+- political: 0.0024526549968868494
+- lady: 0.002400545170530677
+- public: 0.002294601174071431
+- poor: 0.00228966330178082
+- people: 0.002226339653134346
+- great: 0.0022209070157259703
+- catholic: 0.0021908357739448547
+- winter: 0.0021474624518305063
+- gypsy: 0.0021143832709640265
+Topic 1:
+- poem: 0.007797276135534048
+- man: 0.007552574388682842
+- hopkin: 0.006484183482825756
+- nature: 0.005769412033259869
+- poetry: 0.005601576529443264
+- tennyson: 0.00515545392408967
+- world: 0.00507533922791481
+- city: 0.004751316737383604
+- god: 0.004646217450499535
+- life: 0.004536645021289587
+- arnold: 0.004524050280451775
+- tale: 0.004441323224455118
+- human: 0.004060500301420689
+- death: 0.004000017885118723
+- sublime: 0.0036853239871561527
+- arthur: 0.003234024392440915
+- tom: 0.0032145660370588303
+- self: 0.0031957365572452545
+- narrator: 0.003150513395667076
+- victorian: 0.003019193885847926
+- love: 0.0029489370062947273
+- time: 0.0028297877870500088
+- fire: 0.002801621099933982
+- brown: 0.00279855914413929
+- form: 0.0025957925245165825
+- medieval: 0.0025383299216628075
+- swinburne: 0.0024834047071635723
+- poet: 0.0024740954395383596
+- wild: 0.002451895270496607
+- caliban: 0.0023986033629626036
+Topic 2:
+- woman: 0.01925225369632244
+- child: 0.009236211888492107
+- class: 0.005932573229074478
+- victorian: 0.005603091791272163
+- london: 0.005363544449210167
+- man: 0.004501810297369957
+- book: 0.0038135647773742676
+- society: 0.0036429252941161394
+- flower: 0.0035802607890218496
+- magazine: 0.0034895208664238453
+- social: 0.003429088043048978
+- home: 0.0033331087324768305
+- literature: 0.0028841737657785416
+- university: 0.0027823953423649073
+- issue: 0.00274064508266747
+- time: 0.0027193056885153055
+- feminist: 0.0026720839086920023
+- trade: 0.002605943940579891
+- hutton: 0.0026021557860076427
+- year: 0.002580818487331271
+- moral: 0.002574677811935544
+- england: 0.0025471358094364405
+- gladstone: 0.002534167841076851
+- life: 0.0025025038048624992
+- girl: 0.002412881702184677
+- appear: 0.0023465007543563843
+- evidence: 0.0023076811339706182
+- periodical: 0.0023039239458739758
+- forster: 0.0022894684225320816
+- church: 0.002194796223193407
+Topic 3:
+- london: 0.007424137555062771
+- author: 0.00652870861813426
+- indian: 0.006492013577371836
+- letter: 0.005894300527870655
+- time: 0.005597913637757301
+- book: 0.0050602080300450325
+- newspaper: 0.004953109193593264
+- periodical: 0.0044824304059147835
+- year: 0.004469083156436682
+- journalist: 0.004452723078429699
+- magazine: 0.004240009933710098
+- british: 0.004228730220347643
+- art: 0.004201962146908045
+- smith: 0.004132044967263937
+- publication: 0.003555447794497013
+- daily: 0.003550380701199174
+- library: 0.0035379966720938683
+- record: 0.0033349674195051193
+- thackeray: 0.0032486566342413425
+- reader: 0.0031673728954046965
+- news: 0.003142185974866152
+- critic: 0.003044275101274252
+- journal: 0.002988954307511449
+- india: 0.002963281236588955
+- society: 0.002697897842153907
+- native: 0.0026131279300898314
+- novel: 0.002584615023806691
+- opium: 0.0025481623597443104
+- boy: 0.002543955110013485
+- number: 0.0025147846899926662
+Topic 4:
+- arnold: 0.02652735821902752
+- man: 0.007517220452427864
+- butler: 0.007308504544198513
+- love: 0.00720019917935133
+- life: 0.006885323207825422
+- nature: 0.004268361255526543
+- poem: 0.004191933665424585
+- morris: 0.00411269161850214
+- tristram: 0.00392314326018095
+- carlyle: 0.0039009784813970327
+- iseult: 0.0037651725579053164
+- victorian: 0.0037036556750535965
+- wordsworth: 0.0036437197122722864
+- tale: 0.0034817070700228214
+- letter: 0.0034132946748286486
+- time: 0.0033611312974244356
+- poetry: 0.003301718272268772
+- world: 0.0032938120421022177
+- woman: 0.003185845445841551
+- passion: 0.0031637512147426605
+- darwin: 0.0029660805594176054
+- swinburne: 0.0029621333815157413
+- matthew: 0.0028113704174757004
+- lang: 0.0026225384790450335
+- death: 0.0025901412591338158
+- religion: 0.002573318313807249
+- year: 0.002456221031025052
+- essay: 0.0023636859841644764
+- peel: 0.002354939002543688
+- end: 0.0023367630783468485
+Topic 5:
+- music: 0.010967514477670193
+- history: 0.006263443268835545
+- victorian: 0.00613788515329361
+- mill: 0.0059072342701256275
+- ruskin: 0.004787652753293514
+- education: 0.0045399172231554985
+- time: 0.004306057933717966
+- school: 0.004249534569680691
+- great: 0.003937710542231798
+- language: 0.003859773511067033
+- london: 0.0037283506244421005
+- musical: 0.0035161739215254784
+- man: 0.003173158038407564
+- class: 0.0031504533253610134
+- life: 0.0030670014675706625
+- essay: 0.003003060817718506
+- art: 0.002966511296108365
+- englishnoun: 0.0027326324488967657
+- year: 0.0026718273293226957
+- subject: 0.002671484835445881
+- age: 0.002547874115407467
+- classical: 0.002529317745938897
+- word: 0.0025129318237304688
+- england: 0.0024338511284440756
+- modern: 0.0024058003909885883
+- university: 0.0023228973150253296
+- englishadj: 0.0023196132387965918
+- reader: 0.0022715567611157894
+- william: 0.002269584219902754
+- mind: 0.0022623827680945396
+Topic 6:
+- brown: 0.013699349947273731
+- man: 0.0061669121496379375
+- carlyle: 0.0060452064499258995
+- book: 0.0057756430469453335
+- ring: 0.00557901244610548
+- life: 0.004351355601102114
+- pater: 0.004191162530332804
+- truth: 0.004146923776715994
+- pompilia: 0.003761510830372572
+- browning: 0.003608561586588621
+- art: 0.0034144618548452854
+- rome: 0.0032712852116674185
+- god: 0.0030893064104020596
+- victorian: 0.0029721413739025593
+- poet: 0.002947826636955142
+- time: 0.0029139539692550898
+- fact: 0.0028813479002565145
+- human: 0.00287964241579175
+- guido: 0.002728477818891406
+- poem: 0.002642827108502388
+- greek: 0.002489707665517926
+- form: 0.002430535852909088
+- world: 0.0023925118148326874
+- sense: 0.0023749489337205887
+- institute: 0.0023627514019608498
+- view: 0.0023528847377747297
+- half: 0.0023038641083985567
+- wilde: 0.0022039515897631645
+- character: 0.0021793986670672894
+- reader: 0.002170427469536662
+Topic 7:
+- sign: 0.007971743121743202
+- public: 0.006952684372663498
+- london: 0.005629809107631445
+- man: 0.005306555889546871
+- novel: 0.004687391221523285
+- life: 0.0045724716037511826
+- art: 0.0045611923560500145
+- social: 0.0043205502443015575
+- school: 0.003749988740310073
+- history: 0.0035813781432807446
+- poem: 0.0034406939521431923
+- victorian: 0.003426027949899435
+- book: 0.0033218488097190857
+- class: 0.0031629365403205156
+- jerrold: 0.0031397677958011627
+- reader: 0.0029189700726419687
+- literary: 0.002891052747145295
+- place: 0.0027823401615023613
+- essay: 0.002758321352303028
+- culture: 0.002706755418330431
+- great: 0.002575089456513524
+- popular: 0.002489786595106125
+- people: 0.002476816065609455
+- word: 0.0024245979730039835
+- macaulay: 0.002405810169875622
+- letter: 0.0023438644129782915
+- time: 0.002283696550875902
+- world: 0.002230538986623287
+- form: 0.0022108773700892925
+- woman: 0.0021934942342340946
+Topic 8:
+- poem: 0.015079070813953876
+- brown: 0.009776447899639606
+- poet: 0.006977392360568047
+- tennyson: 0.006659231148660183
+- woman: 0.006478549912571907
+- poetry: 0.006268554832786322
+- love: 0.005604158621281385
+- man: 0.004973547998815775
+- word: 0.004370055161416531
+- self: 0.004094359464943409
+- life: 0.004045781679451466
+- victorian: 0.003733479417860508
+- barrett: 0.0032264753244817257
+- form: 0.003181546926498413
+- death: 0.002908337162807584
+- browning: 0.0028643098194152117
+- world: 0.0028102074284106493
+- time: 0.0027851220220327377
+- reader: 0.002678073476999998
+- lady: 0.0024810770992189646
+- aurora: 0.0024482589215040207
+- narrator: 0.0023915227502584457
+- image: 0.0023782795760780573
+- maud: 0.0023059959057718515
+- sense: 0.0023059516679495573
+- language: 0.00230302638374269
+- poetic: 0.0022871221881359816
+- power: 0.0022706198506057262
+- text: 0.0022547051776200533
+- experience: 0.0022437041625380516
+Topic 9:
+- hardy: 0.006826102267950773
+- eliot: 0.005694896448403597
+- city: 0.00517531530931592
+- thomson: 0.004656466655433178
+- year: 0.004596779588609934
+- manuscript: 0.004398358520120382
+- man: 0.0042544081807136536
+- time: 0.004201673436909914
+- text: 0.003707303199917078
+- copy: 0.0036103851161897182
+- king: 0.003284722799435258
+- life: 0.0032798151951283216
+- end: 0.0029753646813333035
+- hawthorne: 0.0028476279694586992
+- day: 0.002756682690232992
+- maggie: 0.0026035623159259558
+- henri: 0.0025473872665315866
+- london: 0.0025433888658881187
+- death: 0.002530821366235614
+- france: 0.0023264253977686167
+- strafford: 0.002322561340406537
+- thomas: 0.00230862433090806
+- follow: 0.0022838031873106956
+- last: 0.00227343593724072
+- woman: 0.0022083597723394632
+- great: 0.002188677666708827
+- dress: 0.00217214017175138
+- house: 0.0021099650766700506
+- call: 0.0021004213485866785
+- place: 0.0020970944315195084
+Topic 0:
+	0.9998524785041809	./txt_preprocessed\VS\1980s\article\general\VS_1984_27.2_A Brilliant Career John Conolly and Victorian Psychiatry.txt
+	0.9997857213020325	./txt_preprocessed\VS\1980s\article\general\VS_1983_26.2_Checking Nature's Desecration Late-Victorian Environmental Organization.txt
+	0.9997664093971252	./txt_preprocessed\VS\1980s\article\special\VS_1980_24.1_Technology and Imperialism A Case Study of the Victorian Army in Africa.txt
+	0.9997336268424988	./txt_preprocessed\VS\1980s\article\general\VS_1983_26.2_Irish Home Rule and the Great Separation in the Liberal Party in 1886 The Dimensions of Parliamentar.txt
+	0.9911322593688965	./txt_preprocessed\VPR\1980s\article\general\VPR_1988_21.1_Friends in High Places Valentine Chirol The Times and Anglo-German Relations 1892-96.txt
+	0.9715173244476318	./txt_preprocessed\VS\1980s\article\general\VS_1987_30.2_Lady Bountiful Women of the Landed Classes and Rural Philanthropy.txt
+	0.9480910897254944	./txt_preprocessed\VS\1980s\article\general\VS_1985_28.2_The Gypsy Problem in Victorian England.txt
+	0.938996434211731	./txt_preprocessed\VS\1980s\article\general\VS_1982_25.2_The Souls and London Society at the End of the Nineteenth Century.txt
+	0.8700485825538635	./txt_preprocessed\VS\1980s\article\general\VS_1982_25.2_Unenglish and Unmanly Anglo-Catholicism and Homosexuality.txt
+	0.8365623950958252	./txt_preprocessed\VPR\1980s\article\general\VPR_1981_14.1_Reynolds's Newspaper and the Modern Jew.txt
+	0.7593920826911926	./txt_preprocessed\VS\1980s\article\special\VS_1980_24.1_The Human Cost of Imperial Defence in the Early Victorian Age.txt
+	0.6756880283355713	./txt_preprocessed\VLC\1980s\article\general\VLC_1986_14.1_On the Origin of Fairies Victorians Romantics and Folk Belief.txt
+	0.5973746180534363	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_Healthy Intercourse The Beginning of the London Working Men's College.txt
+	0.46156904101371765	./txt_preprocessed\VS\1980s\article\special\VS_1980_24.1_East and West Anglo-Indian Racial Attitudes as Reflected in Popular Fiction 1890-1914.txt
+	0.3905750811100006	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_What the Victorians Knew about Sex.txt
+	0.2925705909729004	./txt_preprocessed\VLC\1980s\article\general\VLC_1986_14.1_Melodrama Pantomime and the Communist Manifesto.txt
+Topic 1:
+	0.9996002912521362	./txt_preprocessed\VP\1980s\article\general\VP_1982_20.1_Clough's Mari Magno A Reassessment.txt
+	0.9995492696762085	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_Hopkins' Greek Fire.txt
+	0.9992327094078064	./txt_preprocessed\VP\1980s\article\general\VP_1983_21.1_The Nights of Gerard Manley Hopkins A Mystical Starscape.txt
+	0.9969017505645752	./txt_preprocessed\VP\1980s\article\general\VP_1985_23.1_Matthew Arnold and The Muse The Limits of the Olympian Ideal.txt
+	0.9964249730110168	./txt_preprocessed\VP\1980s\article\general\VP_1987_25.1_Wild Man and Savage Believer Caliban in Shakespeare and Browning.txt
+	0.9094651341438293	./txt_preprocessed\VP\1980s\article\special\VP_1988_26.3_Mutiny Among the Listeners in Brown's First (Uncensored) Fo'c's'le Yarns.txt
+	0.9045761227607727	./txt_preprocessed\VP\1980s\article\general\VP_1987_25.1_Duessa or Lilith The Two Faces of Tennyson's Vivien.txt
+	0.7756155133247375	./txt_preprocessed\VLC\1980s\article\general\VLC_1986_14.1_Dickens's Sublime Artifact.txt
+	0.7691881060600281	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_Algernon Charles Swinburne's Evening on the Broads Unmeaning Landscape and the Language of Negation.txt
+	0.681896984577179	./txt_preprocessed\VP\1980s\article\general\VP_1981_19.1_Tristan And Tristram Resemblance or Influence.txt
+	0.6350453495979309	./txt_preprocessed\VP\1980s\article\general\VP_1989_27.1_The Celt and Medieval Christianity in Tristram and Iseult.txt
+	0.5428206324577332	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_A Precarious Turning Tennyson's Redemption of Literature and Life from Medievalism.txt
+	0.5095398426055908	./txt_preprocessed\VP\1980s\article\general\VP_1981_19.1_Tennyson's Three Women The Thought within the Image.txt
+	0.4370570480823517	./txt_preprocessed\VP\1980s\article\general\VP_1985_23.1_Robert Browing's Inverted Optic Glass in a Death in the Desert.txt
+	0.43643978238105774	./txt_preprocessed\VP\1980s\article\general\VP_1982_20.1_The Death and Birth of an Epic Tennyson's Morte d'Arthur.txt
+	0.2545945346355438	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_The Homeric Competitions of Tennyson and Gladstone.txt
+Topic 2:
+	0.9998430013656616	./txt_preprocessed\VS\1980s\article\general\VS_1988_31.2_The Meaning of Sisterhood The British Women's Movement and Protective Labor Legislation 1870-1900.txt
+	0.9660800099372864	./txt_preprocessed\VPR\1980s\article\general\VPR_1982_15.1_Additions & Corrections to The Wellesley Index for The Dublin Review January 1864-July 1900.txt
+	0.9284961819648743	./txt_preprocessed\VPR\1980s\article\general\VPR_1980_13.1-2_Fathering and The British Mother's Magazine 1845-1864.txt
+	0.9244740009307861	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_The Church Quarterly Review 1875-1900 A Marked File and Other Sources.txt
+	0.8911184072494507	./txt_preprocessed\VS\1980s\article\general\VS_1987_30.2_Political Economy and Christian Polity The Influence of Henry George in England Reassessed.txt
+	0.8905225396156311	./txt_preprocessed\VPR\1980s\article\general\VPR_1980_13.1-2_Tennyson & Forster An Exchange of Views Tennyson Forster and the Punch Connection A Reply.txt
+	0.8496817946434021	./txt_preprocessed\VPR\1980s\article\general\VPR_1980_13.1-2_The Punch Connection II; Or et tu Tennyson.txt
+	0.8187307715415955	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_Charles M Davies [1828-1910] The Broad Churchman as Journalist.txt
+	0.8176631927490234	./txt_preprocessed\VS\1980s\article\general\VS_1984_27.2_A Friend to Mammon Speculation in Victorian Literature.txt
+	0.7918875813484192	./txt_preprocessed\VPR\1980s\article\general\VPR_1980_13.1-2_Childhood's Champions Mid-Victorian Children's Periodicals and the Critics.txt
+	0.7775465250015259	./txt_preprocessed\VPR\1980s\article\general\VPR_1989_22.1_The Home Rule Crisis and the 'Liberal' Periodicals 1886-1895 Three Case Studies.txt
+	0.7101982831954956	./txt_preprocessed\VS\1980s\article\general\VS_1984_27.2_The Children's Friend Society at the Cape of Good Hope.txt
+	0.6962008476257324	./txt_preprocessed\VPR\1980s\article\general\VPR_1983_16.1_Notes on Manuscripts The Bessie Rayner Parkes Collection at Girton College Cambridge.txt
+	0.596716582775116	./txt_preprocessed\VPR\1980s\article\general\VPR_1980_13.1-2_The Authorship of Three Literary Articles in The National Review.txt
+	0.592827320098877	./txt_preprocessed\VS\1980s\article\general\VS_1989_32.2_The Love of Finery Fashion and the Fallen Woman in Nineteenth-Century Social Discourse.txt
+	0.5819411277770996	./txt_preprocessed\VPR\1980s\article\general\VPR_1980_13.1-2_Work in Progress.txt
+	0.5792783498764038	./txt_preprocessed\VPR\1980s\article\general\VPR_1980_13.1-2_The Girl of the Period Controversy.txt
+	0.5688973069190979	./txt_preprocessed\VS\1980s\article\general\VS_1985_28.2_Considering the Lilies Ruskin's Proserpina and Other Victorian Flower Books.txt
+	0.5271841883659363	./txt_preprocessed\VPR\1980s\article\general\VPR_1989_22.1_Marion Harry Spielmann and the Role of the Press in the Professionalization of Artists.txt
+	0.5152082443237305	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_Frederic Harrison and the Higher Journalism A Review.txt
+	0.4168334901332855	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_The Wellesley Index after the Houghtons.txt
+	0.4146975576877594	./txt_preprocessed\VS\1980s\article\general\VS_1989_32.2_A Gothic Ruin and a Grecian House Tennyson's the Princess and Mid-Victorian Architectural Theory.txt
+	0.35198351740837097	./txt_preprocessed\VPR\1980s\article\general\VPR_1989_22.1_Proceedings of the 20th Annual Conference Research Society for Victorian Periodicals.txt
+Topic 3:
+	0.999699592590332	./txt_preprocessed\VPR\1980s\article\general\VPR_1983_16.1_The Patron as Businessman George Murray Smith [1824-1901].txt
+	0.9969695210456848	./txt_preprocessed\VPR\1980s\article\general\VPR_1985_18.1_The English-Language Native Press in the Nineteenth Century.txt
+	0.9730416536331177	./txt_preprocessed\VPR\1980s\article\general\VPR_1980_13.1-2_Periodical Critics of Drama Music & Art 1830-1914 A Preliminary List.txt
+	0.9606882929801941	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_Tillotson's Fiction Bureau The Manchester Manuscripts.txt
+	0.9272245168685913	./txt_preprocessed\VPR\1980s\article\general\VPR_1983_16.1_Refuse in the Usual Terms The Foreign Office the Press & the Distribution of Blue Books 1887-1905.txt
+	0.8575980067253113	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_James Greenwood's London A Precursor of Charles Booth.txt
+	0.8104346394538879	./txt_preprocessed\VPR\1980s\article\general\VPR_1985_18.1_Tale Bearing in the 1890s The Author and Fiction Syndication.txt
+	0.8023998141288757	./txt_preprocessed\VPR\1980s\article\general\VPR_1983_16.1_A Checklist of the Publications of Benjamin Kidd [1858-1916].txt
+	0.7990748882293701	./txt_preprocessed\VPR\1980s\article\general\VPR_1982_15.1_The Fate of Sir John Franklin Three Phases of Response in Victorian Periodicals.txt
+	0.7894512414932251	./txt_preprocessed\VPR\1980s\article\general\VPR_1987_20.1_Alexander Haldane the Record and Religious Journalism.txt
+	0.7603181600570679	./txt_preprocessed\VS\1980s\article\special\VS_1980_24.1_Boys' Literature and the Idea of Empire 1870-1914.txt
+	0.6341447234153748	./txt_preprocessed\VS\1980s\article\special\VS_1980_24.1_John Lockwood Kipling and British Art Education in India.txt
+	0.5830828547477722	./txt_preprocessed\VPR\1980s\article\general\VPR_1989_22.1_A Directory of Welsh Periodicals.txt
+	0.5818125605583191	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_J G Lockhart and the Catholic Question.txt
+	0.5657488703727722	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_Some Additions to Phyllis B Bartlett's Edition of The Poems of George Meredith.txt
+	0.5414956212043762	./txt_preprocessed\VPR\1980s\article\general\VPR_1982_15.1_Wilkie Collins and The Leader.txt
+	0.4913845956325531	./txt_preprocessed\VPR\1980s\article\general\VPR_1989_22.1_The Simony Press.txt
+	0.4765990376472473	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_The Reader's Convenience.txt
+	0.4427246153354645	./txt_preprocessed\VS\1980s\article\general\VS_1989_32.2_Newman Peel Tamworth and the Concurrence of Historical Forces.txt
+	0.43592455983161926	./txt_preprocessed\VPR\1980s\article\general\VPR_1989_22.1_Letter to the Editor.txt
+	0.40165433287620544	./txt_preprocessed\VPR\1980s\article\general\VPR_1988_21.1_Andrew Lang's Causeries 1874-1912.txt
+Topic 4:
+	0.9997727870941162	./txt_preprocessed\VS\1980s\article\general\VS_1988_31.2_Matthew Arnold Bishop Joseph Butler and the Foundation of Religious Faith.txt
+	0.9928153157234192	./txt_preprocessed\VP\1980s\article\general\VP_1984_22.1_Arnold's Attempt to Tame a Shrew Called Passion.txt
+	0.9877821207046509	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_Love Strong as Death and Valour Strong as Love Swinburne and Courtly Love.txt
+	0.9523497223854065	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_Iseult of Brittany A New Interpretation of Matthew Arnold's Tristram and Iseult.txt
+	0.9070882797241211	./txt_preprocessed\VS\1980s\article\general\VS_1982_25.2_Samuel Butler and His Darwinian Critics.txt
+	0.7603240013122559	./txt_preprocessed\VP\1980s\article\general\VP_1985_23.1_The Argument of The Earthly Paradise.txt
+	0.5752948522567749	./txt_preprocessed\VP\1980s\article\general\VP_1985_23.1_Matthew Arnold's Concept of Nature A Synthesist's View.txt
+	0.5745599865913391	./txt_preprocessed\VP\1980s\article\general\VP_1982_20.1_Of the Devil's Party Undetected Words of Milton's Satan in Arnold's Dover Beach.txt
+	0.5572484731674194	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_Of Poets and of Rivers Five Letters of Matthew Arnold to George Stovin Venables.txt
+	0.5476399660110474	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_Sexual Polarities in The Defence of Guenevere.txt
+	0.5310879349708557	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_Carlyle and Wordsworth.txt
+	0.47320884466171265	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_George Eliot Other-Wise Marian Evans.txt
+	0.4664933979511261	./txt_preprocessed\VS\1980s\article\general\VS_1983_26.2_Carlyle and Peel The Prophet's Search for a Heroic Politician and an Unpublished Fragment.txt
+	0.453228622674942	./txt_preprocessed\VPR\1980s\article\general\VPR_1988_21.1_Politics and the Playing Field Sports and Statesmen in Punch 1880s to World War I.txt
+	0.4300094544887543	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_The Chancellor's Verse-Medal.txt
+	0.38124725222587585	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_The Greeks the Germans and George Eliot.txt
+	0.3371778130531311	./txt_preprocessed\VP\1980s\article\general\VP_1982_20.1_Arnold's Mycerinus The Fate of Pleasure.txt
+	0.3116993010044098	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_A Girl in the Bodleian Mary Ward's Room of Her Own.txt
+Topic 5:
+	0.9998234510421753	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_John Stuart Mill on the Utility of Classical Greece.txt
+	0.9996216297149658	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_Antiquity in Victorian Contexts.txt
+	0.9930914640426636	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_Logical Writing in the Education of John Stuart Mill The Autobiography and the Privileging of Reason.txt
+	0.9774512648582458	./txt_preprocessed\VS\1980s\article\special\VS_1986_30.1_The Lost Chord.txt
+	0.8861768245697021	./txt_preprocessed\VS\1980s\article\special\VS_1986_30.1_Samuel Sebastian Wesley at Leeds A Victorian Church Musician Reflects on His Craft.txt
+	0.872943639755249	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_Thomas Arnold and the Mirror of History.txt
+	0.871079683303833	./txt_preprocessed\VS\1980s\article\special\VS_1986_30.1_The Rise of Popular Music Education in Nineteenth-Century England.txt
+	0.8693965077400208	./txt_preprocessed\VS\1980s\article\special\VS_1986_30.1_John Ruskin and Music.txt
+	0.764737606048584	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_The Language of Discovery William Whewell and George Eliot.txt
+	0.7517687678337097	./txt_preprocessed\VP\1980s\article\general\VP_1989_27.1_On the Study of Celtic Literature A Critical Reconsideration.txt
+	0.7365475296974182	./txt_preprocessed\VS\1980s\article\special\VS_1986_30.1_Heroines at the Piano Women and Music in Nineteenth-Century Fiction.txt
+	0.7278285622596741	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_Democratic Myths in Victorian Medievalism.txt
+	0.6410900354385376	./txt_preprocessed\VPR\1980s\article\general\VPR_1982_15.1_William Cobbett's Journalism for the Lower Orders.txt
+	0.5807605981826782	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_A Mill for Editing.txt
+	0.537466824054718	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_Matthew Arnold and the Crisis of Classicism An Introduction.txt
+	0.534664511680603	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_Victorianized Romans Images of Rome in Victorian Painting.txt
+	0.5173393487930298	./txt_preprocessed\VS\1980s\article\general\VS_1985_28.2_Food for the Body and Food for the Mind The Regulation of Freshwater Fisheries in the 1870s.txt
+	0.49888119101524353	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_Breaking out The English Assimilation of Continental Thought in Nineteenth-Century Rome.txt
+	0.4342713952064514	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_Novels Writers and Readers in 1850.txt
+	0.38531795144081116	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_The Concept of Working-Class Education in Industrial Investigative Reports of the Eighteen-Thirties.txt
+Topic 6:
+	0.9997417330741882	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_Robert Browning's The Other Half-Rome A Fancy-Fit or Not.txt
+	0.9997273087501526	./txt_preprocessed\VP\1980s\article\general\VP_1986_24.1_The Diamond Necklace and the Golden Ring Historical Imagination in Carlyle and Browning.txt
+	0.9996882677078247	./txt_preprocessed\VP\1980s\article\general\VP_1984_22.1_Pompilia and Pompilia.txt
+	0.9671469926834106	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_Carlyle and Jocelin of Brakelond A Chronicle Rechronicled.txt
+	0.9476436376571655	./txt_preprocessed\VP\1980s\article\general\VP_1984_22.1_Ripeness Is All Historical Perspective in Browning's Apollo and the Fates.txt
+	0.9333928227424622	./txt_preprocessed\VS\1980s\article\general\VS_1988_31.2_Walter Pater and Archaeology The Reconciliation with Earth.txt
+	0.9198099374771118	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Uproar in the Echo Browning's Vitalist Beginnings.txt
+	0.9101842045783997	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_The Metaphysics of Pornography in The Ring and the Book.txt
+	0.8980121612548828	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Epic and Anti-Epic in The Ring and the Book.txt
+	0.877566933631897	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_Some Victorian Perceptions of Greek Tragedy.txt
+	0.8368807435035706	./txt_preprocessed\VS\1980s\article\general\VS_1985_28.2_Wilde's Decadence and the Positivist Tradition.txt
+	0.8172851800918579	./txt_preprocessed\VS\1980s\article\general\VS_1982_25.2_Browning and the Primitive.txt
+	0.7857787013053894	./txt_preprocessed\VLC\1980s\article\general\VLC_1986_14.1_Gods of the Lower World Romantic Egoists and Carlylean Heroes.txt
+	0.7743759751319885	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_Multiple Narratives & Relative Truths A Study of The Ring and the Book the Woman in White and The Mo.txt
+	0.7560617923736572	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_The Englishman in Italy Free Trade as a Principle of Aesthetics.txt
+	0.7438305616378784	./txt_preprocessed\VP\1980s\article\general\VP_1987_25.1_Consciousness as Writing Deconstruction and Reading Victorian Poetry.txt
+	0.7376840710639954	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_The Grammarian's Funeral and the Erotics of Grammar.txt
+	0.7056693434715271	./txt_preprocessed\VP\1980s\article\general\VP_1984_22.1_See You Browning Byron and the Revolutionary Deluge in Sordello Book 1.txt
+	0.6843331456184387	./txt_preprocessed\VP\1980s\article\general\VP_1987_25.1_Browning's Caponsacchi Stuck in the Gap.txt
+	0.6801757216453552	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_The Androgynous Body in Pater's Winckelmann.txt
+	0.6789041757583618	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_The Pre-Raphaelites and the Mood of the Cloister.txt
+	0.64298415184021	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_The Ring and the Scholars.txt
+	0.6192374229431152	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_Browning's The Ring and the Book A Novel Country.txt
+	0.5399243831634521	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Robert Browning's Poetics of Appropriation.txt
+	0.524738609790802	./txt_preprocessed\VP\1980s\article\special\VP_1988_26.3_Writ of Habeas Corpus Bodies as Commodities in the Bab Ballads.txt
+	0.46896427869796753	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_John Everett Millais' Secret-Looking Garden Wall and the Courtship Barrier in Victorian Art.txt
+	0.4627665877342224	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_Victorian Medievalism Revival or Masquerade.txt
+	0.4465026557445526	./txt_preprocessed\VS\1980s\article\general\VS_1983_26.2_Tumult of Images Wilde Beardsley and Salome.txt
+	0.43354368209838867	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_Browning and Victorian Medievalism.txt
+	0.392891526222229	./txt_preprocessed\VPR\1980s\article\general\VPR_1983_16.1_Carlyle Lockhart & the Germanic Connection The Periodical Context of Carlyle's Early Criticism.txt
+	0.31743893027305603	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_Introduction.txt
+	0.28005778789520264	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_Emerson's Italian Journey.txt
+	0.23033709824085236	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_Order and Disorder in the Medieval Revival.txt
+Topic 7:
+	0.9997095465660095	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_The Social Construction of Public Locations.txt
+	0.9945204257965088	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_Introduction.txt
+	0.9753570556640625	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_The Geometry of the Modern City G W M Reynolds and The Mysteries of London.txt
+	0.954056441783905	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_From Fag to Monitor; Or Fighting to the Front Art and Power in Public School Memoirs.txt
+	0.931638777256012	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_Unbroken Patternes Gender Culture and Voice in The Egoist.txt
+	0.9241060614585876	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_The Average Victorian Constructing and Contesting Reality.txt
+	0.9205659031867981	./txt_preprocessed\VS\1980s\article\general\VS_1987_30.2_Darwin among the Critics.txt
+	0.9013179540634155	./txt_preprocessed\VPR\1980s\article\general\VPR_1986_19.1_Douglas Jerrold's Shilling Magazine.txt
+	0.8151146769523621	./txt_preprocessed\VPR\1980s\article\general\VPR_1988_21.1_The 'Philistine' and the New Art Critic J A Spender and D S Maccoll's Debate of 1893.txt
+	0.8114827275276184	./txt_preprocessed\VPR\1980s\article\general\VPR_1987_20.1_This Is My Theory Macaulay on Periodical Style.txt
+	0.7731755971908569	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_Schoolboy Latin and the Mid-Victorian Novelist A Study in Reader Competence.txt
+	0.7601736187934875	./txt_preprocessed\VPR\1980s\article\general\VPR_1981_14.1_Mrs Gaskell Anonymous Some Unidentified Items in Fraser's Magazine.txt
+	0.7251192927360535	./txt_preprocessed\VPR\1980s\article\general\VPR_1984_17.1-2_Alfred Russel Wallace and Leonainie A Hoax That Would Not Die.txt
+	0.691403329372406	./txt_preprocessed\VPR\1980s\article\general\VPR_1981_14.1_Trollope's Experiments with Anonymity.txt
+	0.6819465160369873	./txt_preprocessed\VS\1980s\article\general\VS_1987_30.2_Two Nations or One Disraeli's Allegorical Romance.txt
+	0.5694612264633179	./txt_preprocessed\VP\1980s\article\special\VP_1988_26.3_From Bon Gaultier to Fly Leaves Context and Canon in Victorian Parody.txt
+	0.5496119260787964	./txt_preprocessed\VP\1980s\article\general\VP_1985_23.1_E S Dallas Victorian Poetics in Transition.txt
+	0.5416272282600403	./txt_preprocessed\VS\1980s\article\general\VS_1988_31.2_The City as Theater From Georgian to Early Victorian London.txt
+	0.5232548713684082	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_Giovanni Ruffini and Doctor Antonio Italian and English Contributions to a Myth of Exile.txt
+	0.5177435874938965	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_The Modernist Narrator on the Victorian Sailing Ship.txt
+	0.5061795711517334	./txt_preprocessed\VPR\1980s\article\general\VPR_1981_14.1_The New Review A Glimpse at the Nineties.txt
+	0.376780241727829	./txt_preprocessed\VPR\1980s\article\general\VPR_1986_19.1_Harriet Martineau Fraser's Maid of [Dis]Honour.txt
+Topic 8:
+	0.9997307658195496	./txt_preprocessed\VP\1980s\article\general\VP_1986_24.1_A Blessing and a Curse The Poetics of Privacy in Tennyson's The Lady of Shalott.txt
+	0.9996793270111084	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_Strategic Self-Centering and the Female Narrator Elizabeth Barrett Browning's Sonnets from the Portu.txt
+	0.9996753334999084	./txt_preprocessed\VP\1980s\article\general\VP_1989_27.1_Faultily Faultless The Structure of Tennyson's Maud.txt
+	0.9994162321090698	./txt_preprocessed\VP\1980s\article\general\VP_1981_19.1_The Structure of Browning's Pictor Ignotus.txt
+	0.9982722997665405	./txt_preprocessed\VLC\1980s\article\general\VLC_1986_14.1_Gender-to-Gender Anxiety and Influence in Robert Browning's Men and Women.txt
+	0.9912638664245605	./txt_preprocessed\VP\1980s\article\general\VP_1984_22.1_The Ancient and the Modern Sage Tennyson and Stevens.txt
+	0.9866986870765686	./txt_preprocessed\VP\1980s\article\general\VP_1982_20.1_Christina Rossetti's Religious Poetry Watching Looking Keeping Vigil.txt
+	0.9865148663520813	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Some Interchange of Grace Saul and Sonnets from the Portuguese.txt
+	0.9863775372505188	./txt_preprocessed\VP\1980s\article\general\VP_1981_19.1_The Puzzling Plainness of Break Break Break Its Deep and Surface Structure.txt
+	0.980728030204773	./txt_preprocessed\VP\1980s\article\general\VP_1981_19.1_Aurora Leigh The Vocation of the Woman Poet.txt
+	0.9765840172767639	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Revising Old Scripts The Fusion of Independence and Intimacy in Aurora Leigh.txt
+	0.9759191870689392	./txt_preprocessed\VP\1980s\article\general\VP_1983_21.1_Strange Comfort A Reading of Tennyson's Unpublished Juvenilia.txt
+	0.9739810824394226	./txt_preprocessed\VP\1980s\article\special\VP_1988_26.3_Fantasy Nonsense Parody and the Status of the Real The Example of Carroll.txt
+	0.9687420725822449	./txt_preprocessed\VP\1980s\article\general\VP_1983_21.1_Revising The House of Life A Look at Seven Unpublished Sonnets.txt
+	0.9509726166725159	./txt_preprocessed\VP\1980s\article\special\VP_1988_26.3_Edward Lear's Limericks and the Reversals of Nonsense.txt
+	0.9505577683448792	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_Maud Part III Maud's Battle-Song.txt
+	0.9460956454277039	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_Barrett Browning's Stories.txt
+	0.9363198280334473	./txt_preprocessed\VP\1980s\article\general\VP_1983_21.1_Browning's Childe Roland Apprentice for Night.txt
+	0.9276447296142578	./txt_preprocessed\VS\1980s\article\special\VS_1986_30.1_From Parlor to Concert Hall Arthur Somervell's Song-Cycle on Tennyson's Maud.txt
+	0.9202640652656555	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_Browning's Modernism The Infinite Moment as Epiphany.txt
+	0.9144067168235779	./txt_preprocessed\VP\1980s\article\general\VP_1983_21.1_The Self and Others in Browning's Men and Women.txt
+	0.8949779272079468	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_Natural Evolution in Dramatic Essences from Robert Browning to T S Eliot.txt
+	0.8873805403709412	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_Art's a Service Social Wound Sexual Politics and Aurora Leigh.txt
+	0.8769310712814331	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Speaker Listener and Overhearer The Reader in the Dramatic Poem.txt
+	0.8765769600868225	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Combating an Alien Tyranny Elizabeth Barrett Browning's Evolution as a Feminist Poet.txt
+	0.8732815980911255	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_Four Recent Books about Elizabeth Barrett Browning.txt
+	0.8708552122116089	./txt_preprocessed\VLC\1980s\article\general\VLC_1986_14.1_Honey-Mad Women Charlotte Brontë's Bilingual Heroines.txt
+	0.8628860712051392	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_Motherhood's Advent in Power Elizabeth Barrett Browning's Poems About Motherhood.txt
+	0.8543369174003601	./txt_preprocessed\VP\1980s\article\general\VP_1987_25.1_Gilbert and the Limerick.txt
+	0.8520013093948364	./txt_preprocessed\VP\1980s\article\special\VP_1988_26.3_Victorian Comic Verse; or Snakes in Greenland.txt
+	0.8436052203178406	./txt_preprocessed\VP\1980s\article\general\VP_1987_25.1_Wise Words and Wild Words The Problem of Language in Swinburne's Atalanta.txt
+	0.8106187582015991	./txt_preprocessed\VP\1980s\article\general\VP_1987_25.1_Questing for the Base of Being The Role of Epiphany in Prince Hohenstiel-Schwangau.txt
+	0.778476357460022	./txt_preprocessed\VP\1980s\article\general\VP_1981_19.1_Memory Landscape Love John Ruskin's Poetry and Poetic Criticism.txt
+	0.7684386968612671	./txt_preprocessed\VP\1980s\article\general\VP_1986_24.1_Realism versus Romance The War of Cultural Codes in Tennyson's Maud.txt
+	0.7649948596954346	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_The Editorial Problem in Clough's Adam and Eve.txt
+	0.7484126091003418	./txt_preprocessed\VP\1980s\article\general\VP_1986_24.1_Read the text right Textual Strategies in Bishop Blougram's Apology.txt
+	0.7423565983772278	./txt_preprocessed\VP\1980s\article\general\VP_1989_27.1_Matter-Moulded Forms of Speech.txt
+	0.7302935123443604	./txt_preprocessed\VP\1980s\article\general\VP_1989_27.1_The Vision Speaks Love in Elizabeth Barrett Browning's Lady Geraldine's Courtship.txt
+	0.7291714549064636	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_Browning and How He Worked in Good Temper A Study of the Revisions of Pacchiarotto.txt
+	0.7020710110664368	./txt_preprocessed\VP\1980s\article\general\VP_1982_20.1_Blunt's Esther The Making of a Sonnet Sequence.txt
+	0.6979333758354187	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Love among the Ruins.txt
+	0.6937664747238159	./txt_preprocessed\VLC\1980s\article\general\VLC_1980_8.1_Browning and Pre-Raphaelite Medievalism Educated versus Innocent Seeing.txt
+	0.6913689970970154	./txt_preprocessed\VP\1980s\article\general\VP_1982_20.1_Moments of Vision Hardy's Poems of 1912-13.txt
+	0.6904696226119995	./txt_preprocessed\VP\1980s\article\general\VP_1989_27.1_Christina Rossetti's From Sunset to Star Rise A New Reading.txt
+	0.6894455552101135	./txt_preprocessed\VP\1980s\article\general\VP_1981_19.1_Fugitive Articulation An Introduction to The Rubáiyát of Omar Khayyam.txt
+	0.6718800663948059	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Virtual and Ideal Readers of Browning's Pan and Luna The Drama in the Dramatic Idyl.txt
+	0.665190577507019	./txt_preprocessed\VP\1980s\article\special\VP_1988_26.3_Introduction.txt
+	0.6605440974235535	./txt_preprocessed\VP\1980s\article\general\VP_1986_24.1_Hail! Gladdening Light A Note on John Keble's Verse Translations.txt
+	0.650396466255188	./txt_preprocessed\VP\1980s\article\general\VP_1983_21.1_The Tall Nun in The Wreck of the Deutschland A Lioness in her Own Right.txt
+	0.6411263346672058	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Art Mortality and the Drama of Subjective Responses in A Toccata of Galuppi's.txt
+	0.626501202583313	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Browning's First Letter to Rossetti A Discovery.txt
+	0.6095365881919861	./txt_preprocessed\VP\1980s\article\general\VP_1985_23.1_Victorian Vision in Mississippi Tennysonian Resonances in Faulkner's Dark HouseLight in August.txt
+	0.6090114116668701	./txt_preprocessed\VP\1980s\article\general\VP_1987_25.1_The Thews of Anakim the Pulses of a Titan's Heart Growth and Responsibility in In Memoriam CIII.txt
+	0.5966530442237854	./txt_preprocessed\VP\1980s\article\general\VP_1986_24.1_Hopkins Brutus and Dante.txt
+	0.5773327350616455	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_The Inn Album Browning's Marginal Poem.txt
+	0.572551429271698	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_Ruskin's Italy.txt
+	0.5638391971588135	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_Hardy's Baffled Visionary A Reading of A Sign-Seeker.txt
+	0.5504636168479919	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_The Victorian Literary Kiss.txt
+	0.5397672653198242	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Art Artist and Audience in A Toccata of Galuppi's.txt
+	0.5327990055084229	./txt_preprocessed\VP\1980s\article\general\VP_1981_19.1_Say not we are on a Darkling Plain Clough's Rejoinder to dover Beach.txt
+	0.5232362151145935	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Fra Lippo Lippi Browning's Naughty Hierophant.txt
+	0.5207046270370483	./txt_preprocessed\VLC\1980s\article\general\VLC_1986_14.1_Chiarini's Retort to Zanella Browning's Italian Critics.txt
+	0.5138992071151733	./txt_preprocessed\VP\1980s\article\general\VP_1986_24.1_Hopkins' Spring and Fall and Modes of Knowing.txt
+	0.5089626312255859	./txt_preprocessed\VP\1980s\article\general\VP_1986_24.1_Hopkins' Sonnet No Worst There is None and the Storm Scenes in King Lear.txt
+	0.5057990550994873	./txt_preprocessed\VLC\1980s\article\general\VLC_1987_15.1_Browning's Dramatic Lyrics (1842).txt
+	0.4949166476726532	./txt_preprocessed\VLC\1980s\article\general\VLC_1982_10.1_The Shade of Homer Exorcises the Ghost of De Quincey Tennyson's The Lotos-Eaters.txt
+	0.4842253625392914	./txt_preprocessed\VP\1980s\article\special\VP_1988_26.3_Comedy as Commodity Thomas Hood's Poetry of Class Desire.txt
+	0.46309417486190796	./txt_preprocessed\VP\1980s\article\general\VP_1989_27.1_Passion and Companionship in Hardy's Poetry.txt
+	0.4628547430038452	./txt_preprocessed\VP\1980s\article\general\VP_1980_18.1_Armgart- George Eliot on the Woman Artist.txt
+	0.4448205530643463	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_Victorian Modernism The Arnold-Hardy Succession.txt
+	0.4329676926136017	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_The Glove and the Poets.txt
+	0.4152184724807739	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_Commented It Must Be Browning Annotating Browning.txt
+	0.3579331636428833	./txt_preprocessed\VPR\1980s\article\general\VPR_1987_20.1_The Structure of Morris's Tales for the Oxford and Cambridge Magazine.txt
+	0.32194992899894714	./txt_preprocessed\VLC\1980s\article\general\VLC_1983_11.1_Introduction.txt
+	0.27882611751556396	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_Imps Dames and Principal Boys Gender Confusion in the Nineteenth-Century Pantomime.txt
+Topic 9:
+	0.9999226927757263	./txt_preprocessed\VS\1980s\article\special\VS_1981_25.1_The Guises.txt
+	0.9832491278648376	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_Editing Hardy.txt
+	0.9731820821762085	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_A Strafford Manuscript in the Lord Chamberlain's Office Records.txt
+	0.7098872661590576	./txt_preprocessed\VP\1980s\article\general\VP_1985_23.1_James Thomson and T S Eliot.txt
+	0.694785475730896	./txt_preprocessed\VLC\1980s\article\general\VLC_1986_14.1_George's Hive and the Georgian Hinge.txt
+	0.6853315234184265	./txt_preprocessed\VLC\1980s\article\general\VLC_1984_12.1_Hawthorne Sophia and Hilda as Copyists Duplication and Transformation in The Marble Faun.txt
+	0.6819370985031128	./txt_preprocessed\VLC\1980s\article\general\VLC_1981_9.1_Editorial Problems Are Readers' Problems.txt
+	0.5632049441337585	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_Democracy and Popular Culture before Reform.txt
+	0.5563451051712036	./txt_preprocessed\VS\1980s\article\special\VS_1981_25.1_The Guises Thomas Carlyle's Lost Renaissance History.txt
+	0.5253422260284424	./txt_preprocessed\VLC\1980s\article\general\VLC_1985_13.1_Representing the Self Arnold and Brontë on Rachel.txt
+	0.4995223879814148	./txt_preprocessed\VLC\1980s\article\general\VLC_1988_16.1_Myth Exorcism and Maggie Tulliver.txt
+	0.44787734746932983	./txt_preprocessed\VP\1980s\article\general\VP_1984_22.1_Learning to Read The City.txt
+	0.31706830859184265	./txt_preprocessed\VLC\1980s\article\general\VLC_1989_17.1_Children's Reading and the Culture of Girlhood The Case of L T Meade.txt

@@ -1,0 +1,371 @@
+Topic 0:
+- dorrit: 0.027493450790643692
+- little: 0.02589217573404312
+- novel: 0.018204284831881523
+- dicken: 0.013753801584243774
+- quarantine: 0.008758537471294403
+- wade: 0.007007644511759281
+- nineteenth: 0.006428033113479614
+- arthur: 0.005396883003413677
+- world: 0.004806931596249342
+- literature: 0.004744118545204401
+- circumlocution: 0.004572402685880661
+- amy: 0.004349643364548683
+- life: 0.003956675063818693
+- dog: 0.0038964052218943834
+- moral: 0.0038411770947277546
+- character: 0.0038109603337943554
+- nothing: 0.00371951749548316
+- never: 0.003458913881331682
+- house: 0.003417111001908779
+- charles: 0.00329474825412035
+- might: 0.003218951402232051
+- call: 0.003150769043713808
+- writing: 0.003106137737631798
+- economic: 0.003075652988627553
+- something: 0.003065170254558325
+- liberalism: 0.003050880739465356
+- plot: 0.0029839572962373495
+- form: 0.0029561957344412804
+- individual: 0.0029495086055248976
+- victorian: 0.002932532224804163
+Topic 1:
+- poem: 0.009543891064822674
+- nineteenth: 0.00888143852353096
+- london: 0.008876042440533638
+- keats: 0.008443260565400124
+- form: 0.008231581188738346
+- print: 0.006155600305646658
+- path: 0.0055671813897788525
+- literature: 0.005214243661612272
+- chemical: 0.004987129010260105
+- art: 0.004545088857412338
+- poetry: 0.004415360279381275
+- uncertainty: 0.0043692453764379025
+- poetic: 0.00431282352656126
+- image: 0.004057639744132757
+- life: 0.00381681090220809
+- literary: 0.00378380692563951
+- maid: 0.0036384412087500095
+- change: 0.003571091452613473
+- letter: 0.0035406905226409435
+- word: 0.003367325756698847
+- book: 0.003362710354849696
+- aesthetic: 0.0033599240705370903
+- university: 0.003312167478725314
+- place: 0.003177684498950839
+- adaptation: 0.003087468445301056
+- process: 0.0030675299931317568
+- history: 0.0030509866774082184
+- political: 0.002956036478281021
+- culture: 0.0028548904228955507
+- poet: 0.002813647035509348
+Topic 2:
+- music: 0.02566162310540676
+- musical: 0.010635056532919407
+- nature: 0.00923442654311657
+- wilde: 0.008819298818707466
+- orchestra: 0.008288695476949215
+- nineteenth: 0.008198119699954987
+- love: 0.0075951311737298965
+- experience: 0.0071079484187066555
+- lady: 0.0064431061036884785
+- poetry: 0.005174444988369942
+- poem: 0.0050023323856294155
+- sound: 0.0049239168874919415
+- performance: 0.00484244292601943
+- art: 0.004629937000572681
+- sense: 0.004373567178845406
+- woman: 0.00430368771776557
+- poetic: 0.004297920968383551
+- body: 0.004276081454008818
+- human: 0.004105687141418457
+- concert: 0.004100074525922537
+- world: 0.0037134280428290367
+- metaphor: 0.0036147928331047297
+- form: 0.0035128402523696423
+- view: 0.0034412359818816185
+- university: 0.0033593953121453524
+- desire: 0.003227250650525093
+- london: 0.0030446492601186037
+- time: 0.0030320894438773394
+- play: 0.0028844657354056835
+- might: 0.002876429818570614
+Topic 3:
+- child: 0.011952593922615051
+- character: 0.011776228435337543
+- object: 0.010492735542356968
+- bird: 0.008950085379183292
+- gift: 0.008868386968970299
+- island: 0.008389763534069061
+- bottle: 0.007220906671136618
+- dicken: 0.00705166719853878
+- play: 0.006724806036800146
+- victorian: 0.006180605851113796
+- punch: 0.005773985758423805
+- louis: 0.0057104239240288734
+- little: 0.005704707931727171
+- exchange: 0.005048941355198622
+- person: 0.004622215870767832
+- literature: 0.004505580291152
+- letter: 0.004406695254147053
+- nineteenth: 0.004358876030892134
+- travel: 0.004268367774784565
+- man: 0.004210435785353184
+- thing: 0.004078846890479326
+- native: 0.0039211115799844265
+- novel: 0.003906416241079569
+- world: 0.003882839111611247
+- story: 0.0037584935780614614
+- south: 0.003740722080692649
+- return: 0.0037323113065212965
+- figure: 0.0036106251645833254
+- house: 0.003568881656974554
+- curiosity: 0.003457243787124753
+Topic 4:
+- novel: 0.012171964161098003
+- london: 0.009097681380808353
+- narrative: 0.009095397777855396
+- lucy: 0.008700848557054996
+- literary: 0.006780676543712616
+- literature: 0.006151922978460789
+- time: 0.006140791345387697
+- individual: 0.005948730744421482
+- autobiography: 0.0055167474783957005
+- american: 0.005468315910547972
+- wells: 0.005133340135216713
+- word: 0.005100111942738295
+- reader: 0.005097580142319202
+- history: 0.004968475550413132
+- life: 0.004329164046794176
+- englishnoun: 0.0042991335503757
+- book: 0.004218881484121084
+- race: 0.0038674348033964634
+- victorian: 0.00379237555898726
+- genre: 0.0037705982103943825
+- world: 0.003731017466634512
+- bronte: 0.0036952912341803312
+- secret: 0.0035436581820249557
+- west: 0.003515168558806181
+- modern: 0.003512768540531397
+- nineteenth: 0.0035088632721453905
+- paul: 0.003295100061222911
+- america: 0.0032820117194205523
+- form: 0.0032765332143753767
+- story: 0.0032412244472652674
+Topic 5:
+- history: 0.019626490771770477
+- smith: 0.012677938677370548
+- historical: 0.012321237474679947
+- book: 0.011278018355369568
+- historian: 0.009209541603922844
+- literary: 0.008370860479772091
+- nineteenth: 0.007911189459264278
+- past: 0.007073087617754936
+- child: 0.00686269998550415
+- newyork: 0.0062814452685415745
+- joseph: 0.006004615221172571
+- american: 0.00579132279381156
+- literature: 0.005512547213584185
+- time: 0.004998919554054737
+- text: 0.004709471482783556
+- spirit: 0.0046892957761883736
+- include: 0.004643350373953581
+- washington: 0.004612447693943977
+- davis: 0.004475108813494444
+- chronicle: 0.004382479004561901
+- university: 0.004380973521620035
+- present: 0.004151545464992523
+- ancient: 0.0040636248886585236
+- life: 0.004025397822260857
+- bible: 0.003974586259573698
+- account: 0.003928219433873892
+- writing: 0.0038962503895163536
+- record: 0.0038957390934228897
+- research: 0.0037087220698595047
+- infant: 0.003534929361194372
+Topic 6:
+- literary: 0.00953116174787283
+- place: 0.008587878197431564
+- landscape: 0.008523144759237766
+- lake: 0.007565263193100691
+- run: 0.0073409173637628555
+- human: 0.006766935344785452
+- waste: 0.005745912902057171
+- district: 0.005545385181903839
+- nineteenth: 0.00504561560228467
+- tourism: 0.00498967757448554
+- watson: 0.004965710919350386
+- history: 0.004776635207235813
+- tourist: 0.004699300043284893
+- cultural: 0.00462231133133173
+- site: 0.004369714763015509
+- time: 0.004339574836194515
+- land: 0.004228433594107628
+- wordsworth: 0.004215646535158157
+- power: 0.004199827555567026
+- moor: 0.004095989279448986
+- university: 0.004057371523231268
+- natural: 0.004040510859340429
+- region: 0.0039762710221111774
+- water: 0.003942757844924927
+- soil: 0.0039192321710288525
+- long: 0.0037907089572399855
+- property: 0.003763326443731785
+- author: 0.003747507929801941
+- ecology: 0.0035667428746819496
+- political: 0.0034625381231307983
+Topic 7:
+- bront: 0.01626487635076046
+- nineteenth: 0.014272307977080345
+- pandemic: 0.009316079318523407
+- victorian: 0.00809019710868597
+- time: 0.008081127889454365
+- life: 0.007283624727278948
+- university: 0.006268050987273455
+- year: 0.005381458438932896
+- world: 0.005298906471580267
+- travel: 0.005026465747505426
+- class: 0.0045994543470442295
+- author: 0.004522250033915043
+- journal: 0.004220605827867985
+- family: 0.004210656974464655
+- death: 0.0040753851644694805
+- country: 0.004015024751424789
+- museum: 0.00400056317448616
+- teach: 0.0039993529208004475
+- change: 0.003957874607294798
+- view: 0.003932671155780554
+- experience: 0.003917428199201822
+- charlotte: 0.003876799950376153
+- place: 0.0036806841380894184
+- home: 0.003529583802446723
+- day: 0.0034787289332598448
+- present: 0.0034731978084892035
+- feel: 0.0034499189350754023
+- live: 0.003325029509142041
+- art: 0.0033156569115817547
+- moment: 0.0032235304825007915
+Topic 8:
+- novel: 0.016003988683223724
+- climate: 0.011782162822782993
+- weather: 0.009279180318117142
+- british: 0.008486497215926647
+- life: 0.008235728368163109
+- victorian: 0.007257940247654915
+- long: 0.0061956364661455154
+- year: 0.005297394003719091
+- change: 0.0052235741168260574
+- london: 0.005027288105338812
+- colonial: 0.004648945294320583
+- might: 0.004571560770273209
+- narrative: 0.0045150276273489
+- regional: 0.004386636428534985
+- britain: 0.004381233360618353
+- settle: 0.00431186705827713
+- literature: 0.004059807863086462
+- class: 0.003932568710297346
+- experience: 0.0038085589185357094
+- nineteenth: 0.0037641706876456738
+- form: 0.003611587220802903
+- time: 0.0034611488226801157
+- system: 0.00340984296053648
+- dicken: 0.0032931764144450426
+- settler: 0.0032848098780959845
+- fiction: 0.003161970991641283
+- place: 0.003139318898320198
+- medical: 0.003026405582204461
+- illness: 0.0030059278942644596
+- colony: 0.0029784301295876503
+Topic 9:
+- social: 0.01942308619618416
+- austen: 0.01727120764553547
+- emma: 0.017145005986094475
+- everybody: 0.011843215674161911
+- sketch: 0.009283764287829399
+- type: 0.00875631719827652
+- nineteenth: 0.008413897827267647
+- literature: 0.008223206736147404
+- novel: 0.008054206147789955
+- care: 0.008011222817003727
+- jane: 0.007818251848220825
+- body: 0.005206406582146883
+- people: 0.005002791993319988
+- community: 0.004938556347042322
+- character: 0.004895757418125868
+- narrative: 0.00477951904758811
+- group: 0.004394087474793196
+- text: 0.004195371177047491
+- mrs: 0.004132310394197702
+- book: 0.003929946105927229
+- periodical: 0.0038620803970843554
+- need: 0.0038214712403714657
+- london: 0.0037967218086123466
+- life: 0.0036492820363491774
+- author: 0.0036456193774938583
+- might: 0.00359766511246562
+- les: 0.0035256342962384224
+- literary: 0.0034674436319619417
+- example: 0.0034325297456234694
+- form: 0.0032896376214921474
+Topic 0:
+	0.9997877478599548	./txt_preprocessed\NCL\2020s\article\special\NCL_2020_75.2_Little Maybe Less Little Dorrit’s Minimal Moralia.txt
+	0.9997217059135437	./txt_preprocessed\NCL\2020s\article\special\NCL_2020_75.2_Getting the Goods in Little Dorrit Quarantine’s Queer Logistics.txt
+	0.9997183680534363	./txt_preprocessed\NCL\2020s\article\special\NCL_2020_75.2_Writing Bureaucracy Bureaucratic Writing Charles Dickens Little Dorrit and Mid-Victorian Liberalism.txt
+Topic 1:
+	0.9997580647468567	./txt_preprocessed\NCL\2020s\article\general\NCL_2021_75.4_“The Very Music of the Name” Uncertainty as Aesthetic Principle in Keats’s Endymion.txt
+	0.9997501373291016	./txt_preprocessed\NCL\2020s\article\general\NCL_2023_77.4_Extreme Attachment Allan Cunningham’s “South Countree”.txt
+	0.9995453953742981	./txt_preprocessed\NCC\2020s\article\special\NCC_2022_44.5_Adaptation and layers of influence in Napoleonic silhouette-ghost prints.txt
+	0.6386258602142334	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Desire paths nineteenth-century studies ….txt
+	0.5975246429443359	./txt_preprocessed\NCC\2020s\article\special\NCC_2022_44.5_Chemical affinities photography extraction and industrial heritage in nineteenth-century northern En.txt
+Topic 2:
+	0.9997576475143433	./txt_preprocessed\NCL\2020s\article\general\NCL_2022_76.4_Love the Live Oak Sidney Lanier’s Ecopoetics and the Critique of Mediation.txt
+	0.9996278882026672	./txt_preprocessed\NCC\2020s\article\special\NCC_2023_45.1_“‘Ah bitter love!’ she sung” music and unobtainable erotic desires in Theophilus Marzials’s Love’s M.txt
+	0.999241292476654	./txt_preprocessed\NCC\2020s\article\special\NCC_2023_45.1_Introduction music and the senses.txt
+	0.988591730594635	./txt_preprocessed\NCC\2020s\article\special\NCC_2023_45.1_Ladies’ orchestras and music-as-performance in fin-de-siècle Britain.txt
+	0.9853458404541016	./txt_preprocessed\NCC\2020s\article\special\NCC_2023_45.1_The idea of music Oscar Wilde and the metaphysics of sound.txt
+	0.9270029067993164	./txt_preprocessed\NCC\2020s\article\special\NCC_2023_45.1_Jesse Shepard’s sensational musical séances psychical waves hypnotic timbres and the Spiritualist se.txt
+	0.7725589871406555	./txt_preprocessed\NCC\2020s\article\special\NCC_2023_45.1_“While he listened he looked” John Singer Sargent and orchestral imagery.txt
+	0.7618077993392944	./txt_preprocessed\NCC\2020s\article\special\NCC_2020_42.4_Necrobotany and the green burials of John Keats.txt
+Topic 3:
+	0.9997453689575195	./txt_preprocessed\PMLA\2020s\article\general\PMLA_2022_137.2_Possible Persons Dickensian Character Violent Play.txt
+	0.8981807231903076	./txt_preprocessed\NCL\2020s\article\general\NCL_2021_75.4_Wasted Gifts Robert Louis Stevenson in Oceania.txt
+	0.39565542340278625	./txt_preprocessed\NCL\2020s\article\general\NCL_2021_75.4_Bright Sunshine Dark Shadows Decadent Beauty and Victorian Views of Hawai‘i.txt
+Topic 4:
+	0.9996848106384277	./txt_preprocessed\NCL\2020s\article\general\NCL_2021_75.4_“A Handful of Loose Beads” Catholicism and the Fictional Autobiography in Charlotte Brontë’s Villett.txt
+	0.8561755418777466	./txt_preprocessed\PMLA\2020s\article\general\PMLA_2021_136.2_On Not Reading Writing or Listening to Poetry in a Pandemic A Critical Reflection.txt
+	0.8530781269073486	./txt_preprocessed\NCL\2020s\article\general\NCL_2022_76.4_Wooshing London Unsettling Acceleration in H G Wells’s Tono-Bungay.txt
+	0.7754172086715698	./txt_preprocessed\PMLA\2020s\article\general\PMLA_2022_137.5_After the West Conrad and Nabokov in Long-Wave Literary History.txt
+Topic 5:
+	0.9996251463890076	./txt_preprocessed\NCC\2020s\article\special\NCC_2022_44.5_“Neither should they be dimmed any more by time” the Book of Mormon the Bible and Joseph Smith’s pro.txt
+	0.9754488468170166	./txt_preprocessed\NCC\2020s\article\special\NCC_2022_44.5_Stratified heavens growing up in the Victorian afterlife.txt
+	0.8865412473678589	./txt_preprocessed\NCL\2020s\article\general\NCL_2023_77.4_Irving’s Literary Historiography.txt
+	0.6550199389457703	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Pandemic pedagogies digital writing health humanities and the rhetoric of trauma.txt
+	0.3366091847419739	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Immortal voices.txt
+Topic 6:
+	0.999666154384613	./txt_preprocessed\NCC\2020s\article\special\NCC_2022_44.5_The political ecology of slavery Edmund Ruffin and the simbi of South Carolina.txt
+	0.9996582865715027	./txt_preprocessed\NCC\2020s\article\special\NCC_2020_42.4_Authorial effects at work in the English Lakes the curious case of Tarn Hows.txt
+	0.9346613883972168	./txt_preprocessed\NCC\2020s\article\special\NCC_2020_42.4_Sightseeing the Anthropocene tourism moorland management and The Hound of the Baskervilles.txt
+	0.8192092180252075	./txt_preprocessed\NCC\2020s\article\special\NCC_2020_42.4_Nuclear ecology along the Coleridge Way.txt
+	0.7381772994995117	./txt_preprocessed\NCC\2020s\article\special\NCC_2020_42.4_Introduction placing the author in ecologies of literary tourism.txt
+	0.4712802767753601	./txt_preprocessed\NCC\2020s\article\special\NCC_2020_42.4_Afterword.txt
+	0.4339095950126648	./txt_preprocessed\NCC\2020s\article\special\NCC_2022_44.5_Nineteenth-century strata.txt
+Topic 7:
+	0.9994274973869324	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Zooming in epidemic pandemic endemic.txt
+	0.9991849660873413	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_My pandemic garden.txt
+	0.9223774075508118	./txt_preprocessed\NCC\2020s\article\special\NCC_2020_42.4_Windfarms at Wuthering Heights memory materiality and the sustainability of Brontëan ecologies.txt
+	0.7767256498336792	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Traveling from stillness and sharing while in lockdown.txt
+	0.6861212849617004	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Unprecedented attention.txt
+	0.626182496547699	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_My Victorian life critical reflections in the personal voice.txt
+	0.5790734887123108	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Excentrism.txt
+	0.5579274892807007	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_No professor is an island shipwrecked on the edge of the academic world.txt
+	0.5152536630630493	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Trusting the Victorians.txt
+Topic 8:
+	0.9997508525848389	./txt_preprocessed\PMLA\2020s\article\general\PMLA_2021_136.3_The Climates of the Victorian Novel Seasonality Weather and Regional Fiction in Britain and Australi.txt
+	0.8653699159622192	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_Florence Nightingale’s long COVID.txt
+	0.6087343692779541	./txt_preprocessed\NCL\2020s\article\special\NCL_2020_75.2_Settled Dorrit Down Under.txt
+Topic 9:
+	0.9997208714485168	./txt_preprocessed\NCL\2020s\article\general\NCL_2022_76.4_Sailors Book Hawkers and Bricklayer’s Laborers Social Types and the Production of Social Knowledge i.txt
+	0.9996907711029053	./txt_preprocessed\NCL\2020s\article\general\NCL_2021_75.4_“The Meaner & More Usual &c” Everybody in Emma.txt
+	0.6983432769775391	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_The double-edged sword academic pacing in a pandemic.txt
+	0.6081485152244568	./txt_preprocessed\NCC\2020s\article\special\NCC_2021_43.5_The precariousness of human life Jane Austen pandemic and the coping mechanisms of nineteenth-centur.txt

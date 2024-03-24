@@ -1,0 +1,496 @@
+Topic 0:
+- periodical: 0.007836570963263512
+- bridge: 0.006812409032136202
+- reader: 0.0061410097405314445
+- shakespeare: 0.005315584596246481
+- lee: 0.005185593385249376
+- form: 0.004964733496308327
+- victorian: 0.0049551366828382015
+- book: 0.004910334479063749
+- romola: 0.004507021047174931
+- sympathy: 0.00441054766997695
+- carlyle: 0.004388604313135147
+- london: 0.0041122897528111935
+- figure: 0.0040322113782167435
+- serial: 0.0040060910396277905
+- eliot: 0.00398383429273963
+- leighton: 0.003862867597490549
+- hardy: 0.0038291504606604576
+- sigh: 0.00381964398548007
+- time: 0.003808777779340744
+- illustration: 0.0036483616568148136
+- university: 0.0036434531211853027
+- morris: 0.0036247523967176676
+- national: 0.0033066454343497753
+- letter: 0.0031550892163068056
+- text: 0.0027038126718252897
+- society: 0.0026476180646568537
+- life: 0.002626997884362936
+- spencer: 0.002565357368439436
+- essay: 0.002544010290876031
+- dialogue: 0.0024761317763477564
+Topic 1:
+- woman: 0.009474472142755985
+- periodical: 0.007460963912308216
+- british: 0.00649353489279747
+- victorian: 0.006337917875498533
+- monument: 0.005834734067320824
+- jewish: 0.005831841379404068
+- nineteenth: 0.005582290701568127
+- london: 0.005141931120306253
+- figure: 0.004607267212122679
+- paul: 0.004594315309077501
+- university: 0.004507655743509531
+- number: 0.004501300398260355
+- journal: 0.004471688065677881
+- gordon: 0.004345994908362627
+- book: 0.004169340245425701
+- edit: 0.003721855115145445
+- history: 0.0036604690831154585
+- cathedral: 0.0034221140667796135
+- child: 0.0031375435646623373
+- culture: 0.0030207927338778973
+- magazine: 0.0029025664553046227
+- indian: 0.0027670294512063265
+- englishnoun: 0.00268195359967649
+- life: 0.002668415429070592
+- empire: 0.002646805252879858
+- fiction: 0.0025909419637173414
+- include: 0.0025609792210161686
+- law: 0.002436974784359336
+- britain: 0.002424243139103055
+- atkinson: 0.002341357758268714
+Topic 2:
+- victorian: 0.010818597860634327
+- university: 0.005577864591032267
+- nineteenth: 0.004367054905742407
+- literary: 0.004255952313542366
+- woman: 0.004238822963088751
+- literature: 0.0042051514610648155
+- history: 0.003964749630540609
+- american: 0.0038678008131682873
+- form: 0.0038124893326312304
+- irish: 0.0037412228994071484
+- text: 0.003572641871869564
+- read: 0.003572537563741207
+- eliot: 0.0034205710981041193
+- digital: 0.0033923285081982613
+- essay: 0.003245224943384528
+- culture: 0.0032368870452046394
+- british: 0.0032147474121302366
+- college: 0.002990900771692395
+- time: 0.002764657372608781
+- novel: 0.0027284380048513412
+- author: 0.002693889196962118
+- indigenous: 0.002596251666545868
+- archive: 0.0025627503637224436
+- field: 0.002487527672201395
+- joke: 0.0024821890983730555
+- world: 0.0024708497803658247
+- scholar: 0.00245811534114182
+- place: 0.002447216771543026
+- life: 0.002417747164145112
+- race: 0.0024158561136573553
+Topic 3:
+- woman: 0.00853501446545124
+- paris: 0.007275708951056004
+- poetry: 0.007077788934111595
+- london: 0.0065260338596999645
+- cholera: 0.00606783851981163
+- guidebook: 0.005729281343519688
+- cotton: 0.005536109209060669
+- victorian: 0.005513288546353579
+- figure: 0.005080125760287046
+- indian: 0.00490102544426918
+- time: 0.004662679973989725
+- travel: 0.00443603191524744
+- famine: 0.004194570705294609
+- marshall: 0.004127057734876871
+- poem: 0.0034922186750918627
+- form: 0.0034851848613470793
+- william: 0.0034468171652406454
+- lancashire: 0.0033440773840993643
+- calder: 0.0033010828774422407
+- city: 0.003065776778385043
+- relief: 0.0030259783379733562
+- guide: 0.0030090438667684793
+- traveller: 0.0029145146254450083
+- british: 0.0028470391407608986
+- report: 0.0027882112190127373
+- india: 0.002758319955319166
+- lady: 0.0027208959218114614
+- labor: 0.002654020907357335
+- man: 0.002649459056556225
+- hand: 0.0026139861438423395
+Topic 4:
+- magazine: 0.01143641211092472
+- woman: 0.00937496405094862
+- map: 0.008126062341034412
+- periodical: 0.007025767117738724
+- news: 0.00699163181707263
+- image: 0.006536491680890322
+- political: 0.006197559647262096
+- london: 0.0055881706066429615
+- newspaper: 0.00535807479172945
+- victorian: 0.00481135630980134
+- union: 0.0046686818823218346
+- disraeli: 0.004594938829541206
+- reader: 0.004129168577492237
+- figure: 0.004104341380298138
+- print: 0.003988788928836584
+- british: 0.003977680578827858
+- time: 0.003640382084995508
+- illustrated: 0.0036185949575155973
+- public: 0.003541486570611596
+- editorial: 0.0033232432324439287
+- illustration: 0.0032940348610281944
+- university: 0.0032571707852184772
+- issue: 0.0032437401823699474
+- national: 0.003080146387219429
+- people: 0.0029833049047738314
+- journal: 0.0029670200310647488
+- illustrate: 0.0029643941670656204
+- meeting: 0.0029397604521363974
+- asylum: 0.0028989610727876425
+- history: 0.002712000161409378
+Topic 5:
+- poem: 0.015172210521996021
+- poetry: 0.008858767338097095
+- hopkin: 0.006095879711210728
+- victorian: 0.0058817374520003796
+- brown: 0.0043163001537323
+- swinburne: 0.004129941109567881
+- form: 0.0040674349293112755
+- love: 0.003610693383961916
+- ebb: 0.0035293723922222853
+- poet: 0.0034912440460175276
+- question: 0.003365802112966776
+- rossetti: 0.003133706981316209
+- word: 0.003109939629212022
+- poetic: 0.003024556441232562
+- child: 0.0029619636479765177
+- sonnet: 0.00293527077883482
+- light: 0.002859614323824644
+- time: 0.0028576969634741545
+- verse: 0.002751979511231184
+- man: 0.002581237116828561
+- life: 0.0024720248766243458
+- world: 0.0024497080594301224
+- london: 0.0024490677751600742
+- image: 0.0024067198392003775
+- nature: 0.0023738862946629524
+- book: 0.002345537068322301
+- oxford: 0.0021678698249161243
+- barrett: 0.0021004958543926477
+- might: 0.002089158399030566
+- illustration: 0.0020684730261564255
+Topic 6:
+- music: 0.009555741213262081
+- victorian: 0.0075055500492453575
+- london: 0.006231165491044521
+- house: 0.004756452981382608
+- british: 0.004621701780706644
+- university: 0.004577701911330223
+- culture: 0.004362933803349733
+- nineteenth: 0.00429689371958375
+- manchester: 0.004071741830557585
+- african: 0.0040057054720819
+- class: 0.003857734613120556
+- musical: 0.00382236042059958
+- history: 0.003647170728072524
+- text: 0.0036206375807523727
+- des: 0.003328956663608551
+- time: 0.0033259387128055096
+- queer: 0.0031415626872330904
+- britain: 0.0030811496544629335
+- race: 0.0029832888394594193
+- murder: 0.002928519854322076
+- man: 0.0027313032187521458
+- object: 0.0027205566875636578
+- society: 0.002598969265818596
+- body: 0.0024104458279907703
+- slavery: 0.0024020825512707233
+- gratitude: 0.002360946498811245
+- life: 0.0023380101192742586
+- concert: 0.002333960961550474
+- desire: 0.002273033605888486
+- people: 0.0022276928648352623
+Topic 7:
+- woman: 0.01405719667673111
+- child: 0.01133449375629425
+- reader: 0.011248284950852394
+- novel: 0.005039622541517019
+- goblin: 0.004609071183949709
+- victorian: 0.004423355683684349
+- christmas: 0.004248224664479494
+- observer: 0.003949466627091169
+- murray: 0.003789191599935293
+- rossetti: 0.0036208853125572205
+- story: 0.003531625960022211
+- book: 0.0035294301342219114
+- food: 0.0035023102536797523
+- class: 0.003452218836173415
+- sister: 0.0033660202752798796
+- london: 0.0033221847843378782
+- handbook: 0.003184364642947912
+- life: 0.0031717251986265182
+- dicken: 0.003163589397445321
+- literature: 0.0031412458047270775
+- plot: 0.0031294813379645348
+- beth: 0.003100607544183731
+- market: 0.0030296246986836195
+- childhood: 0.0029644444584846497
+- periodical: 0.0028956979513168335
+- ibid: 0.002890039002522826
+- girl: 0.00271146884188056
+- literary: 0.002667402382940054
+- character: 0.0026645089965313673
+- mystery: 0.0026162611320614815
+Topic 8:
+- war: 0.014023085124790668
+- christian: 0.006100777070969343
+- death: 0.00544665427878499
+- victorian: 0.004970087669789791
+- british: 0.00456234160810709
+- crimean: 0.004357592668384314
+- man: 0.004291629418730736
+- life: 0.003944189753383398
+- national: 0.0038223746232688427
+- london: 0.00375121901743114
+- stephen: 0.0037419376894831657
+- christianity: 0.0037172199226915836
+- cameron: 0.0036837810184806585
+- peace: 0.0036797712091356516
+- religious: 0.0034049099776893854
+- vicar: 0.0031626068521291018
+- history: 0.0031528871040791273
+- woman: 0.0030296137556433678
+- soldier: 0.002921460894867778
+- captain: 0.0028762964066118
+- wreck: 0.002848284086212516
+- hardy: 0.002791391685605049
+- family: 0.002737421775236726
+- university: 0.002736208960413933
+- time: 0.0027006801683455706
+- australia: 0.0026577296666800976
+- colonial: 0.0025689713656902313
+- society: 0.002540003042668104
+- britain: 0.0025130356661975384
+- biography: 0.002512093633413315
+Topic 9:
+- novel: 0.008178201504051685
+- human: 0.006548730190843344
+- form: 0.006142631638795137
+- university: 0.005624029785394669
+- life: 0.005611552856862545
+- victorian: 0.005424222443252802
+- world: 0.005082034971565008
+- ecology: 0.004866715520620346
+- ecological: 0.004626124165952206
+- nature: 0.003756006481125951
+- plant: 0.003638891037553549
+- nineteenth: 0.0035868568811565638
+- history: 0.0035379985347390175
+- social: 0.00343568017706275
+- relation: 0.00312060141004622
+- system: 0.0030156883876770735
+- natural: 0.002990678185597062
+- oil: 0.002748451428487897
+- time: 0.002746850484982133
+- open: 0.002734861569479108
+- literature: 0.0027258663903921843
+- animal: 0.002687809057533741
+- body: 0.00259383930824697
+- london: 0.002565487055107951
+- theory: 0.002549515338614583
+- eliot: 0.0025018732994794846
+- narrative: 0.0024633442517369986
+- darwin: 0.0023540572728961706
+- culture: 0.002234793733805418
+- coal: 0.0022142399102449417
+Topic 0:
+	0.9997836947441101	./txt_preprocessed\VLC\2020s\article\general\VLC_2022_50.1_Vernon Lee Slow Serialist and Journalist at the Fin de Siècle.txt
+	0.9997757077217102	./txt_preprocessed\VPR\2020s\article\general\VPR_2021_54.1_Romola's stifling crowded life Urban Claustrophobia in George Eliot and Frederic Leighton's Cornhill.txt
+	0.9856621623039246	./txt_preprocessed\JVC\2020s\article\digital\JVC_2023_27.1_Pearson-WilliamMorrisNewsfromNowhere.txt
+	0.9612504243850708	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.3_Dialogic Forms in Freethought Periodicals Free Discussion and Open Debate.txt
+	0.9447721838951111	./txt_preprocessed\VPR\2020s\article\general\VPR_2020_53.1_The Luciferian Public Sphere Theosophy and Editorial Seekership in the 1880s.txt
+	0.903501570224762	./txt_preprocessed\VLC\2020s\article\general\VLC_2022_50.1_“A Sigh of Sympathy” Thomas Hardy's Paralinguistic Aesthetics and Evolutionary Sympathy.txt
+	0.8550422787666321	./txt_preprocessed\VLC\2020s\article\general\VLC_2022_50.1_The French Revolution Now; or Carlyle's Eternal Return.txt
+	0.7446262836456299	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Poland-CommemorativePrint-2021.txt
+	0.4463994801044464	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Monks-AVishnuComeLately-2023.txt
+	0.37784233689308167	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.1_New Work on British-Indian Periodicals.txt
+	0.3733873963356018	./txt_preprocessed\VPR\2020s\article\general\VPR_2020_53.1_Rosemary VanArsdel 1926–2019.txt
+Topic 1:
+	0.9995166063308716	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_A Touch of Empire Joseph E Boehm’s Monument to Charles George Gordon (c 1887–1889).txt
+	0.9995166063308716	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Manica-ATouchofEmpire-2023.txt
+	0.8511864542961121	./txt_preprocessed\VPR\2020s\article\general\VPR_2020_53.1_RSVP Bibliography 2015–17.txt
+	0.8414106369018555	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Hinks-DetectiveFictions-2022.txt
+	0.8265202045440674	./txt_preprocessed\VPR\2020s\article\general\VPR_2021_54.1_Charlotte Montefiore Marion Hartog and Jewish Women's Periodical Publishing.txt
+	0.761354386806488	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.1_Feminist Networks Connecting Dublin and London Sarah Atkinson Bessie Rayner Parkes and the Power of .txt
+	0.7570643424987793	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Nichols-SculptureandFaithinManyWorlds-2023.txt
+	0.6781404614448547	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Masculinity and Vulnerability Frederick William Pomeroy’s Memorial to Archbishop Frederick Temple (1.txt
+	0.6550964117050171	./txt_preprocessed\VLC\2020s\article\special\VLC_2021_49.1_The Ontological Work of Genre and Place Wuthering Heights and the Case of the Occulted Landscape.txt
+	0.6192129850387573	./txt_preprocessed\VS\2020s\article\special\VS_2022_65.1_BESS Friends Mid-Range Reading Race Ethnicity and Empire in Women Novelists of Queen Victoria’s Reig.txt
+	0.6134504079818726	./txt_preprocessed\VP\2020s\article\general\VP_2022_60.1_“Clutch[ing] Gold” Wives Mothers and Property Law in The Ring and the Book.txt
+	0.578132688999176	./txt_preprocessed\VS\2020s\article\special\VS_2022_65.1_A Mid-Range Team of Rivals Women Novelists in the Collective Biographies of Women Database.txt
+	0.5712443590164185	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Sullivan-LightandDevotion-2023.txt
+	0.5669810175895691	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Edwards-WilliamCalderMarshall-2023.txt
+	0.49794626235961914	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Howarth-SculptureandFaith-2023.txt
+	0.4836291968822479	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Contesting Hymnody in the Victorian Church Henry Pegram’s Monument to John Stainer (1901–1903).txt
+	0.4835836589336395	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Bodies of Ornament Henry Harris Brown and James Powell & Sons Monument to Bishop Mandell Creighton a.txt
+	0.46536675095558167	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Giebelhausen-SculptureandFaith-2023.txt
+	0.43843498826026917	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Whyte-An_Episcopal_Puzzle-2023.txt
+	0.3894367516040802	./txt_preprocessed\VS\2020s\article\special\VS_2022_65.1_Mornington Crescent A Miniature Portrait.txt
+	0.3488776683807373	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Gilroy-Ware-CarvingDestruction-2023.txt
+	0.27951064705848694	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.3_Kamala Satthianadhan and the Indian Ladies' Magazine Women's Editorship and Transnational Print Netw.txt
+Topic 2:
+	0.9997549057006836	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Ethnic Jokes Mocking the Working Irish Woman Winning Essay Journal of Victorian Culture Graduate Ess.txt
+	0.9997549057006836	./txt_preprocessed\JVC\2020s\article\special\JVC_2022_27.1_Ethnic Jokes Mocking the Working Irish Woman Winning Essay Journal of Victorian Culture Graduate Ess.txt
+	0.9994910955429077	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_University Work Re-Forming Manuscripts in Elizabeth Jesser Reid’s Correspondence Networks.txt
+	0.9994910955429077	./txt_preprocessed\JVC\2020s\article\special\JVC_2022_27.1_University Work Re-Forming Manuscripts in Elizabeth Jesser Reid’s Correspondence Networks.txt
+	0.9994643330574036	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Introduction Study Struggle and the Critical Work of Teaching.txt
+	0.9990032315254211	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Sara Ahmed's Politics of Citation and Student Scholarship Uncovering Indigenous Coauthors of British.txt
+	0.9865118861198425	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Seeing Whiteness in the Nineteenth Century and Beyond.txt
+	0.9732311367988586	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Normalizing Vision The Representation and Use of Spectacles and Eyeglasses in Victorian Britain.txt
+	0.9697492718696594	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Re-forming the Transnational Victorian Archive Introduction.txt
+	0.9697490930557251	./txt_preprocessed\JVC\2020s\article\special\JVC_2022_27.1_Re-forming the Transnational Victorian Archive Introduction.txt
+	0.9697476625442505	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_McGettigan_etc-DigitalForumRe-formingtheTransnationalVA-2022.txt
+	0.9648991227149963	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Practicing Validation in the Victorian Studies Classroom Academic Advising and Holistic Pedagogy.txt
+	0.9540684819221497	./txt_preprocessed\VS\2020s\article\special\VS_2020_62.3_The Stories Outside the African Farm Indigeneity Orality and Unsettling the Victorian.txt
+	0.9432822465896606	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Victorians in Location Introduction.txt
+	0.8785274028778076	./txt_preprocessed\VS\2020s\article\general\VS_2021_63.2_Reading George Eliot with Victorian College Students.txt
+	0.8562610745429993	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Undisciplining Victorianists Or Put Your Money Where Your Mouth Is.txt
+	0.8535643815994263	./txt_preprocessed\JVC\2020s\article\general\JVC_2020_25.4_Olive Schreiner Marie Corelli and the Anxieties of Female Authorship.txt
+	0.8522191643714905	./txt_preprocessed\VS\2020s\article\special\VS_2020_62.3_Reading in the Aftermath An Asian American Jane Eyre.txt
+	0.8484621644020081	./txt_preprocessed\VLC\2020s\article\special\VLC_2021_49.1_Introduction Widening the Nineteenth Century.txt
+	0.8393107056617737	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Victorian Humanity in Colonial Korea Where Asians Did Not See Themselves as the Other.txt
+	0.8333756923675537	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_How Toni Morrison Helps My High School Students Understand Dickens.txt
+	0.8005744814872742	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Undisciplining Nineteenth-Century Literary Studies at the University of Guyana and Centering Represe.txt
+	0.7802430987358093	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Radical Changes Decolonizing not just Diversifying Digital Crime Archives.txt
+	0.7802426815032959	./txt_preprocessed\JVC\2020s\article\special\JVC_2022_27.1_Radical Changes Decolonizing not just Diversifying Digital Crime Archives.txt
+	0.7769343256950378	./txt_preprocessed\VS\2020s\article\special\VS_2020_62.3_Introduction Undisciplining Victorian Studies.txt
+	0.7498000264167786	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Exhuming M Paul Carmen Maria Machado and Creating Space for Pedagogical Discomfort.txt
+	0.7466261982917786	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Strangers in the Discipline What Victorian Literature Says to Students of Color.txt
+	0.7384234070777893	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Multiplicities of English and the Specter of Colonialism in the Composition Classroom.txt
+	0.7027968168258667	./txt_preprocessed\VS\2020s\article\special\VS_2022_65.1_Catching the Invisible Translating Women Novelists of Queen Victoria’s Reign A Book of Appreciations.txt
+	0.6978837847709656	./txt_preprocessed\VLC\2020s\article\special\VLC_2021_49.1_From Reading to Rio Oscar Wilde in Brazil.txt
+	0.6864529848098755	./txt_preprocessed\VLC\2020s\article\special\VLC_2021_49.1_Toward a Multilingual Victorian Transatlanticism.txt
+	0.6583150625228882	./txt_preprocessed\VS\2020s\article\special\VS_2020_62.3_Orientalism Redux.txt
+	0.6365082859992981	./txt_preprocessed\VLC\2020s\article\special\VLC_2021_49.1_Wide Angle Eadweard Muybridge the Pacific Coast and Trans-Indigenous Representation.txt
+	0.6285896301269531	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Eclectic Collaborations in Anna Tsing's Friction and the Victorian Ecologies Classroom.txt
+	0.5961798429489136	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Victorian Faddishness The Dolly Varden from Dickens to Patience.txt
+	0.5910511016845703	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Victorians in Dislocation Migration and Fugitive Place.txt
+	0.5844756960868835	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_‘This spasm upon canvas’ George Eliot Gustave Courbet and Realist Aesthetics.txt
+	0.5498324036598206	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Reflections on the Victorian(ist) Impulse to Totalize Africa.txt
+	0.5365435481071472	./txt_preprocessed\VS\2020s\article\special\VS_2022_65.1_Inventing Feminist Victorianist Criticism.txt
+	0.5053278803825378	./txt_preprocessed\JVC\2020s\article\general\JVC_2020_25.4_Life on Mars Hélène Smith Clairvoyance and Occult Media.txt
+	0.46727773547172546	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Chronotopic Cartography Mapping Literary Time-Space.txt
+	0.38034263253211975	./txt_preprocessed\VS\2020s\article\special\VS_2022_65.1_Sanctified Sinophobia Christian Nationalism and M P Shiel’s The Yellow Danger.txt
+	0.3301169276237488	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Triangulating Translation Why Place Matters in Interlingual Encounters.txt
+Topic 3:
+	0.9997526407241821	./txt_preprocessed\JVC\2020s\article\general\JVC_2020_25.4_‘Epidemics in a Mist’ Medical Climatology and Cholera in Victorian Visual Culture.txt
+	0.9993224143981934	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_A Personal Response to a Public Commission William Calder Marshall’s Gospel of St Matthew Panel at S.txt
+	0.9993224143981934	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Coughlan-APersonalResponse-2023.txt
+	0.984525203704834	./txt_preprocessed\JVC\2020s\article\special\JVC_2022_27.1_[Re-]forming Cotton Famine Poetry – Some Implications.txt
+	0.9845125079154968	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_[Re-]forming Cotton Famine Poetry – Some Implications.txt
+	0.9171355962753296	./txt_preprocessed\VP\2020s\article\general\VP_2022_60.1_Writing for Relief Poetry Labor and the Lancashire Cotton Famine (1861–1865).txt
+	0.8846728801727295	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_‘A man greatly beloved’ and Immortalized in opus sectile Powell & Sons Monument to Robert Claudius B.txt
+	0.8744025230407715	./txt_preprocessed\JVC\2020s\article\general\JVC_2020_25.4_A Paris of Their Own Guidebooks for Anglo-American Female Travellers and the Rewriting of Mainstream.txt
+	0.5082165002822876	./txt_preprocessed\JVC\2020s\article\special\JVC_2023_28.1_Edwards-WilliamCalderMarshall'sImperial-2023.txt
+	0.43661221861839294	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_Thunders of White Silence Racialized Ways of Seeing and Hiram Powers' Greek Slave.txt
+Topic 4:
+	0.9997801184654236	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.1_Eliza Orme and the Women's Gazette and Weekly News Editing the Organ of a Fractious Federation 1888–.txt
+	0.9997739195823669	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.3_Popular Assembly and Political Subjectivity in the European Illustrated Press of the 1840s.txt
+	0.9996863603591919	./txt_preprocessed\VPR\2020s\article\general\VPR_2020_53.1_Drawing Species Lines Sensation and Empathy in Illustrations of Vivisection in the Illustrated Polic.txt
+	0.9602258205413818	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Mapping Victorian Homes and Haunts A Methodological Introduction.txt
+	0.9590876698493958	./txt_preprocessed\VPR\2020s\article\general\VPR_2021_54.1_Keeping the Light Shining The National Asylum Workers' Union Magazine and the Print Culture of Briti.txt
+	0.926883339881897	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Maps of a Nation The Digitized Ordnance Survey for New Historical Research.txt
+	0.8987421989440918	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.3_The Poet as Fundraiser Writing Catchpenny Verse at Times of Military Crisis in the Nineteenth Centur.txt
+	0.7138335704803467	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Digital Maps and Mapping in Victorian Studies.txt
+	0.6650623083114624	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Romanticism on the Right Benjamin Disraeli's Authoritarian Aesthetics.txt
+	0.3597138822078705	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.3_The Victorian Periodical Press Samplings and Soundings Forty Years On.txt
+Topic 5:
+	0.999794602394104	./txt_preprocessed\VP\2020s\article\general\VP_2021_59.1_I Sappho A Case for Character in the Early Writings of Algernon Swinburne.txt
+	0.9997463226318359	./txt_preprocessed\VP\2020s\article\general\VP_2022_60.1_Christina Rossetti’s Questions Riddles Catechisms and Mystery.txt
+	0.9997346997261047	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_A larger vision William Blake Phoebe Anna Traquair and the Visual Imagination in EBB's Sonnets from .txt
+	0.9995417594909668	./txt_preprocessed\VP\2020s\article\general\VP_2020_58.1_By there comes a listless stranger Gerard Manley Hopkins's Epithalamion as a Poem of Queer (Non)perf.txt
+	0.9984281063079834	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_Christina Rossetti's Sing-Song Three Illustrators Three Readings of Image and Text.txt
+	0.9961632490158081	./txt_preprocessed\VP\2020s\article\general\VP_2020_58.1_Gems by the Thousands Hoarding Poetry in the Late Nineteenth Century.txt
+	0.9741884469985962	./txt_preprocessed\VP\2020s\article\general\VP_2021_59.1_FaithfulIn My Fashion[ing] Shades of Association in Ernest Dowson's Poetry.txt
+	0.9569576382637024	./txt_preprocessed\VP\2020s\article\general\VP_2020_58.1_Percy Shelley James Russell Lowell and the Promethean Aesthetics of EBB's The Runaway Slave at Pilgr.txt
+	0.9542733430862427	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_Verse Arabesque.txt
+	0.935049831867218	./txt_preprocessed\VP\2020s\article\general\VP_2020_58.1_Dante-on-Steroids English Terza and Elizabeth Barrett Browning's Casa Guidi Windows.txt
+	0.9082033634185791	./txt_preprocessed\VP\2020s\article\general\VP_2021_59.1_Walking Sideways into Paradise Desire and Degeneration in Lord Alfred Douglas's Animal Nonsense.txt
+	0.8391091823577881	./txt_preprocessed\VP\2020s\article\general\VP_2022_60.1_Hopkins’s “Ribblesdale” Sifts and Riddles.txt
+	0.7915991544723511	./txt_preprocessed\VP\2020s\article\general\VP_2020_58.1_Falling into Hope Wisdom Poetry and the Reinterpretation of Suffering in Elizabeth Barrett Browning'.txt
+	0.7762981653213501	./txt_preprocessed\VP\2020s\article\general\VP_2021_59.1_Queer Poetry and Darwin at the fin de siècle Mathilde Blind Constance Naden and Laurence Hope.txt
+	0.7282325625419617	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_Introduction Poetry and the Victorian Visual Imagination.txt
+	0.715430498123169	./txt_preprocessed\VP\2020s\article\general\VP_2021_59.1_Excelsior! Inspirational Verse the Victorian Working-Class Poet and the Case of Longfellow.txt
+	0.6182627081871033	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Down the Slant towards the Eye Hopkins and Ecological Perception.txt
+	0.6007957458496094	./txt_preprocessed\VLC\2020s\article\general\VLC_2022_50.1_“Cut it woman” Masculinity Nectar and the Orgasm in Charlotte Brontë's Shirley (1849).txt
+	0.5826722383499146	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_Disabled Visions Eugene Lee-Hamilton Physical Disability and Poetic Identity in the Later Victorian .txt
+	0.562759518623352	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_Seeing Inversnaid Gerard Manley Hopkins Inversnaid and the Ecological Eye.txt
+	0.5309051275253296	./txt_preprocessed\VS\2020s\article\special\VS_2022_65.1_Arctic Ghosts Whale Hunting and Haunting in Arthur Conan Doyle’s “The Captain of the ‘Pole-Star’”.txt
+	0.5244603753089905	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Selleri-SwinburnesBoyishness-2022.txt
+	0.44854772090911865	./txt_preprocessed\VS\2020s\article\general\VS_2021_63.2_The Hard Math of Beauty Gerard Manley Hopkins and Spectral Numbers.txt
+	0.43186941742897034	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_Poetry and the Visual Dynamics of Race in the West Indian Readers.txt
+Topic 6:
+	0.9998326897621155	./txt_preprocessed\VLC\2020s\article\general\VLC_2022_50.1_Music Physiology Erotic Encounters and Queer Reading Practices in Teleny.txt
+	0.9997846484184265	./txt_preprocessed\JVC\2020s\article\general\JVC_2020_25.4_Queer Music in the Queen’s Hall Teleny and Decadent Musical Geographies at the Fin de Siècle.txt
+	0.9997763633728027	./txt_preprocessed\JVC\2020s\article\general\JVC_2020_25.4_Burroughs-title.txt
+	0.9997763633728027	./txt_preprocessed\JVC\2020s\article\general\JVC_2020_25.4_The Racialization of Gratitude in Victorian Culture.txt
+	0.9226595759391785	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Johnson-TheAgencyofMusicinIndustrialSociety-2022.txt
+	0.8925264477729797	./txt_preprocessed\VLC\2020s\article\general\VLC_2022_50.1_The Great Sphinx and Other “Thinged” Statues in Colonial Portrayals of Africa.txt
+	0.8826466798782349	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Michael-Berger-HilariousHomicides-2021.txt
+	0.7509554028511047	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Interior Design The Doll's House and the Working-Class Child.txt
+	0.5420026183128357	./txt_preprocessed\VS\2020s\article\general\VS_2021_63.2_Picturing the Villain Image-Making and the Indian Uprising.txt
+	0.4725791811943054	./txt_preprocessed\VS\2020s\article\special\VS_2020_62.3_Hating Victorian Studies Properly.txt
+	0.3804040849208832	./txt_preprocessed\VS\2020s\article\special\VS_2020_62.3_Buffer Zones Notes on Afghanistan Race and Empire.txt
+	0.35230380296707153	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Located by Victorianism.txt
+Topic 7:
+	0.9998118281364441	./txt_preprocessed\JVC\2020s\article\digital\JVC_2021_26.2_Moon-Tomboys-2021.txt
+	0.9997702836990356	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_The ‘Gluttonous Child’ Narrative in Italy and Britain A Transnational Analysis.txt
+	0.9997702836990356	./txt_preprocessed\JVC\2020s\article\special\JVC_2022_27.1_The ‘Gluttonous Child’ Narrative in Italy and Britain A Transnational Analysis.txt
+	0.9997494220733643	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Roger-GoblinMarketSisterhood-2022.txt
+	0.9868485927581787	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.3_Spoiler Alert The Sensation Novel and Victorian Criticism.txt
+	0.9818136692047119	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.1_Keeping Christmas on the Page The Adelaide Observer Alice in Wonderland and the Australian Periodica.txt
+	0.9783353805541992	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.1_Abetting Literary Sins The Dickensian and the Drood Phenomenon.txt
+	0.9034814834594727	./txt_preprocessed\VPR\2020s\article\general\VPR_2020_53.1_Cross Purposes Sensation Fiction Focalization and Christian Repentance in Good Words.txt
+	0.7347771525382996	./txt_preprocessed\VPR\2020s\article\general\VPR_2021_54.1_Verse Moves Poetry Revision and Periodical Space in John Murray's European Handbooks for Travellers .txt
+	0.6850362420082092	./txt_preprocessed\VP\2020s\article\general\VP_2022_60.1_Wise Women and Strange Men The Book of Proverbs in “Goblin Market”.txt
+Topic 8:
+	0.999830961227417	./txt_preprocessed\JVC\2020s\article\general\JVC_2020_25.4_Gothic Secret Histories and Representing Australian Colonial Deaths at Sea The Case of Captain Charl.txt
+	0.9997740983963013	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Soldiership Christianity and the Crimean War The Reception of Catherine Marsh’s Memorials of Captain.txt
+	0.9997740983963013	./txt_preprocessed\JVC\2020s\article\special\JVC_2022_27.1_Soldiership Christianity and the Crimean War The Reception of Catherine Marsh’s Memorials of Captain.txt
+	0.8128684163093567	./txt_preprocessed\VLC\2020s\article\general\VLC_2022_50.1_Cultivating Chaos Entropy Information and the Making of the Dictionary of National Biography.txt
+	0.7222035527229309	./txt_preprocessed\VLC\2020s\article\general\VLC_2022_50.1_Rape in Public Overlooking Child Sexual Assault in Charlotte Mary Yonge's The Daisy Chain.txt
+	0.7184745073318481	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_27.1_Memel-WritersInResidenceWomenTeachers-2022.txt
+	0.7154335975646973	./txt_preprocessed\VS\2020s\article\general\VS_2021_63.2_Sable Seas The Crimean War's Global Reach and 1850s Geopolitical Literariness.txt
+	0.6564255952835083	./txt_preprocessed\VP\2020s\article\special\VP_2022_60.4_The passion-flower at the gate Tennyson's Poetry in the Annals of Julia Margaret Cameron.txt
+	0.6259177923202515	./txt_preprocessed\VPR\2020s\article\general\VPR_2022_55.1_Image Consumerism and the New Woman Gordon Browne's Illustrations for The Sorceress of the Strand.txt
+	0.5577200055122375	./txt_preprocessed\VPR\2020s\article\general\VPR_2020_53.1_From Rosemary VanArsdel.txt
+	0.3729175329208374	./txt_preprocessed\VPR\2020s\article\general\VPR_2020_53.1_In Memoriam Dr Rosemary T VanArsdel Mentor Extraordinaire.txt
+Topic 9:
+	0.9998471140861511	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Conrad's Carbon Imaginary Oil Imperialism and the Victorian Petro-Archive.txt
+	0.9998399615287781	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_George Eliot's Estuarial Form.txt
+	0.9998206496238708	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Introduction Open Ecologies.txt
+	0.9998006820678711	./txt_preprocessed\VLC\2020s\article\special\VLC_2021_49.1_Victorian Plants Cosmopolitan and Invasive.txt
+	0.9997551441192627	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Intimate Ecologies Symbioses in the Nineteenth Century.txt
+	0.9944453239440918	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Drill Baby Drill Extraction Ecologies Open Temporalities and Reproductive Futurity in the Provincial.txt
+	0.9837777018547058	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_The Ecological Plot A Brief History of Multispecies Storytelling from Malthus to Middlemarch.txt
+	0.9451494812965393	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Silas Marner and the Ecology of Form.txt
+	0.911454975605011	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Pulpy Fiction.txt
+	0.851993203163147	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Breathing Free Environmental Violence and the Plantation Ecology in Hannah Crafts's The Bondwoman's .txt
+	0.8267703652381897	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Bleak Prospects Wasteland and National Identity in Thomas Hardy's Return of the Native.txt
+	0.8203262090682983	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Do Queer Theory and Victorian Studies Still Have Anything to Learn from Each Other.txt
+	0.8126614093780518	./txt_preprocessed\JVC\2020s\article\digital\JVC_2022_26.2_Green-ShortSpannedLivingCreatures-2022.txt
+	0.8091989159584045	./txt_preprocessed\VS\2020s\article\special\VS_2022_64.2_Mudlarks and the Scale of Victorian Ecology.txt
+	0.71186763048172	./txt_preprocessed\VLC\2020s\article\special\VLC_2021_49.1_The Strange Ecologies of Empire.txt
+	0.7051076889038086	./txt_preprocessed\VLC\2020s\article\special\VLC_2020_48.1_Henry Mayhew Urban Ecologist.txt
+	0.6343846321105957	./txt_preprocessed\VS\2020s\article\special\VS_2020_62.3_Paravictorianism Mary Shelley and Viral Sovereignty.txt
+	0.6296712160110474	./txt_preprocessed\VS\2020s\article\special\VS_2020_62.3_Cousin Theory Brown Kinship and the Nineteenth-Century Domestic Novel.txt
+	0.6118983626365662	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Literary Ecology in Nineteenth-Century Bengal.txt
+	0.49548280239105225	./txt_preprocessed\VPR\2020s\article\general\VPR_2021_54.1_Vegetal Bedfellows Houseplant Superstitions and Environmental Thought in Nineteenth-Century Periodic.txt
+	0.4842611253261566	./txt_preprocessed\VLC\2020s\article\special\VLC_2023_51.1_Dying to Live British Idealism and the Bildungsroman.txt
+	0.4810895323753357	./txt_preprocessed\VPR\2020s\article\general\VPR_2020_53.1_A desire to look respectable in the eyes of strangers The Victorian Press and the Figure of the Stra.txt
+	0.4003104865550995	./txt_preprocessed\VS\2020s\article\special\VS_2022_65.1_The Secular Messianism of Robert Elsmere Race Jewishness and the “New Reformation”.txt

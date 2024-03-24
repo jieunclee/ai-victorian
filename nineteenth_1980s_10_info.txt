@@ -1,0 +1,451 @@
+Topic 0:
+- poem: 0.008182861842215061
+- text: 0.0074759055860340595
+- wordsworth: 0.007049218285828829
+- poet: 0.006425352767109871
+- self: 0.00632007559761405
+- coleridge: 0.005216230638325214
+- shelley: 0.005036775954067707
+- nature: 0.005021949298679829
+- history: 0.0048944707959890366
+- man: 0.00456841429695487
+- time: 0.004286167677491903
+- world: 0.004174209199845791
+- romantic: 0.004045242443680763
+- power: 0.0037793912924826145
+- present: 0.003717997344210744
+- nineteenth: 0.00361995049752295
+- mind: 0.0035264058969914913
+- form: 0.003495963988825679
+- eliot: 0.003460572101175785
+- vision: 0.003434035461395979
+- language: 0.003377824556082487
+- past: 0.0031521760392934084
+- historical: 0.00312141515314579
+- reader: 0.0030767973512411118
+- consciousness: 0.0030740112997591496
+- frankenstein: 0.003062932752072811
+- thus: 0.0030216663144528866
+- human: 0.0029424659442156553
+- poetry: 0.002934996271505952
+- sense: 0.0029049627482891083
+Topic 1:
+- tennyson: 0.03592972829937935
+- jane: 0.02024163119494915
+- bertha: 0.012315615080296993
+- austen: 0.011293163523077965
+- rochester: 0.007102113217115402
+- reader: 0.006743657402694225
+- character: 0.005885095801204443
+- poem: 0.005379761569201946
+- detective: 0.005360445007681847
+- poet: 0.00522567518055439
+- arthur: 0.005153422709554434
+- story: 0.004991461522877216
+- poetry: 0.00473518343642354
+- heroine: 0.004529948346316814
+- idyll: 0.0044703492894768715
+- mystery: 0.00420121056959033
+- power: 0.003980976063758135
+- king: 0.0037914100103080273
+- critic: 0.003515342017635703
+- time: 0.003340371884405613
+- eyre: 0.0032302839681506157
+- self: 0.0031504249200224876
+- form: 0.0031172712333500385
+- sense: 0.0030880204867571592
+- measure: 0.0030768413562327623
+- tell: 0.0030018554534763098
+- author: 0.0029636435210704803
+- read: 0.0029487437568604946
+- might: 0.0029169381596148014
+- inevitable: 0.002748016966506839
+Topic 2:
+- hardy: 0.00970896054059267
+- hair: 0.008560333400964737
+- language: 0.008155534975230694
+- song: 0.006231303792446852
+- alice: 0.00583380414173007
+- dream: 0.005246841814368963
+- newman: 0.005159412510693073
+- woman: 0.004744865465909243
+- victorian: 0.004667866975069046
+- life: 0.004249487072229385
+- child: 0.003936846740543842
+- word: 0.003799096215516329
+- book: 0.0037727004382759333
+- time: 0.0034209461882710457
+- man: 0.0032635049428790808
+- poem: 0.003127796808257699
+- london: 0.0030320899095386267
+- church: 0.0030009651090949774
+- literature: 0.0028210249729454517
+- autobiography: 0.0027866472955793142
+- newyork: 0.0027539024595171213
+- oxford: 0.0026937155053019524
+- thomas: 0.0025772792287170887
+- carroll: 0.002559880493208766
+- science: 0.0025405879132449627
+- muller: 0.0025341883301734924
+- creature: 0.0024484433233737946
+- frame: 0.002427187981083989
+- tale: 0.0023976024240255356
+- year: 0.002387659391388297
+Topic 3:
+- novel: 0.013246389105916023
+- trollope: 0.011443092487752438
+- character: 0.0070346649736166
+- eliot: 0.0068687694147229195
+- man: 0.006808935664594173
+- life: 0.006597272120416164
+- love: 0.006174266804009676
+- fiction: 0.005093811079859734
+- woman: 0.004520308692008257
+- moral: 0.0035430656280368567
+- social: 0.003384437644854188
+- nineteenth: 0.0033216369338333607
+- reader: 0.0031091421842575073
+- letter: 0.0030041076242923737
+- thackeray: 0.0029754156712442636
+- desire: 0.0029079713858664036
+- world: 0.002842853544279933
+- novelist: 0.0026845436077564955
+- self: 0.0026798199396580458
+- time: 0.002543430309742689
+- mary: 0.002525652525946498
+- story: 0.0023423894308507442
+- male: 0.0023284433409571648
+- feel: 0.0023149061016738415
+- society: 0.0022886148653924465
+- family: 0.002280076267197728
+- great: 0.0022652510087937117
+- form: 0.0022334277164191008
+- mrs: 0.0021895221434533596
+- tell: 0.002186283702030778
+Topic 4:
+- eliot: 0.017898157238960266
+- daniel: 0.008264659903943539
+- irish: 0.006077137775719166
+- life: 0.0052340030670166016
+- novel: 0.0050208610482513905
+- man: 0.004509729333221912
+- history: 0.0045057060196995735
+- essay: 0.004314448218792677
+- rhyme: 0.003979431930929422
+- crowd: 0.003674780484288931
+- positivist: 0.003599449759349227
+- nineteenth: 0.003594792913645506
+- fiction: 0.0035670748911798
+- deronda: 0.0035079128574579954
+- law: 0.003396065905690193
+- interpretation: 0.0031269751489162445
+- london: 0.003106590360403061
+- prophecy: 0.002976068062707782
+- book: 0.002948891371488571
+- fact: 0.002873973688110709
+- narrative: 0.0026127242017537355
+- felix: 0.0026094827335327864
+- human: 0.002591421129181981
+- time: 0.0025348206982016563
+- language: 0.0024980041198432446
+- year: 0.0023548202589154243
+- silas: 0.002343086525797844
+- political: 0.002330950926989317
+- property: 0.0023025874979794025
+- letter: 0.002292313612997532
+Topic 5:
+- shelley: 0.014088846743106842
+- consequence: 0.007700921036303043
+- keat: 0.007243449334055185
+- letter: 0.0061986432410776615
+- prometheus: 0.0059322635643184185
+- blake: 0.005371495615690947
+- mind: 0.0047037191689014435
+- kingsley: 0.003902868367731571
+- rousseau: 0.0038981095422059298
+- vision: 0.0038238714914768934
+- self: 0.0037454061675816774
+- life: 0.0034784507006406784
+- mental: 0.0034327900502830744
+- social: 0.0033912474755197763
+- despair: 0.0031344895251095295
+- man: 0.0030976480338722467
+- milton: 0.003043996635824442
+- metaphor: 0.0030099116265773773
+- poetry: 0.002998572075739503
+- order: 0.002793010324239731
+- thus: 0.002791463630273938
+- poem: 0.0027413214556872845
+- austen: 0.0027251190040260553
+- character: 0.002718095201998949
+- word: 0.0026873901952058077
+- form: 0.0026469409931451082
+- past: 0.002590371761471033
+- male: 0.0025859782472252846
+- jane: 0.0025364623870700598
+- unbound: 0.0025044819340109825
+Topic 6:
+- father: 0.015684090554714203
+- narrative: 0.0113602289929986
+- novel: 0.00976345594972372
+- marriage: 0.009504006244242191
+- mother: 0.006390641909092665
+- narrator: 0.006005383562296629
+- conrad: 0.005767513532191515
+- dorrit: 0.005676337517797947
+- dicken: 0.0056194583885371685
+- story: 0.005333806853741407
+- sexual: 0.005332569126039743
+- little: 0.004770919680595398
+- family: 0.004637478850781918
+- woman: 0.004607270937412977
+- desire: 0.004445191938430071
+- daughter: 0.004376917611807585
+- son: 0.004288692958652973
+- double: 0.004074190743267536
+- law: 0.0038723740726709366
+- act: 0.0037780117709189653
+- plot: 0.003581704804673791
+- tell: 0.003572652582079172
+- fiction: 0.0035408467520028353
+- social: 0.0034980368800461292
+- child: 0.00341969495639205
+- life: 0.0033635548315942287
+- end: 0.003330749459564686
+- self: 0.0032839514315128326
+- origin: 0.003213468473404646
+- structure: 0.003075802233070135
+Topic 7:
+- trollope: 0.03731650486588478
+- letter: 0.011732498183846474
+- virtue: 0.008212102577090263
+- novel: 0.007857580669224262
+- man: 0.006835550535470247
+- year: 0.006692159920930862
+- fiction: 0.006159203592687845
+- nineteenth: 0.00569111667573452
+- book: 0.005655673332512379
+- london: 0.004798704292625189
+- magazine: 0.004530124831944704
+- autobiography: 0.004347388632595539
+- wordsworth: 0.00406339718028903
+- harry: 0.0038686897605657578
+- literary: 0.003777795471251011
+- revolution: 0.0037055620923638344
+- business: 0.003656634595245123
+- word: 0.003560511628165841
+- publication: 0.0033637341111898422
+- time: 0.0032187714241445065
+- great: 0.003181440755724907
+- money: 0.0030039690900593996
+- last: 0.002955331467092037
+- number: 0.0029246662743389606
+- three: 0.00289426208473742
+- call: 0.002852519042789936
+- might: 0.002840382046997547
+- live: 0.002718224423006177
+- talent: 0.0027150928508490324
+- lady: 0.0027072427328675985
+Topic 8:
+- novel: 0.005020836368203163
+- woman: 0.004822611343115568
+- man: 0.0046785734593868256
+- time: 0.004527225159108639
+- world: 0.004284671042114496
+- emma: 0.00377992307767272
+- london: 0.003513854229822755
+- nineteenth: 0.0034959407057613134
+- life: 0.003414888633415103
+- book: 0.003153728088364005
+- esther: 0.0031296375673264265
+- mill: 0.002995302900671959
+- self: 0.0029378782492130995
+- view: 0.0029077446088194847
+- history: 0.0028466994408518076
+- character: 0.0027134662959724665
+- fiction: 0.0025782359298318624
+- social: 0.00255142361856997
+- great: 0.002548976568505168
+- newyork: 0.0025364281609654427
+- image: 0.002535715466365218
+- place: 0.002535320818424225
+- nature: 0.002507733413949609
+- human: 0.002297349041327834
+- experience: 0.002244615228846669
+- word: 0.002172674285247922
+- sense: 0.0021397783420979977
+- mind: 0.002081866841763258
+- form: 0.0020532151684165
+- essay: 0.0020132744684815407
+Topic 9:
+- melville: 0.011217501014471054
+- death: 0.008235390298068523
+- reader: 0.007377248723059893
+- art: 0.006566135678440332
+- life: 0.006059850100427866
+- magazine: 0.004315319005399942
+- dream: 0.00392075814306736
+- blake: 0.003855106420814991
+- nature: 0.0037442974280565977
+- novel: 0.0037439342122524977
+- mother: 0.0035079268272966146
+- love: 0.00350295752286911
+- world: 0.0034758029505610466
+- form: 0.0034606894478201866
+- man: 0.0034579583443701267
+- literature: 0.0034233357291668653
+- book: 0.0034211203455924988
+- pierre: 0.0032748086377978325
+- hawthorne: 0.003221497405320406
+- nineteenth: 0.0030491079669445753
+- fiction: 0.003033469896763563
+- child: 0.002989433705806732
+- white: 0.002890463685616851
+- desire: 0.00278385728597641
+- american: 0.0027761568780988455
+- dicken: 0.002733352594077587
+- literary: 0.002626410685479641
+- view: 0.002621570834890008
+- human: 0.00258972798474133
+- romanticism: 0.002545579569414258
+Topic 0:
+	0.9997702240943909	./txt_preprocessed\NCC\1980s\article\general\NCC_1985_9.2_“Lofty hopes of divine liberty” The myth of the androgyne in Alastor Endymion and Manfred.txt
+	0.9997389316558838	./txt_preprocessed\NCL\1980s\article\general\NCL_1987_42.3_From Anxiety to Power Grammar and Crisis in Crossing Brooklyn Ferry.txt
+	0.9996672868728638	./txt_preprocessed\NCC\1980s\article\special\NCC_1987_11.2_The future of deconstruction in romantic studies.txt
+	0.999607264995575	./txt_preprocessed\NCC\1980s\article\general\NCC_1981_5.1_The Intimations Ode Wordsworth's fortunate fall.txt
+	0.9995508193969727	./txt_preprocessed\NCC\1980s\article\special\NCC_1982_6.2_Coleridge's use of notes.txt
+	0.9992319345474243	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_Production replaces creation Market forces and Frankenstein as critique of romanticism.txt
+	0.988625168800354	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_The text as trap The problem of difference in Mary Shelley's Frankenstein.txt
+	0.9794124960899353	./txt_preprocessed\NCC\1980s\article\special\NCC_1987_11.2_Thomas McFarland and the anxiety of influence Tradition and the individual talent once again.txt
+	0.9406686425209045	./txt_preprocessed\NCC\1980s\article\special\NCC_1989_13.1_Introduction.txt
+	0.9154160618782043	./txt_preprocessed\NCC\1980s\article\special\NCC_1989_13.1_“Material witness” feminism and nineteenth‐century studies.txt
+	0.8898071646690369	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1980_95.5_Language History and Text in Eliot's Journey of the Magi.txt
+	0.8769979476928711	./txt_preprocessed\NCC\1980s\article\general\NCC_1985_9.2_Reply to James M Kee.txt
+	0.8295512795448303	./txt_preprocessed\NCC\1980s\article\general\NCC_1980_4.1_Satanic conceits in Frankenstein and Wuthering heights.txt
+	0.8202068209648132	./txt_preprocessed\NCC\1980s\article\general\NCC_1985_9.2_Narrative time and participating consciousness A Heideggerian supplement to McGann's the romantic id.txt
+	0.780820906162262	./txt_preprocessed\NCL\1980s\article\general\NCL_1984_39.2_Linguistic Blindness and Ironic Vision in The Egoist.txt
+	0.7696025967597961	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1989_104.5_Matthew Arnold and the Modern Apocalypse.txt
+	0.684956967830658	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_Did Lucy have to die Woman as sign in Wordsworth's “Three years she grew”.txt
+	0.6632416844367981	./txt_preprocessed\NCC\1980s\article\special\NCC_1987_11.2_Coleridge's theory of historical ideas A re‐examination.txt
+	0.6438949704170227	./txt_preprocessed\NCC\1980s\article\special\NCC_1989_13.1_Feminism and the family in nineteenth‐century studies.txt
+	0.637384831905365	./txt_preprocessed\NCC\1980s\article\special\NCC_1987_11.2_“The nineteenth‐century” as chronotope.txt
+	0.59733647108078	./txt_preprocessed\NCC\1980s\article\general\NCC_1985_9.2_The spots of time Wordsworth's semiology of the self.txt
+	0.5807826519012451	./txt_preprocessed\NCC\1980s\article\general\NCC_1981_5.1_The economics of the heart Wordsworth's sublime and beautiful.txt
+	0.5742650032043457	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_Introduction.txt
+	0.5431803464889526	./txt_preprocessed\NCC\1980s\article\special\NCC_1982_6.2_Victorians and volumes foreigners and first drafts Four gaps in postromantic influence study.txt
+	0.5341768860816956	./txt_preprocessed\NCC\1980s\article\general\NCC_1980_4.1_“The illustrious dead'’ Milton's legacy and romantic prophecy.txt
+	0.5077715516090393	./txt_preprocessed\NCC\1980s\article\general\NCC_1980_4.1_The still sad music of humanity in the excursion Wordsworth's tragic view of man.txt
+	0.4494124948978424	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_Response The marketplace and the nineteenth‐century novel.txt
+	0.44156938791275024	./txt_preprocessed\NCL\1980s\article\general\NCL_1988_43.1_Heathcliff is Me! Wuthering Heights and the Question of Likeness.txt
+	0.42709025740623474	./txt_preprocessed\NCC\1980s\article\general\NCC_1986_10.1_Melville's “synthesizing”; narrator Mardi Fichte and the Frühromantiker.txt
+	0.3851037323474884	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1983_98.5_The Female King Tennyson's Arthurian Apocalypse.txt
+	0.3667692542076111	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1988_103.5_Oscar Wilde and His Context.txt
+Topic 1:
+	0.9997713565826416	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1983_98.1_Tennyson and the Measure of Doom.txt
+	0.6172342300415039	./txt_preprocessed\NCL\1980s\article\general\NCL_1988_43.1_Mystery Without Murder The Detective Plots of Jane Austen.txt
+	0.3514834940433502	./txt_preprocessed\NCL\1980s\article\general\NCL_1989_44.3_Bertha and the Critics.txt
+Topic 2:
+	0.9998124837875366	./txt_preprocessed\NCL\1980s\article\general\NCL_1989_44.3_Thomas Hardy's Use of Traditional Song.txt
+	0.9998034238815308	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1985_100.3_Newman's Apologia pro vita sua and the Traditions of the English Spiritual Autobiography.txt
+	0.9731801748275757	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1982_97.2_Victorian Oxford and the Science of Language.txt
+	0.9534531831741333	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1984_99.5_The Power of Women's Hair in the Victorian Imagination.txt
+	0.8799335956573486	./txt_preprocessed\NCL\1980s\article\general\NCL_1987_42.3_Arguing About the Eastward Position Thomas Hardy and Puseyism.txt
+	0.8251162171363831	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1986_101.3_Framing the Alices.txt
+	0.5572468638420105	./txt_preprocessed\NCC\1980s\article\general\NCC_1981_5.1_“Of what a strange nature is knowledge!” Hartleian psychology and the creature's arrested moral sens.txt
+	0.45417070388793945	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1981_96.1_The Antigone as Cultural Touchstone Matthew Arnold Hegel George Eliot Virginia Woolf and Margaret Dr.txt
+Topic 3:
+	0.9996635317802429	./txt_preprocessed\NCL\1980s\article\general\NCL_1986_41.1_Spontaneous Order and the Politics of Anthony Trollope.txt
+	0.9995864033699036	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Being in Love in Phineas Finn  Phineas Redux Desire Devotion Consolation.txt
+	0.9909114837646484	./txt_preprocessed\NCL\1980s\article\general\NCL_1989_44.3_Mary Ann Evans's Holy War An Essay in Letter Reading.txt
+	0.9386510848999023	./txt_preprocessed\NCL\1980s\article\general\NCL_1983_38.2_Anthony Trollope's Apprenticeship.txt
+	0.9327005743980408	./txt_preprocessed\NCL\1980s\article\general\NCL_1987_42.3_De Nigger in You Race or Training in Pudd'nhead Wilson.txt
+	0.8978099226951599	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope's Thackeray.txt
+	0.7756615877151489	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_Middlemarch Chapter 85 Three Commentaries.txt
+	0.7505236268043518	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope's Metonymies.txt
+	0.7153587341308594	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1980_95.5_The Triumph of Clytemnestra The Charades in Vanity Fair.txt
+	0.6940795183181763	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_George Eliot and the Eighteenth-Century Novel.txt
+	0.6730368733406067	./txt_preprocessed\NCL\1980s\article\general\NCL_1987_42.3_He Would Come Back The Fathers of Daughters in Daniel Deronda.txt
+	0.6604840755462646	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope at Work on The Way We Live Now.txt
+	0.6597812175750732	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope and the Saturday Review.txt
+	0.6524913311004639	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_Janet's Repentance and the Myth of the Organic.txt
+	0.6398561000823975	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1987_102.5_Writing Gone Wilde Homoerotic Desire in the Closet of Representation.txt
+	0.6032198667526245	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_The Greening of Sister George.txt
+	0.5000596642494202	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_A Parable of Justice Drama and Rhetoric in Mr Scarborough's Family.txt
+	0.46584779024124146	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_The Voices of the Essayist.txt
+	0.4629231095314026	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_The Letter Killeth Epistolary Purposes and Techniques in Sir Harry Hotspur of Humblethwaite.txt
+	0.39632952213287354	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope and the Zeitgeist.txt
+Topic 4:
+	0.9998293519020081	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1984_99.1_The Apocalypse of the Old Testament Daniel Deronda and the Interpretation of Interpretation.txt
+	0.9936745166778564	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_The Pacification of the Crowd From Janet's Repentance to Felix Holt.txt
+	0.9730119705200195	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_Questions of Method Some Unpublished Late Essays.txt
+	0.9175569415092468	./txt_preprocessed\NCL\1980s\article\general\NCL_1981_36.3_Comtean Fetishism in Silas Marner.txt
+	0.8903889656066895	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_George Eliot and the Positivists.txt
+	0.8075864911079407	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_Fictional women and real estate in Maria Edgeworth's Castle Rackrent.txt
+	0.773638129234314	./txt_preprocessed\NCL\1980s\article\general\NCL_1986_41.1_The Marksman of Ravenswood Power and Legitimacy in The Bride of Lammermoor.txt
+	0.7675116062164307	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_The Failure of Realism Felix Holt.txt
+	0.5353901982307434	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_The Unnatural Ruin Trollope and Nineteenth-Century Irish Fiction.txt
+	0.5072031617164612	./txt_preprocessed\NCC\1980s\article\special\NCC_1982_6.2_Shelley rhyme and the arbitrariness of language.txt
+Topic 5:
+	0.9997754693031311	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_The Spenserian psychodrama of Prometheus unbound.txt
+	0.9997313022613525	./txt_preprocessed\NCC\1980s\article\general\NCC_1984_8.2_Oothoon failed prophet.txt
+	0.9995777606964111	./txt_preprocessed\NCC\1980s\article\special\NCC_1987_11.2_(R)evolutionary scenes The body politic and the political body in Henry Maudsley's nosology of “mast.txt
+	0.962866485118866	./txt_preprocessed\NCC\1980s\article\special\NCC_1982_6.2_Keats the letter‐writer Epistolary poetics.txt
+	0.8426567912101746	./txt_preprocessed\NCL\1980s\article\general\NCL_1985_40.3_The Derivation and Distribution of Consequence in Mansfield Park.txt
+	0.5459160208702087	./txt_preprocessed\NCL\1980s\article\general\NCL_1986_41.1_Kingsley's Hypatia Revisions in Context.txt
+	0.4463103413581848	./txt_preprocessed\NCC\1980s\article\general\NCC_1983_7.1_From “Alastor” to “The triumph of life” Shelley on the nature and source of linguistic pleasure.txt
+Topic 6:
+	0.9999170899391174	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1980_95.2_Storytelling and the Figure of the Father in Little Dorrit.txt
+	0.8653149604797363	./txt_preprocessed\NCL\1980s\article\general\NCL_1983_38.2_The Felicity and Infelicity of Marriage in Jude the Obscure.txt
+	0.7339922785758972	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1988_103.2_A Vampire in the Mirror The Sexuality of Dracula.txt
+	0.6837580800056458	./txt_preprocessed\NCC\1980s\article\general\NCC_1986_10.1_Christabel's “Wandering mother”; and the discourse of the self A Lacanian reading of repressed narra.txt
+	0.6549582481384277	./txt_preprocessed\NCC\1980s\article\special\NCC_1989_13.1_Eyeing the story Perceptions of the double in Giovanni Verga's Eva.txt
+	0.6280694603919983	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1986_101.3_Modernist Maneuverings in the Marriage Plot Breaking Ideologies of Gender and Genre in James's The G.txt
+	0.5570189952850342	./txt_preprocessed\NCL\1980s\article\general\NCL_1981_36.3_Joseph Conrad Dickensian Novelist of the Nineteenth Century A Dissent from Ian Watt.txt
+	0.4677625894546509	./txt_preprocessed\NCL\1980s\article\general\NCL_1985_40.3_The Value of Facts in the Heart of Darkness.txt
+	0.464352548122406	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1988_103.5_The Construction of the Narrator in The Nigger of the Narcissus.txt
+Topic 7:
+	0.999706506729126	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope James Virtue and Saint Pauls Magazine.txt
+	0.9993622303009033	./txt_preprocessed\NCL\1980s\article\general\NCL_1984_39.2_Was the Way We Live Now a Commercial Success.txt
+	0.9184407591819763	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope and the Evangelicals.txt
+	0.5634381175041199	./txt_preprocessed\NCC\1980s\article\special\NCC_1989_13.1_Wordsworth and the politics of ambition.txt
+	0.5575370192527771	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Business and Bosoms Some Trollopian Concerns.txt
+	0.5549309849739075	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope at the Royal Literary Fund.txt
+	0.4916014075279236	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope and Murasaki Impressions of an Orientalist.txt
+	0.47737041115760803	./txt_preprocessed\NCL\1980s\article\general\NCL_1986_41.1_Nineteenth-Century Literature Forty Years.txt
+	0.47673335671424866	./txt_preprocessed\NCL\1980s\article\special\NCL_1982_37.3_Trollope's Fictional Autobiography.txt
+Topic 8:
+	0.9997664093971252	./txt_preprocessed\NCC\1980s\article\special\NCC_1989_13.1_Iron frames Reconstructing the landscape views of A J Russell's photography.txt
+	0.9994693398475647	./txt_preprocessed\NCL\1980s\article\general\NCL_1985_40.3_The Conquest of Canaan Suppression of Merry Mount.txt
+	0.9986687898635864	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1985_100.3_Milk Mud and Mountain Cottages Ruskin's Poetry of Architecture.txt
+	0.9871973395347595	./txt_preprocessed\NCL\1980s\article\general\NCL_1984_39.2_Judge Pyncheon's Brotherhood Puritan Theories of Hypocrisy and the House of the Seven Gables.txt
+	0.9870504140853882	./txt_preprocessed\NCL\1980s\article\general\NCL_1986_41.1_James's London in The Princess Casamassima.txt
+	0.9773492813110352	./txt_preprocessed\NCL\1980s\article\general\NCL_1989_44.3_Reading the Gravel Page Lyell Darwin and Conan Doyle.txt
+	0.9528816938400269	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1980_95.5_The Vanishing Subject Empirical Psychology and the Modern Novel.txt
+	0.9297909736633301	./txt_preprocessed\NCL\1980s\article\general\NCL_1983_38.2_The Battle of Biblical Books in Esther's Narrative.txt
+	0.8790048360824585	./txt_preprocessed\NCL\1980s\article\general\NCL_1986_41.1_The Fools in Austen's Emma.txt
+	0.8488397598266602	./txt_preprocessed\NCL\1980s\article\general\NCL_1984_39.2_Henry Adams' Novels.txt
+	0.8439619541168213	./txt_preprocessed\NCL\1980s\article\general\NCL_1981_36.3_The Emerging Carlylean Hero in Bulwer's Novels of the 1830s.txt
+	0.8128259181976318	./txt_preprocessed\NCC\1980s\article\general\NCC_1983_7.1_The “Dialectic of desire” in Madame Bovary and Le Grand Meaulnes.txt
+	0.7328951358795166	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1984_99.2_From Patria to Matria Elizabeth Barrett Browning's Risorgimento.txt
+	0.7282739281654358	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1983_98.3_Scripture and Poetic Discourse in The Subjection of Women.txt
+	0.7214462161064148	./txt_preprocessed\NCL\1980s\article\general\NCL_1984_39.2_Jane Austen's Must The Will and the World.txt
+	0.6975870728492737	./txt_preprocessed\NCL\1980s\article\general\NCL_1985_40.3_Lionel Trilling and Emma A Reconsideration.txt
+	0.6737228035926819	./txt_preprocessed\NCL\1980s\article\general\NCL_1988_43.1_Metaphorical Representations of the French Revolution in Victorian Fiction.txt
+	0.6409682035446167	./txt_preprocessed\NCL\1980s\article\general\NCL_1981_36.3_Metaphysics and Melodrama Bulwer's Rienzi.txt
+	0.5047557950019836	./txt_preprocessed\NCC\1980s\article\special\NCC_1989_13.1_Race gender and imperial ideology In the nineteen century.txt
+	0.43936026096343994	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_The shifting relic Thomas De Quincey's “Samuel Taylor Coleridge”.txt
+	0.4273204803466797	./txt_preprocessed\NCL\1980s\article\special\NCL_1980_35.3_Mrs Browning and Miss Evans.txt
+	0.3439779579639435	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1989_104.5_Viewing the Elephant Man.txt
+	0.3206479847431183	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_Household vs industrial economies in Gaskell's North and South.txt
+Topic 9:
+	0.9998072385787964	./txt_preprocessed\NCL\1980s\article\general\NCL_1988_43.1_Calculations for Popularity Melville's Pierre and Holden's Dollar Magazine.txt
+	0.9997389316558838	./txt_preprocessed\NCL\1980s\article\general\NCL_1981_36.3_White-Jacket Authors and Audiences.txt
+	0.9916273951530457	./txt_preprocessed\NCL\1980s\article\general\NCL_1988_43.1_Pastoral Exile and The Marble Faun.txt
+	0.871012270450592	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1980_95.1_Death Worship among the Victorians The Old Curiosity Shop.txt
+	0.8271541595458984	./txt_preprocessed\NCC\1980s\article\general\NCC_1986_10.1_Mother figures in Blake's songs of Innocence and the female will.txt
+	0.79079270362854	./txt_preprocessed\NCC\1980s\article\general\NCC_1984_8.2_Towards a definition of latin American modernism‐debate and reconciliation.txt
+	0.7570067644119263	./txt_preprocessed\NCL\1980s\article\general\NCL_1985_40.3_Henry James Criticism A Case Study in Critical Inquiry.txt
+	0.6231884360313416	./txt_preprocessed\PMLA\1980s\article\general\PMLA_1980_95.5_The Victorians and Death.txt
+	0.5500593185424805	./txt_preprocessed\NCC\1980s\article\special\NCC_1988_12.1_Profitable dreams in the marketplace of desire Alice in Wonderland a Christmas Carol and The Interpr.txt
+	0.528008759021759	./txt_preprocessed\NCL\1980s\article\general\NCL_1985_40.3_A Chance Acquaintance How Fiction Would Mean.txt
+	0.4487505555152893	./txt_preprocessed\NCC\1980s\article\general\NCC_1983_7.1_The critical mode in British romanticism.txt

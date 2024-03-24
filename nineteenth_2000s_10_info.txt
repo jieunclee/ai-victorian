@@ -1,0 +1,446 @@
+Topic 0:
+- woman: 0.014536574482917786
+- love: 0.008254905231297016
+- mary: 0.007161058951169252
+- letter: 0.007160322740674019
+- anne: 0.005449865944683552
+- queen: 0.004936073441058397
+- nineteenth: 0.0044092051684856415
+- london: 0.004319573752582073
+- read: 0.004239087924361229
+- lesbian: 0.003936462104320526
+- byron: 0.003854691283777356
+- female: 0.0038501678500324488
+- man: 0.0037719409447163343
+- reading: 0.0037673646584153175
+- history: 0.003715667873620987
+- reader: 0.003636282403022051
+- life: 0.0035712653771042824
+- book: 0.0035207788459956646
+- field: 0.003444466507062316
+- helen: 0.0033840066753327847
+- sexual: 0.003147102426737547
+- artist: 0.003129707183688879
+- desire: 0.003086593933403492
+- juan: 0.002980415942147374
+- whitman: 0.0027752260211855173
+- art: 0.0027389442548155785
+- poem: 0.0026082296390086412
+- stevenson: 0.00258248089812696
+- print: 0.0025287517346441746
+- self: 0.002419187920168042
+Topic 1:
+- history: 0.012106564827263355
+- victorian: 0.00628844415768981
+- novel: 0.005365956109017134
+- historical: 0.004831637721508741
+- modern: 0.004562763962894678
+- culture: 0.004445156082510948
+- social: 0.004313584417104721
+- nineteenth: 0.004117385018616915
+- past: 0.0038348950911313295
+- form: 0.0032361107878386974
+- self: 0.0031827129423618317
+- modernity: 0.003130438504740596
+- film: 0.0031195248011499643
+- time: 0.0031089994590729475
+- political: 0.0030805920250713825
+- cultural: 0.0030759370420128107
+- present: 0.002943769795820117
+- relation: 0.0029252716340124607
+- newyork: 0.002900347812101245
+- subject: 0.002862415509298444
+- fact: 0.0028596408665180206
+- narrative: 0.002772350562736392
+- world: 0.002729210536926985
+- body: 0.0026817291509360075
+- life: 0.0026496672071516514
+- law: 0.0026018470525741577
+- society: 0.0024849658366292715
+- particular: 0.00247017084620893
+- postmodern: 0.0024647610262036324
+- character: 0.0024412625934928656
+Topic 2:
+- narrative: 0.006617330014705658
+- novel: 0.006202655378729105
+- man: 0.005418657325208187
+- body: 0.005359874106943607
+- stevenson: 0.005117855034768581
+- history: 0.00477763544768095
+- american: 0.004648622125387192
+- character: 0.004214487038552761
+- corpse: 0.0039104619063436985
+- job: 0.0038343225605785847
+- power: 0.0038251292426139116
+- class: 0.0036683434154838324
+- barton: 0.003660808550193906
+- mary: 0.003619835712015629
+- general: 0.003608961123973131
+- natural: 0.0035333402920514345
+- story: 0.003441089065745473
+- nineteenth: 0.0033937771804630756
+- naturalist: 0.003368510864675045
+- gaskell: 0.0032685284968465567
+- griffith: 0.003205373650416732
+- self: 0.003014874877408147
+- poe: 0.0030070566572248936
+- society: 0.0030031930655241013
+- cooper: 0.0029513277113437653
+- victorian: 0.0029510408639907837
+- foucault: 0.002889464143663645
+- life: 0.0028849863447248936
+- last: 0.002839660504832864
+- desire: 0.0028165860567241907
+Topic 3:
+- bront: 0.010775440372526646
+- culture: 0.007620256394147873
+- irish: 0.0075337751768529415
+- englishadj: 0.006809276528656483
+- englishness: 0.006796986795961857
+- villette: 0.00659165158867836
+- englishnoun: 0.005702943075448275
+- novel: 0.005681260954588652
+- cultural: 0.005118893925100565
+- lucy: 0.005076776724308729
+- british: 0.004691066220402718
+- nineteenth: 0.0045376131311059
+- identity: 0.004534965846687555
+- england: 0.004414011258631945
+- national: 0.004335294011980295
+- nation: 0.0040269773453474045
+- ireland: 0.0038105386774986982
+- colonial: 0.0036829616874456406
+- life: 0.0036610581446439028
+- french: 0.0035378255415707827
+- city: 0.0035233073867857456
+- jewish: 0.003304846817627549
+- london: 0.0032429229468107224
+- time: 0.003188020084053278
+- nationalism: 0.0030673930887132883
+- experience: 0.0029992868658155203
+- language: 0.0029797498136758804
+- space: 0.002910112962126732
+- little: 0.0028042213525623083
+- victorian: 0.0027264219243079424
+Topic 4:
+- american: 0.007550863549113274
+- north: 0.007268810179084539
+- south: 0.007005835417658091
+- war: 0.00678115664049983
+- nineteenth: 0.005995198618620634
+- gaskell: 0.005697736516594887
+- poster: 0.005350747145712376
+- woman: 0.004827452357858419
+- frederick: 0.004819304216653109
+- place: 0.004381630569696426
+- letter: 0.004355792421847582
+- graham: 0.0041270931251347065
+- dress: 0.004000223707407713
+- man: 0.003989120479673147
+- literature: 0.0038440271746367216
+- novel: 0.0036304574459791183
+- world: 0.0036251137498766184
+- narrative: 0.0036002006381750107
+- mourning: 0.0034580985084176064
+- british: 0.0034142385702580214
+- newyork: 0.0034068990498781204
+- slave: 0.003267324063926935
+- margaret: 0.003242556005716324
+- irish: 0.0031080571934580803
+- black: 0.003052543383091688
+- dialect: 0.0030464816372841597
+- language: 0.003038412658497691
+- culture: 0.003002314595505595
+- time: 0.002777939196676016
+- nation: 0.0027181426994502544
+Topic 5:
+- american: 0.010111584328114986
+- nineteenth: 0.006975600030273199
+- land: 0.0063869827426970005
+- howell: 0.006298815831542015
+- literature: 0.0048094275407493114
+- melville: 0.004790264647454023
+- world: 0.004399879835546017
+- energy: 0.0042900582775473595
+- tennyson: 0.004110061563551426
+- woman: 0.004088526125997305
+- biblical: 0.004073360934853554
+- holy: 0.004066022112965584
+- african: 0.004053408280014992
+- black: 0.003942766226828098
+- smith: 0.003812472801655531
+- poem: 0.0037597939372062683
+- race: 0.0036800990346819162
+- racial: 0.0034752937499433756
+- place: 0.0034202400129288435
+- literary: 0.0033373318146914244
+- time: 0.003332192078232765
+- white: 0.003117987886071205
+- heat: 0.003098429413512349
+- history: 0.003070382634177804
+- thermodynamic: 0.003064058255404234
+- nature: 0.002862882800400257
+- law: 0.0027342885732650757
+- newyork: 0.002729526488110423
+- realism: 0.002652589464560151
+- science: 0.002565947826951742
+Topic 6:
+- thing: 0.005990265402942896
+- nature: 0.005878927651792765
+- life: 0.005709121469408274
+- wordsworth: 0.005117584951221943
+- victorian: 0.004235400818288326
+- image: 0.0041617220267653465
+- human: 0.0038343947380781174
+- art: 0.0038003548979759216
+- reader: 0.003566709579899907
+- time: 0.0035621849820017815
+- book: 0.003446284681558609
+- landscape: 0.0033749050926417112
+- ruskin: 0.0033673697616904974
+- world: 0.0033390484750270844
+- photography: 0.0032896348275244236
+- experience: 0.003287957049906254
+- face: 0.0032637950498610735
+- text: 0.003242830978706479
+- london: 0.003221652004867792
+- modern: 0.0031467534136027098
+- form: 0.0030063875019550323
+- photographic: 0.0029890493024140596
+- sense: 0.002958182245492935
+- view: 0.00290362979285419
+- nineteenth: 0.0028685955330729485
+- letter: 0.002857957035303116
+- scene: 0.0028543821536004543
+- poem: 0.0028284848667681217
+- object: 0.002778266556560993
+- carlyle: 0.002721339464187622
+Topic 7:
+- slave: 0.00752978166565299
+- tess: 0.00507746497169137
+- portrait: 0.004705930594354868
+- wilde: 0.004649664741009474
+- man: 0.004617549013346434
+- irish: 0.004522893577814102
+- poe: 0.004209939390420914
+- tale: 0.004047324415296316
+- lewis: 0.003497885540127754
+- woman: 0.003428633324801922
+- nineteenth: 0.0033792387694120407
+- heart: 0.003334385808557272
+- political: 0.003276433562859893
+- hazlitt: 0.00317632919177413
+- machine: 0.003067759796977043
+- life: 0.003015552880242467
+- novel: 0.002997300121933222
+- economy: 0.002898761071264744
+- labor: 0.0028621142264455557
+- trollope: 0.002805772703140974
+- narrative: 0.0026732739061117172
+- population: 0.0025777029804885387
+- self: 0.002547401702031493
+- time: 0.002501102164387703
+- moral: 0.0024806451983749866
+- tell: 0.002414124086499214
+- hardy: 0.0023912962060421705
+- economic: 0.0023838235065340996
+- form: 0.0023422338999807835
+- production: 0.0023228900972753763
+Topic 8:
+- novel: 0.012238656170666218
+- woman: 0.004791512619704008
+- reader: 0.004149441607296467
+- great: 0.004047725815325975
+- book: 0.004037797916680574
+- london: 0.0037487312220036983
+- literary: 0.003663561772555113
+- nineteenth: 0.0034651877358555794
+- life: 0.0034600677900016308
+- man: 0.00332639436237514
+- time: 0.0030719477217644453
+- print: 0.003071584040299058
+- literature: 0.0030289108399301767
+- year: 0.002895271871238947
+- eliot: 0.0028778030537068844
+- read: 0.002759341849014163
+- trollope: 0.0027568095829337835
+- might: 0.0027209273539483547
+- price: 0.0026193074882030487
+- victorian: 0.002614149358123541
+- science: 0.0025488771498203278
+- world: 0.0025242704432457685
+- newyork: 0.002438071183860302
+- child: 0.0023928440641611814
+- realism: 0.0023328063543885946
+- character: 0.0022469847463071346
+- form: 0.0022455088328570127
+- poetry: 0.002213620115071535
+- hand: 0.0021804380230605602
+- call: 0.0021747213322669268
+Topic 9:
+- london: 0.004755680914968252
+- british: 0.004702831618487835
+- woman: 0.004436959978193045
+- nineteenth: 0.004404937848448753
+- life: 0.004239106085151434
+- library: 0.004154836293309927
+- public: 0.004087511450052261
+- man: 0.0038134115748107433
+- world: 0.003746054135262966
+- imperial: 0.0031969270203262568
+- body: 0.0031652147881686687
+- national: 0.002610298804938793
+- travel: 0.002577869687229395
+- bank: 0.0025184915866702795
+- place: 0.002511419355869293
+- southey: 0.0024925507605075836
+- nature: 0.0024313435424119234
+- time: 0.0023461964447051287
+- empire: 0.002339170780032873
+- plant: 0.0022757824044674635
+- history: 0.002251982456073165
+- narrative: 0.002230042591691017
+- space: 0.002176946494728327
+- book: 0.002173697343096137
+- austen: 0.0020502638071775436
+- culture: 0.002032896503806114
+- celebrity: 0.0020241588354110718
+- city: 0.0019805559422820807
+- power: 0.001973962178453803
+- newyork: 0.0019540302455425262
+Topic 0:
+	0.9998478889465332	./txt_preprocessed\NCC\2000s\article\general\NCC_2004_26.2_Lover Mother Reader The Epistolary Courtship of Walt Whitman.txt
+	0.9998226761817932	./txt_preprocessed\NCC\2000s\article\special\NCC_2001_23.2_The tragic Mary A case study in Michael Field's understanding of sexual politics.txt
+	0.9998196363449097	./txt_preprocessed\NCC\2000s\article\special\NCC_2001_23.2_“For how can they be guilty” Lesbian and bisexual women in Manley's New Atalantis.txt
+	0.9997596740722656	./txt_preprocessed\NCC\2000s\article\special\NCC_2001_23.2_“The gift of love”Nineteenth‐century religion and lesbian passion.txt
+	0.9884696006774902	./txt_preprocessed\NCL\2000s\article\general\NCL_2003_58.1_The Professionalization of the Woman Artist in Anne Brontë's The Tenant of Wildfell Hall.txt
+	0.9009481072425842	./txt_preprocessed\NCL\2000s\article\general\NCL_2005_59.4_THE UNRULY COPIES OF DON JUAN.txt
+	0.8226374387741089	./txt_preprocessed\NCC\2000s\article\special\NCC_2001_23.2_Introduction Women's Friendships and Lesbian Sexuality.txt
+	0.7826534509658813	./txt_preprocessed\NCC\2000s\article\special\NCC_2009_31.1_Dreams of John Ball Reading the Peasants’ Revolt in the Nineteenth Century.txt
+	0.7225223779678345	./txt_preprocessed\NCC\2000s\article\special\NCC_2009_31.1_First‐Century Fiction in the Late Nineteenth Century.txt
+	0.7099376916885376	./txt_preprocessed\NCC\2000s\article\special\NCC_2009_31.1_Reading History and Nation Robert Louis Stevenson’s Reading of William Forbes‐Mitchell’s Reminiscenc.txt
+	0.584094762802124	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2009_124.2_Introduction “Modern” Love and the Proto-Post-Victorian.txt
+	0.47107434272766113	./txt_preprocessed\NCC\2000s\article\special\NCC_2001_23.2_Dynamics of female friendship in the later eighteenth century.txt
+	0.3778122067451477	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2009_124.2_Intertextual Estella Great Expectations Gender and Literary Tradition.txt
+	0.34890323877334595	./txt_preprocessed\NCC\2000s\article\special\NCC_2009_31.1_Reading the Past in the Nineteenth Century.txt
+Topic 1:
+	0.9998093843460083	./txt_preprocessed\NCC\2000s\article\special\NCC_2000_22.1_Modernity and culture the Victorians and cultural studies.txt
+	0.9998086094856262	./txt_preprocessed\NCL\2000s\article\general\NCL_2006_61.1_Policing and Performing Liberal Individuality in Anthony Trollope's The Warden.txt
+	0.9997832179069519	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2003_118.3_Metaphoric History Narrative and New Science in the Work of F W Maitland.txt
+	0.9997256994247437	./txt_preprocessed\NCC\2000s\article\special\NCC_2000_22.1_Introduction Histories of the present.txt
+	0.9996189475059509	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2003_118.3_Introduction Imagining History.txt
+	0.9355267286300659	./txt_preprocessed\NCC\2000s\article\special\NCC_2000_22.1_Specters of the novel Dracula and the cinematic afterlife of the Victorian novel.txt
+	0.7691477537155151	./txt_preprocessed\NCC\2000s\article\general\NCC_2002_24.2_The Doctor is In Medical Insight Oliver Wendell Holmes and Elsie Venner.txt
+	0.7354772686958313	./txt_preprocessed\NCC\2000s\article\general\NCC_2002_24.2_How Many Others are There in the Other Half Jacob Riis and the Tenement Population.txt
+	0.5969799757003784	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2005_120.5_Choseville Brontë's Villette and the Art of Bourgeois Interiority.txt
+	0.554413914680481	./txt_preprocessed\NCC\2000s\article\special\NCC_2000_22.1_At home in the nineteenth century Photography nostalgia and the will to authenticity.txt
+	0.5291268825531006	./txt_preprocessed\NCC\2000s\article\general\NCC_2008_30.3_“Tribes of the Eagle the Panther and Wolf” Nineteenth‐Century Ethnographic Verse in the United State.txt
+Topic 2:
+	0.9998418688774109	./txt_preprocessed\NCL\2000s\article\general\NCL_2000_55.1_Reanimating Stevenson's Corpus.txt
+	0.9997746348381042	./txt_preprocessed\NCL\2000s\article\general\NCL_2009_64.2_Savage and Scott-ish Masculinity in The Last of the Mohicans and The Prairie James Fenimore Cooper a.txt
+	0.9964588284492493	./txt_preprocessed\NCL\2000s\article\general\NCL_2002_57.3_The Man That Was Used Up Edgar Allan Poe and the Ends of Captivity.txt
+	0.8694403767585754	./txt_preprocessed\NCL\2000s\article\general\NCL_2008_63.3_Gaskell's Naturalist.txt
+	0.7593302130699158	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2003_118.3_Beyond the Panopticon Victorian Britain and the Critical Imagination.txt
+	0.7491991519927979	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2005_120.2_“The Time Is Sick and Out of Joint” Physical Disability in Victorian England.txt
+	0.6098135113716125	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2009_124.2_Griffith Dickens and the Politics of Composure.txt
+Topic 3:
+	0.9998297095298767	./txt_preprocessed\NCL\2000s\article\general\NCL_2002_57.3_Catastrophe and the City Charlotte Brontë as Urban Novelist.txt
+	0.999808669090271	./txt_preprocessed\NCC\2000s\article\general\NCC_2005_27.2_A Nation Once Again The Dislocations and Displacements of Irish National Memory.txt
+	0.9996911883354187	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_The Ghost of Matthew Arnold Englishness and the Politics of Culture.txt
+	0.937200129032135	./txt_preprocessed\NCL\2000s\article\general\NCL_2003_58.1_Converting Trilby Du Maurier on Englishness Jewishness and Culture.txt
+	0.6397516131401062	./txt_preprocessed\NCL\2000s\article\general\NCL_2009_64.2_Reader perhaps you were never in Belgium Negotiating British Identity in Charlotte Brontë's The Prof.txt
+	0.5419088006019592	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2008_123.1_Historical Poetics Dysprosody and The Science of English Verse.txt
+	0.33387699723243713	./txt_preprocessed\NCL\2000s\article\general\NCL_2002_57.3_Between History and Fiction Plotting Rebellion in Maria Edgeworth's Ennui.txt
+Topic 4:
+	0.9998295307159424	./txt_preprocessed\NCL\2000s\article\general\NCL_2007_61.4_The Return of the Unnative The Transnational Politics of Elizabeth Gaskell's North and South.txt
+	0.9997085332870483	./txt_preprocessed\NCC\2000s\article\general\NCC_2008_30.3_Outer Display and Inner Insincerity The Functions of Mourning Dress in the Nineteenth‐Century Nether.txt
+	0.9373114109039307	./txt_preprocessed\NCC\2000s\article\special\NCC_2000_22.1_Found drowned The Irish Atlantic.txt
+	0.8909030556678772	./txt_preprocessed\NCL\2000s\article\general\NCL_2005_59.4_NORTH AND SOUTH EAST AND WEST.txt
+	0.8866467475891113	./txt_preprocessed\NCL\2000s\article\general\NCL_2000_55.1_The Creative Potential of Dialect Writing in Later-Nineteenth-Century America.txt
+	0.8219205141067505	./txt_preprocessed\NCL\2000s\article\general\NCL_2008_63.3_A Refusal and Traversal Robert Cunninghame Graham's Engagement with Orientalism in Mogreb-el-Acksa.txt
+	0.8147399425506592	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_“Savages” into SpectatorsConsumers Globalization in Advertising Posters 1890s–1900s.txt
+Topic 5:
+	0.9998296499252319	./txt_preprocessed\NCL\2000s\article\general\NCL_2005_59.4_ENTIRELY BLACK VERSE FROM HIM WOULD SUCCEED.txt
+	0.9997978806495667	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2002_117.3_The Consolation of Physics Tennyson's Thermodynamic Solution.txt
+	0.9997074007987976	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_Geographical Imaginations of the “Holy Land” Biblical Topography and Archaeological Practice.txt
+	0.9218664765357971	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_Construction of Sacred Topography the Nineteenth Century and Today.txt
+	0.7108399271965027	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_In Perilous Waters Single Female Migration to Post‐Penal Tasmania.txt
+	0.6964750289916992	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_Citizens of the World Émigrés Romantic Cosmopolitanism and Charlotte Smith.txt
+	0.4662769138813019	./txt_preprocessed\NCL\2000s\article\general\NCL_2006_61.1_Some Things Which Could Never Have Happened Fiction Identification and Benito Cereno.txt
+Topic 6:
+	0.9998438954353333	./txt_preprocessed\NCL\2000s\article\general\NCL_2008_63.3_William Wordsworth and Photographic Subjectivity.txt
+	0.999767541885376	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2009_124.2_Dickens and the Wolf Man Childhood Memory and Fantasy in David Copperfield.txt
+	0.9989388585090637	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2008_123.2_Ruskin Turner and Modernism.txt
+	0.9983282685279846	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2008_123.2_Ruskin Turner and Modernism - Reply.txt
+	0.9982399940490723	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2008_123.2_Defining Allusion - Reply.txt
+	0.9977250695228577	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2008_123.2_Wordsworth and the Ethics of Things.txt
+	0.9824903011322021	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2007_122.3_Modernist Ruskin Victorian Baudelaire Revisioning Nineteenth-Century Aesthetics.txt
+	0.9408323764801025	./txt_preprocessed\NCC\2000s\article\general\NCC_2003_25.3_Green man hopkins gerard manley hopkins and victorian ecological criticism.txt
+	0.9401238560676575	./txt_preprocessed\NCC\2000s\article\special\NCC_2006_28.1_“The Materials for a ‘Life’” Collaboration Publication and the Carlyles’ Afterlives.txt
+	0.8839010000228882	./txt_preprocessed\NCC\2000s\article\general\NCC_2003_25.3_From word to image Illustrating great expectations.txt
+	0.8394343852996826	./txt_preprocessed\NCC\2000s\article\special\NCC_2006_28.1_Imagination Materiality and the Act of Writing in Emily Brontë’s Diary Papers.txt
+	0.8149099349975586	./txt_preprocessed\NCC\2000s\article\special\NCC_2006_28.1_Introduction Victorian Life Writing.txt
+	0.7877169847488403	./txt_preprocessed\NCC\2000s\article\general\NCC_2003_25.3_Literary nostalgia and early victorian photographic discourse.txt
+	0.704891562461853	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2009_124.2_Math for Math's Sake Non-Euclidean Geometry Aestheticism and Flatland.txt
+	0.6575838327407837	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2007_122.5_Pioneers of Inner Space Drug Autobiography and Manifest Destiny.txt
+	0.618048369884491	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2006_121.2_The Rise of Periodical Studies.txt
+	0.6026135683059692	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2006_121.2_Faciality and Sensation in Hardy's The Return of the Native.txt
+	0.5736021399497986	./txt_preprocessed\NCC\2000s\article\special\NCC_2006_28.1_On Being “Tempted to Knit” Writing Reviewing and Reading Biography.txt
+	0.52571040391922	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2003_118.3_Presidential Address 2002 “Stay Illusion”—On Receiving Messages from the Dead.txt
+	0.42096489667892456	./txt_preprocessed\NCL\2000s\article\general\NCL_2003_58.1_I Like These Plants That You Call Weeds Historicizing American Women's Nature Writing.txt
+	0.3831324577331543	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2001_116.5_Our Puny Boundaries Why the Craving for Carving up the Nineteenth Century.txt
+Topic 7:
+	0.9997888207435608	./txt_preprocessed\NCC\2000s\article\general\NCC_2005_27.2_The Bagging Factory and the Breakfast Factory Industrial Labor and Sentimentality in Harriet Beecher.txt
+	0.9997879266738892	./txt_preprocessed\NCL\2000s\article\general\NCL_2008_63.3_Edgar Allan Poe's Aesthetic Theory the Insanity Debate and the Ethically Oriented Dynamics of “The T.txt
+	0.9997683167457581	./txt_preprocessed\NCL\2000s\article\general\NCL_2009_64.2_Thomas Hardy and the Machine The Mechanical Deformation of Narrative Realism in Tess of the d'Urberv.txt
+	0.9702461957931519	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_The Political Economy of the Potato.txt
+	0.8414797186851501	./txt_preprocessed\NCC\2000s\article\general\NCC_2002_24.2_Matthew Lewis's Journal of a West India Proprietor  Surveillance and Space on the Plantation.txt
+	0.7850789427757263	./txt_preprocessed\NCC\2000s\article\general\NCC_2003_25.3_Returning the look Victorian writers and the Paris Morgue.txt
+	0.7177079319953918	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_Jeffrey Brace in Barbados Slavery Interracial Relationships and the Emergence of a Global Economy.txt
+	0.5598602294921875	./txt_preprocessed\NCC\2000s\article\special\NCC_2006_28.1_Sweet Money Cultural and Economic Value in Trollope’s Autobiography.txt
+	0.49016013741493225	./txt_preprocessed\NCC\2000s\article\general\NCC_2002_24.2_Portrait Galleries Representative History and Hazlitt's Spirit of the Age.txt
+	0.4873368740081787	./txt_preprocessed\NCL\2000s\article\general\NCL_2000_55.1_Oscar Wilde Orality Literary Property and Crimes of Writing.txt
+	0.47100675106048584	./txt_preprocessed\NCL\2000s\article\general\NCL_2000_55.1_Eros and Ideology At the Heart of Hawthorne's Blithedale.txt
+Topic 8:
+	0.9998295307159424	./txt_preprocessed\NCL\2000s\article\general\NCL_2004_59.2_GE0RGE GISSING'S AMBIVALENT REALISM.txt
+	0.9998015761375427	./txt_preprocessed\NCL\2000s\article\general\NCL_2001_56.2_Never Mind the Value What about the Price; Or How Much Did Marmion Cost St John Rivers.txt
+	0.9993565082550049	./txt_preprocessed\NCC\2000s\article\special\NCC_2009_31.1_Scott’s Victorian Readers.txt
+	0.9958109855651855	./txt_preprocessed\NCC\2000s\article\general\NCC_2004_26.2_“Henceforward I refuse to bow the knee to their narrow rule” Mary Elizabeth Braddon's Belgravia Maga.txt
+	0.9732324481010437	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2009_124.2_Rich Woman Poor Woman Toward an Anthropology of the Nineteenth-Century Marriage Plot.txt
+	0.9475860595703125	./txt_preprocessed\NCL\2000s\article\general\NCL_2002_57.3_Outbidding at the Start the Old Cautious Hucksters Promotional Discourse and Whitman's Free Verse.txt
+	0.9045921564102173	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2002_117.3_Decadence as Scientific Fulfillment.txt
+	0.889221727848053	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2005_120.1_A Box for Wilfrid Blunt.txt
+	0.8255540132522583	./txt_preprocessed\NCL\2000s\article\general\NCL_2001_56.2_Child-Murder Narratives in George Eliot's Adam Bede Embedded Histories and Fictional Representation.txt
+	0.8200172781944275	./txt_preprocessed\NCL\2000s\article\general\NCL_2004_59.2_SOUTHWORTH AND SERIALITY.txt
+	0.8070814609527588	./txt_preprocessed\NCC\2000s\article\special\NCC_2009_31.1_Charlotte M Yonge Reading Writing and Recycling Historical Fiction in the Nineteenth Century.txt
+	0.7956293821334839	./txt_preprocessed\NCL\2000s\article\general\NCL_2001_56.2_F R Leavis The Great Tradition of the English Novel and the Jewish Part.txt
+	0.784254789352417	./txt_preprocessed\NCL\2000s\article\general\NCL_2007_61.4_The Actual Sky Is a Horror Thomas Hardy and the Arnoldian Conception of Science.txt
+	0.7776376008987427	./txt_preprocessed\NCL\2000s\article\general\NCL_2006_61.1_The Strain of Sympathy A Mary F Robinson The New Arcadia and Vernon Lee.txt
+	0.7671788930892944	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2005_120.3_The Social and Political Position Of Woman in Ancient Egypt.txt
+	0.706293523311615	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2004_119.5_Wilde and Wilder.txt
+	0.5552938580513	./txt_preprocessed\PMLA\2000s\article\special\PMLA_2009_124.2_Trollopian “Foreign Policy” Rootedness and Cosmopolitanism in the Mid-Victorian Global Imaginary.txt
+	0.5039080381393433	./txt_preprocessed\NCL\2000s\article\general\NCL_2001_56.2_Michael Sadleir and His Collection of Nineteenth-Century Fiction.txt
+	0.49112066626548767	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2000_115.5_Is Middlemarch Ahistorical.txt
+	0.4617864489555359	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2001_116.5_Who's Carving up the Nineteenth Century.txt
+	0.41986820101737976	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2002_117.3_Introduction The Science of British Literature 1819 1851 1882–94.txt
+Topic 9:
+	0.9998387694358826	./txt_preprocessed\NCL\2000s\article\general\NCL_2007_61.4_National Bodies Robert Southey's Life of Nelson and John Franklin's Narrative of a Journey to the Sh.txt
+	0.9998229146003723	./txt_preprocessed\NCL\2000s\article\general\NCL_2009_64.2_Were Tom and Huck On-Shelf Public Libraries Mark Twain and the Formation of Accessible Canons 1869–1.txt
+	0.9997996091842651	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_Traveling Natures.txt
+	0.9975447654724121	./txt_preprocessed\NCC\2000s\article\general\NCC_2005_27.2_Goblin Markets Victorian Women Shoppers at Liberty’s Oriental Bazaar.txt
+	0.9559066891670227	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2002_117.3_The Monster in the Rainbow Keats and the Science of Life.txt
+	0.9478215575218201	./txt_preprocessed\NCC\2000s\article\general\NCC_2002_24.2_Mental Travelers Joseph Banks Mungo Park and the Romantic Imagination.txt
+	0.8924864530563354	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_Typologies of the East On Distinguishing Balkanism and Orientalism.txt
+	0.8794678449630737	./txt_preprocessed\NCL\2000s\article\general\NCL_2007_62.1_Mutiny Echoes India Britons and Charles Dickens's A Tale of Two Cities.txt
+	0.8381441235542297	./txt_preprocessed\NCC\2000s\article\general\NCC_2008_30.3_Bidding for the Bard Shakespeare the Victorians and the Auction of the Birthplace.txt
+	0.7814072966575623	./txt_preprocessed\NCC\2000s\article\general\NCC_2004_26.2_A “true story … of evils overcome” sacred biography prophecy and colonial disease in Southey's Tale .txt
+	0.7324798703193665	./txt_preprocessed\NCL\2000s\article\general\NCL_2004_59.2_THE IMAGINATION GOES VISITING.txt
+	0.6942954063415527	./txt_preprocessed\NCL\2000s\article\general\NCL_2001_56.1_Brushes with Fame Thackeray and the Work of Celebrity.txt
+	0.6878774166107178	./txt_preprocessed\NCC\2000s\article\general\NCC_2008_30.3_From Squalid Impropriety to Manly Respectability The Revival of Beards Moustaches and Martial Values.txt
+	0.6093998551368713	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_“That Imperious Passion” Self as Vortex in Don Juan’s Russian Affair.txt
+	0.5702987313270569	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_The Middle Passages of Nancy Prince and Harriet Jacobs.txt
+	0.5689552426338196	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_“A Prodigious Map Beneath His Feet” Virtual Travel and The Panoramic Perspective.txt
+	0.48804065585136414	./txt_preprocessed\PMLA\2000s\article\general\PMLA_2000_115.5_Telegraphic Realism Henry James's In the Cage.txt
+	0.38662421703338623	./txt_preprocessed\NCC\2000s\article\general\NCC_2004_26.2_London Mysteries and international conspiracies James Doyle and the aesthetics of cosmopolitanism.txt
+	0.36018967628479004	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_Introduction Global Formations and Recalcitrances.txt
+	0.31887906789779663	./txt_preprocessed\NCC\2000s\article\special\NCC_2007_29.2-3_Peripheral Modernities National and Global in a Post‐Colonial Frame.txt

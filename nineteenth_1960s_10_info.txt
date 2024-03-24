@@ -1,0 +1,444 @@
+Topic 0:
+- shaw: 0.020167147740721703
+- tennyson: 0.013569780625402927
+- play: 0.01143078226596117
+- man: 0.009632498025894165
+- carlyle: 0.008872522041201591
+- art: 0.007868671789765358
+- london: 0.006003738846629858
+- mrs: 0.005896741524338722
+- time: 0.005680263042449951
+- life: 0.005518400575965643
+- letter: 0.005260190926492214
+- year: 0.004929317627102137
+- dorothy: 0.004703291691839695
+- newyork: 0.004125993698835373
+- brown: 0.003942846320569515
+- adam: 0.0039290799759328365
+- poet: 0.00347646395675838
+- great: 0.00312413671053946
+- religion: 0.0030825918074697256
+- modern: 0.003048628568649292
+- drama: 0.0029109606985002756
+- artist: 0.002889528637751937
+- medieval: 0.002764357253909111
+- call: 0.002706041093915701
+- woman: 0.002659654011949897
+- live: 0.002643564948812127
+- tell: 0.0024759031366556883
+- scene: 0.0024393051862716675
+- nature: 0.0024307018611580133
+- friend: 0.0024031060747802258
+Topic 1:
+- alice: 0.015407836996018887
+- brown: 0.01200892124325037
+- crane: 0.009415539912879467
+- color: 0.009095248766243458
+- man: 0.007085717283189297
+- red: 0.005738433450460434
+- poem: 0.005234324838966131
+- ground: 0.004712540656328201
+- goethe: 0.004681010264903307
+- browning: 0.004657539073377848
+- poet: 0.004425265360623598
+- myth: 0.004269993863999844
+- fact: 0.0042687878012657166
+- order: 0.004112840164452791
+- time: 0.0040066237561404705
+- effect: 0.00348878325894475
+- yellow: 0.003409268567338586
+- story: 0.003316085785627365
+- modern: 0.0032834880985319614
+- thing: 0.0032003368251025677
+- music: 0.0031225336715579033
+- meaning: 0.0031142712105065584
+- view: 0.0030035453382879496
+- truth: 0.002979580545797944
+- human: 0.002941153012216091
+- roderick: 0.0029044728726148605
+- life: 0.0029018723871558905
+- pattern: 0.002874399069696665
+- sense: 0.002803016919642687
+- light: 0.0027888871263712645
+Topic 2:
+- melville: 0.029893983155488968
+- poe: 0.013135970570147038
+- man: 0.011096440255641937
+- indian: 0.010139968246221542
+- story: 0.008002233691513538
+- billy: 0.007176807150244713
+- life: 0.0068437387235462666
+- byron: 0.0060697817243635654
+- valley: 0.005152697674930096
+- confidence: 0.004530865233391523
+- world: 0.004465938080102205
+- newyork: 0.004439782351255417
+- allegory: 0.00440326239913702
+- budd: 0.004273631144315004
+- hate: 0.004222050774842501
+- fiction: 0.004198567010462284
+- indians: 0.003927411511540413
+- book: 0.0038140215910971165
+- reader: 0.0037968484684824944
+- devil: 0.0037277808878570795
+- christianity: 0.0034407004714012146
+- foster: 0.0034204984549432993
+- murray: 0.003165521891787648
+- read: 0.0031354506500065327
+- narrator: 0.0030861322302371264
+- remark: 0.0029827337712049484
+- nineteenth: 0.002875999780371785
+- ship: 0.002862292807549238
+- pearce: 0.002762474585324526
+- leg: 0.002729036146774888
+Topic 3:
+- hawthorne: 0.012140696868300438
+- man: 0.011580551974475384
+- love: 0.005289784166961908
+- world: 0.0044717732816934586
+- life: 0.004455936141312122
+- human: 0.004175260197371244
+- angel: 0.004078888799995184
+- evil: 0.003819066099822521
+- fiction: 0.0037432031240314245
+- character: 0.003561768215149641
+- time: 0.0034991204738616943
+- past: 0.003416341030970216
+- action: 0.003335789544507861
+- nineteenth: 0.00327651621773839
+- novel: 0.003247644519433379
+- self: 0.003225474152714014
+- act: 0.0031129540875554085
+- coverdale: 0.0030911839567124844
+- story: 0.003090451704338193
+- heart: 0.0030756662599742413
+- blithedale: 0.00303857889957726
+- nature: 0.003008380066603422
+- wilderness: 0.002931811148300767
+- scene: 0.0028210163582116365
+- death: 0.0027931740041822195
+- end: 0.002674234565347433
+- god: 0.002567674731835723
+- zenobia: 0.002545110182836652
+- moral: 0.002536021638661623
+- might: 0.0025350728537887335
+Topic 4:
+- dicken: 0.008422782644629478
+- meredith: 0.007519145496189594
+- man: 0.005901741795241833
+- hardy: 0.005178916733711958
+- time: 0.004910232964903116
+- novel: 0.004741002805531025
+- heathcliff: 0.004646977409720421
+- life: 0.004314206540584564
+- world: 0.004297256004065275
+- character: 0.003682035254314542
+- fiction: 0.003585351398214698
+- love: 0.0035737096332013607
+- child: 0.0033672067802399397
+- little: 0.003279617289081216
+- book: 0.0031979018822312355
+- letter: 0.003152939025312662
+- year: 0.0030755915213376284
+- mrs: 0.002836376428604126
+- word: 0.0028330828063189983
+- great: 0.0028079519979655743
+- read: 0.002761752111837268
+- nineteenth: 0.0027331924065947533
+- never: 0.002685731975361705
+- reader: 0.002677420387044549
+- twain: 0.0026754706632345915
+- fact: 0.0026515298523008823
+- catherine: 0.0026258996222168207
+- self: 0.0025487560778856277
+- dick: 0.0024393009953200817
+- story: 0.0022971893195062876
+Topic 5:
+- jane: 0.011922410689294338
+- emerson: 0.008075831457972527
+- novel: 0.007104857359081507
+- charlotte: 0.005476097110658884
+- life: 0.005428584758192301
+- lucy: 0.004819869063794613
+- letter: 0.00442590843886137
+- bronte: 0.00436429725959897
+- time: 0.00425641518086195
+- governess: 0.0041354442946612835
+- library: 0.0041205743327736855
+- book: 0.0039983270689845085
+- year: 0.003648318350315094
+- moon: 0.003535687457770109
+- turn: 0.0034162087831646204
+- man: 0.0033283233642578125
+- critic: 0.0033059604465961456
+- nature: 0.0033027916215360165
+- london: 0.003280442440882325
+- imagination: 0.0032801497727632523
+- story: 0.003241520607843995
+- three: 0.0031364355236291885
+- fiction: 0.003130469238385558
+- mind: 0.0029846911784261465
+- reason: 0.002862226217985153
+- feel: 0.00266387895680964
+- love: 0.0026549017056822777
+- little: 0.0026193619705736637
+- rochester: 0.0025016663130372763
+- world: 0.0024696364998817444
+Topic 6:
+- novel: 0.009802828542888165
+- man: 0.007606642786413431
+- eliot: 0.00746329827234149
+- character: 0.007329048588871956
+- life: 0.007190101779997349
+- world: 0.005903801880776882
+- moral: 0.005472998600453138
+- action: 0.003821510821580887
+- view: 0.0038052918389439583
+- love: 0.003608960658311844
+- time: 0.0035140886902809143
+- human: 0.003399686189368367
+- fiction: 0.0033315184991806746
+- plot: 0.0032738533336669207
+- book: 0.0032114137429744005
+- sense: 0.0032001729123294353
+- fact: 0.0029594269581139088
+- social: 0.002876638201996684
+- nature: 0.0027932084631174803
+- form: 0.0027096562553197145
+- nineteenth: 0.0025481092743575573
+- thing: 0.0025417176075279713
+- present: 0.002526011783629656
+- theme: 0.0025004970375448465
+- reader: 0.002489339327439666
+- feel: 0.0024149478413164616
+- less: 0.002304129535332322
+- great: 0.002294016070663929
+- mind: 0.0022892167326062918
+- thus: 0.002276561688631773
+Topic 7:
+- pickwick: 0.022606123238801956
+- dicken: 0.010266170836985111
+- time: 0.008479606360197067
+- number: 0.007698879111558199
+- story: 0.006723413709551096
+- day: 0.00536760501563549
+- novel: 0.0053674085065722466
+- series: 0.005161145702004433
+- london: 0.005104214418679476
+- fiction: 0.004984393250197172
+- conrad: 0.004720134194940329
+- man: 0.004702983424067497
+- oliver: 0.0037096424493938684
+- lane: 0.0036631610710173845
+- world: 0.0034228202421218157
+- year: 0.0034222330432385206
+- month: 0.0032522035762667656
+- life: 0.0031594668980687857
+- appear: 0.0031101733911782503
+- three: 0.003049626713618636
+- mrs: 0.0030408152379095554
+- date: 0.002890124684199691
+- woman: 0.0027689561247825623
+- christmas: 0.0027595143765211105
+- jingle: 0.002759378869086504
+- great: 0.0027117759454995394
+- follow: 0.0026486641727387905
+- fact: 0.0026370352134108543
+- last: 0.002557222032919526
+- book: 0.0023907432332634926
+Topic 8:
+- ruskin: 0.01143476739525795
+- novel: 0.011388104408979416
+- life: 0.008204542100429535
+- ford: 0.008199458010494709
+- view: 0.007545813452452421
+- conrad: 0.0068080853670835495
+- time: 0.005804692395031452
+- scott: 0.005483385641127825
+- art: 0.004748203791677952
+- fiction: 0.004689560737460852
+- book: 0.004338396247476339
+- character: 0.004315635655075312
+- marlow: 0.004249720834195614
+- form: 0.003965905401855707
+- center: 0.003541352692991495
+- subject: 0.003492421703413129
+- narrator: 0.0034535571467131376
+- flora: 0.003365266602486372
+- criticism: 0.0031080159824341536
+- man: 0.0030953555833548307
+- structure: 0.0030687295366078615
+- fact: 0.0030482718721032143
+- preface: 0.002999613992869854
+- story: 0.0027610191609710455
+- hand: 0.002674810355529189
+- artist: 0.0026139875408262014
+- twain: 0.002607995178550482
+- reader: 0.002543746493756771
+- society: 0.002402667887508869
+- conscience: 0.00237456988543272
+Topic 9:
+- pip: 0.01437536533921957
+- tennyson: 0.01160476729273796
+- thackeray: 0.011441097594797611
+- amelia: 0.007950793020427227
+- novel: 0.006785376463085413
+- number: 0.006601147819310427
+- poem: 0.006095469929277897
+- vanity: 0.005840366706252098
+- fair: 0.004999019671231508
+- philip: 0.004885515198111534
+- contrast: 0.004237496294081211
+- little: 0.003996694926172495
+- lover: 0.003938563633710146
+- time: 0.0036730405408889055
+- tale: 0.0033125916961580515
+- three: 0.0032387436367571354
+- love: 0.0031963351648300886
+- man: 0.0031469326931983232
+- joe: 0.0031339176930487156
+- hero: 0.003127552568912506
+- verse: 0.0031238296069204807
+- mrs: 0.0030655935406684875
+- form: 0.003054175293073058
+- great: 0.0030518758576363325
+- character: 0.00300640263594687
+- osborne: 0.003002098761498928
+- life: 0.0029868390411138535
+- herbert: 0.0029165884479880333
+- balzac: 0.002692211652174592
+- end: 0.002674270421266556
+Topic 0:
+	0.9997789263725281	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1969_84.3_Methinks It Is like a Weasel Shaw's Pre-Raphaelite Drama.txt
+	0.9997631907463074	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1966_81.5_Bernard Shaw's Pre-Raphaelite Drama.txt
+	0.9995429515838623	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1960_75.5_Browning and Macready The Final Quarrel.txt
+	0.918675422668457	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1961_76.1_Carlyle and Tennyson.txt
+	0.9011834263801575	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1963_78.5_Dorothy M Richardson The Personal Pilgrimage.txt
+	0.7215074896812439	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1963_78.3_Bernard Shaw and C E M Joad The Adventures of Two Puritans in Their Search for God.txt
+	0.6602668762207031	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1969_84.2_Tennyson and Teilhard The Faith of In Memoriam.txt
+	0.6166502833366394	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_Adam Verver Yankee Businessman.txt
+	0.4619125723838806	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1963_78.5_The Lost Girl D H Lawrence as a Dickens of the Midlands.txt
+Topic 1:
+	0.9996913075447083	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1966_81.7_Browning and the Question of Myth.txt
+	0.9996179342269897	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_Crane and Goethe A Forgotten Relationship.txt
+	0.9535040855407715	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_Legend and Symbol in Hardy's The Three Strangers.txt
+	0.8777756690979004	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_The Revision of Rowland Mallet.txt
+	0.7298276424407959	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_The Literary Contexts of My Kinsman Major Molineux.txt
+	0.5938128232955933	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1966_81.5_Alice's Journey to the End of Night.txt
+	0.4262489676475525	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1963_78.4_Browning's Music Poems Fancy and Fact.txt
+Topic 2:
+	0.9994999766349792	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_Melville and the Fortunate Fall Typee as Eden.txt
+	0.9993335604667664	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_The Metaphysics of Indian-Hating.txt
+	0.9984580874443054	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_Is Poe's The Assignation a Hoax.txt
+Topic 3:
+	0.9997212290763855	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_Paradise and Consciousness in Hardy's Tess.txt
+	0.9996253848075867	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_Hawthorne and Dimmesdale The Search for the Realm of Quiet.txt
+	0.9995880126953125	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_Hawthorne's Blithedale The Function of the Narrator.txt
+	0.9993946552276611	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_The Regeneration of Roaring Camp.txt
+	0.9860467314720154	./txt_preprocessed\NCL\1960s\article\general\NCL_1966_21.3_Stevenson's Markheim A Fictional Christmas Sermon.txt
+	0.969559371471405	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_The Summons of the Past Hawthorne's Alice Doane's Appeal.txt
+	0.8250375986099243	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_Symbolism and Psychological Realism in The Red Badge of Courage.txt
+	0.7002406716346741	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_Moby Dick Chapter CXXIX The Cabin.txt
+	0.6632263660430908	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_Elizabeth Bennet Prejudice or Vanity.txt
+	0.6526257991790771	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_Pride Prejudice and Vanity in Elizabeth Bennet.txt
+	0.638729453086853	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_The Golden Navel The Cabalism of Ahab's Doubloon.txt
+	0.6274489760398865	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_The Origin of Original Sin in Hawthorne's Fiction.txt
+	0.6262102723121643	./txt_preprocessed\NCL\1960s\article\general\NCL_1964_18.4_The Mirror and the Sword Imagery in Far from the Madding Crowd.txt
+	0.6123971939086914	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_Platonic Allegory in Poe's Eleonora.txt
+	0.5921117663383484	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1961_76.5_Shaw's Debt to Scribe.txt
+	0.5666069388389587	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_The House of the Seven Gables The Religion of Love.txt
+	0.5273427367210388	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_The Minister's Black Veil Symbol Meaning and the Context of Hawthorne's Art.txt
+	0.519062876701355	./txt_preprocessed\NCL\1960s\article\general\NCL_1966_21.3_Some Rents in the Veil New Light on Priscilla and Zenobia in The Blithedale Romance.txt
+	0.4830256700515747	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_Jack London's Symbolic Wilderness Four Versions.txt
+	0.3686220943927765	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_The Human Scale A Note on Hard Times.txt
+Topic 4:
+	0.9997416138648987	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1969_84.1_Mark Twain and Dickens.txt
+	0.9996466636657715	./txt_preprocessed\NCL\1960s\article\general\NCL_1964_18.4_Charlotte Brontë as a Critic of Wuthering Heights.txt
+	0.9995322823524475	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_The Memorializing of Mr Dick.txt
+	0.9995322823524475	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1963_78.1_Infanticide and Sadism in Wuthering Heights.txt
+	0.9917111992835999	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_Meredith's Idea of Comedy 1876-1880.txt
+	0.9579712152481079	./txt_preprocessed\NCL\1960s\article\general\NCL_1966_21.3_Meredith at Work The Tale of Chloe.txt
+	0.9465115070343018	./txt_preprocessed\NCL\1960s\article\general\NCL_1964_18.4_Hardy's Mayor Notes on Style.txt
+	0.9460493326187134	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_The Functions of Flitch in The Egoist.txt
+	0.9384041428565979	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_Bleak House and Dickens's Household Narrative.txt
+	0.8355497121810913	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_The Betrothal of George Meredith to Marie Vulliamy.txt
+	0.801639974117279	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_Theoretic and Practical Unconventionality in Jude the Obscure.txt
+	0.7881478667259216	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_Mrs Genera las Victorian England Dickens's Image of His Time.txt
+	0.7631521224975586	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_Father Time's Suicide Note in Jude the Obscure.txt
+	0.7272297739982605	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_Dickens' Flora Finching and Joyce's Molly Bloom.txt
+	0.7219437956809998	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_Subversive Grotesque in Samuel Warren's Ten Thousand a-Year.txt
+	0.667455792427063	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1961_76.5_Significant Points of Comparison between the Biblical Criticism of Thomas and Matthew Arnold.txt
+	0.6415557265281677	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_Style and Purpose in Maria Edgeworth's Fiction.txt
+	0.6242552399635315	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_The World of Van Wyck Brooks.txt
+	0.617422878742218	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_Communication in Great Expectations.txt
+	0.6037012338638306	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_Two Missing Links in Oliver Twist.txt
+	0.5994858741760254	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_The Significance of Dual Point of View in Bleak House.txt
+	0.591552197933197	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_Redburn's Wicked End.txt
+	0.4867321848869324	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_Wuthering Heights and the Unforgivable Sin.txt
+Topic 5:
+	0.9997916221618652	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1962_77.5_Emerson's Early Impact on England A Study in British Periodicals.txt
+	0.999634325504303	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_Jane Eyre's Imagination.txt
+	0.9948755502700806	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_A Victorian Leviathan Mudie's Select Library.txt
+	0.977584183216095	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_Charlotte Brontë Reason and the Moon.txt
+	0.951970100402832	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1960_75.4_Villette and the Life of the Mind.txt
+	0.8899436593055725	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1963_78.3_The Turn of the Screw and Alice James.txt
+	0.8025846481323242	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1964_79.5_Maria Francesca to Dante Gabriel Rossetti Some Unpublished Letters.txt
+	0.7817439436912537	./txt_preprocessed\NCL\1960s\article\general\NCL_1964_18.4_Jane Eyre The Unbaptized Dionysos.txt
+	0.7775226831436157	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_Two Biographies of Anne Brontë.txt
+	0.7352629899978638	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_James's Ghosts in The Turn of the Screw.txt
+	0.41730594635009766	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_Lewes's Review of Wuthering Heights.txt
+Topic 6:
+	0.9997622966766357	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1962_77.3_Determinism and Responsibility in the Works of George Eliot.txt
+	0.9997093677520752	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1969_84.1_Fleda Vetch and the Plot of The Spoils of Poynton.txt
+	0.9996418952941895	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1965_80.4_Intelligence as Deception The Mill on the Floss.txt
+	0.999603271484375	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1963_78.4_Shape and Theme Determinants of Trollope's Forms.txt
+	0.9995721578598022	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_The Uses of the Village Form and Theme in Trollope's The Vicar of Bullhampton.txt
+	0.9994646906852722	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1969_84.3_The Time Machine Or The Fourth Dimension as Prophecy.txt
+	0.9994210004806519	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_The Weak Wings of Pride An Interpretation of James's The Bench of Desolation.txt
+	0.9713849425315857	./txt_preprocessed\NCL\1960s\article\general\NCL_1965_20.2_Character and Destiny in George Eliot's Fiction.txt
+	0.9648339152336121	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1966_81.3_Newman Aristotle and the New Criticism On the Modern Element in Newman's Poetics.txt
+	0.9162583947181702	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_Death and Immortality George Eliot's Solution.txt
+	0.8825206756591797	./txt_preprocessed\NCL\1960s\article\general\NCL_1966_21.3_Romola and the Origin of the Paterian View of Life.txt
+	0.8585497140884399	./txt_preprocessed\NCL\1960s\article\general\NCL_1966_21.3_Character and Fate in Hardy's The Mayor of Casterbridge.txt
+	0.8531787991523743	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_A Forgotten Tale by George Eliot.txt
+	0.8183284997940063	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1962_77.3_The Moral Landscape of Arnold's Poetry.txt
+	0.8171389698982239	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_Late Nineteenth-Century American Realism An Essay in Definition.txt
+	0.7983603477478027	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_The Disunity of The Bostonians.txt
+	0.7783918380737305	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_Hawthorne's International Novel.txt
+	0.7276579737663269	./txt_preprocessed\NCL\1960s\article\general\NCL_1964_18.4_The Problem of Theme in The Marble Faun.txt
+	0.6156891584396362	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_George Eliot's Unascribed Mottoes.txt
+	0.5896726846694946	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_The Literary Children of James and Clemens.txt
+	0.5879393815994263	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_Necessary Presence The Rhetoric of the Narrator in Vanity Fair.txt
+	0.5401090979576111	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_Billy Budd Claggart and Schopenhauer.txt
+	0.5225763320922852	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_The Three Georges.txt
+	0.5021675229072571	./txt_preprocessed\NCL\1960s\article\general\NCL_1968_23.3_The Symbolism of the Italian Background in The Marble Faun.txt
+	0.49991416931152344	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_Point of View and Structure in The Heart of Midlothian.txt
+	0.49070027470588684	./txt_preprocessed\NCL\1960s\article\general\NCL_1960_14.4_Myths of Character An Aspect of the Novel.txt
+	0.458547979593277	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_The Tempest of Axel Heyst.txt
+	0.42997094988822937	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_A Major Thematic Pattern in Pride and Prejudice.txt
+	0.27997109293937683	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1965_80.5_Browning's Sordello The Art of the Makers-See.txt
+Topic 7:
+	0.9995774030685425	./txt_preprocessed\NCL\1960s\article\general\NCL_1969_24.2_The Education of Mr Pickwick.txt
+	0.9995331764221191	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_Seasonal Relevance in The Pickwick Papers.txt
+	0.9991247057914734	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1964_79.1_Social Comment in The Nigger of the Narcissus.txt
+	0.7766888737678528	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1968_83.5_John Lane's Keynotes Series and the Fiction of the 1890's.txt
+Topic 8:
+	0.9996180534362793	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_The Fair Maid Manzoni's Betrothed and the Grounds of Waverley Criticism.txt
+	0.9995976090431213	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1965_80.4_James's Idea of Structure.txt
+	0.9994160532951355	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_James's and Lubbock's Differing Points of View.txt
+	0.9992127418518066	./txt_preprocessed\NCL\1960s\article\general\NCL_1966_21.3_Conrad's Use of Time in Chance.txt
+	0.8875508904457092	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_The Walter Scott Episode in Huckleberry Finn.txt
+	0.7538262009620667	./txt_preprocessed\NCL\1960s\article\general\NCL_1964_18.4_Society and Conscience in Huckleberry Finn.txt
+	0.6722280383110046	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1962_77.1_Ruskin in French Criticism A Possible Reappraisal.txt
+	0.6648642420768738	./txt_preprocessed\NCL\1960s\article\general\NCL_1961_16.3_Mansfield Park and Ordination.txt
+	0.5534651279449463	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_Conrad's Pesky Russian.txt
+	0.521771252155304	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1961_76.5_The Reputation of Ford Madox Ford.txt
+Topic 9:
+	0.9997487664222717	./txt_preprocessed\NCL\1960s\article\general\NCL_1966_21.3_Mirror-Images in Great Expectations.txt
+	0.9997037649154663	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1967_82.7_The Discipline and Significance of Form in Vanity Fair.txt
+	0.9590882658958435	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1967_82.1_Tennyson and The Lover's Tale.txt
+	0.8988151550292969	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1967_82.2_The Three Modes in Tennyson's Prosody.txt
+	0.6972823143005371	./txt_preprocessed\NCL\1960s\article\general\NCL_1963_18.2_Contrast as a Principle of Structure In Vanity Fair.txt
+	0.6389355063438416	./txt_preprocessed\NCL\1960s\article\general\NCL_1962_17.2_César Birotteau and The Rise of Silas Lapham A Study in Parallels.txt
+	0.6374640464782715	./txt_preprocessed\PMLA\1960s\article\general\PMLA_1962_77.5_Thackeray's Recantation.txt
+	0.40810731053352356	./txt_preprocessed\NCL\1960s\article\general\NCL_1967_22.3_Thackeray as Historian Two Newly Identified Contributions to Fraser's Magazine.txt

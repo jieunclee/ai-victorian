@@ -1,0 +1,459 @@
+Topic 0:
+- dicken: 0.012778880074620247
+- letter: 0.009987518191337585
+- man: 0.007998846471309662
+- year: 0.005405362229794264
+- time: 0.005259419791400433
+- trollope: 0.004783173091709614
+- london: 0.0042699589394032955
+- meredith: 0.0041713835671544075
+- life: 0.004078589379787445
+- novel: 0.0038802423514425755
+- great: 0.0038791385013610125
+- turner: 0.003834368661046028
+- word: 0.003819787874817848
+- picture: 0.0036782794632017612
+- nature: 0.0032944008708000183
+- day: 0.0032817907631397247
+- dickens: 0.003123650560155511
+- little: 0.003027860075235367
+- news: 0.0027475289534777403
+- number: 0.0026388035621494055
+- daily: 0.0025873228441923857
+- style: 0.0025829600635915995
+- poor: 0.0025536231696605682
+- week: 0.0023375218734145164
+- thackeray: 0.0023179117124527693
+- society: 0.002265112940222025
+- form: 0.0021990176755934954
+- never: 0.0021799756214022636
+- law: 0.0021754098124802113
+- people: 0.0021489362698048353
+Topic 1:
+- novel: 0.019487280398607254
+- trollope: 0.014655529521405697
+- character: 0.012818287126719952
+- dicken: 0.010870692320168018
+- scott: 0.008737832307815552
+- fiction: 0.008088524453341961
+- novelist: 0.006488825660198927
+- man: 0.0054248361848294735
+- balzac: 0.004981568083167076
+- nineteenth: 0.004561433102935553
+- story: 0.004550173878669739
+- woman: 0.003966276068240404
+- great: 0.0039024429861456156
+- zola: 0.00384880555793643
+- poe: 0.0036950563080608845
+- reader: 0.003553271759301424
+- author: 0.003477655816823244
+- lady: 0.003466008696705103
+- type: 0.003405266907066107
+- love: 0.0032980740070343018
+- social: 0.003062914591282606
+- american: 0.0030407735612243414
+- never: 0.0029711599927395582
+- change: 0.002793079474940896
+- life: 0.0027862037532031536
+- little: 0.0027721961960196495
+- less: 0.0027598864398896694
+- end: 0.0026623359881341457
+- englishadj: 0.0026472772005945444
+- appear: 0.0025753795634955168
+Topic 2:
+- reade: 0.01175124105066061
+- novel: 0.009665564633905888
+- thackeray: 0.008050423115491867
+- letter: 0.007970343343913555
+- mrs: 0.007170984521508217
+- story: 0.007030488923192024
+- scene: 0.0066462671384215355
+- time: 0.0059320516884326935
+- wharton: 0.005567580461502075
+- dear: 0.005185801535844803
+- fiction: 0.005165792535990477
+- character: 0.004919059574604034
+- american: 0.00454886956140399
+- henry: 0.004242057912051678
+- newyork: 0.003861171193420887
+- art: 0.0037375204265117645
+- little: 0.0037237992510199547
+- fact: 0.00366001483052969
+- book: 0.0036037794779986143
+- short: 0.003557099960744381
+- year: 0.0035289693623781204
+- brown: 0.003519599325954914
+- place: 0.003454585326835513
+- edith: 0.0034414443653076887
+- open: 0.0033905087038874626
+- rossetti: 0.003342076437547803
+- london: 0.003216140205040574
+- portrait: 0.0031954634469002485
+- america: 0.0031224729027599096
+- man: 0.0030436080414801836
+Topic 3:
+- dicken: 0.02373735047876835
+- hawthorne: 0.008852805010974407
+- pickwick: 0.006844149436801672
+- mrs: 0.006765439175069332
+- man: 0.006625378504395485
+- character: 0.006033789366483688
+- novel: 0.005444666370749474
+- jew: 0.005092937964946032
+- evil: 0.004817909561097622
+- dickens: 0.004656114149838686
+- letter: 0.0045754206366837025
+- fagin: 0.004464670550078154
+- fiction: 0.004333694465458393
+- book: 0.0043265121057629585
+- house: 0.004121216479688883
+- life: 0.004113054368644953
+- time: 0.004061432555317879
+- sin: 0.00401131808757782
+- bleak: 0.0039453329518437386
+- scene: 0.0037555794697254896
+- lord: 0.0035989738535135984
+- death: 0.0035645277239382267
+- tom: 0.0034269115421921015
+- minister: 0.003372598672285676
+- god: 0.003308670362457633
+- great: 0.0032540082465857267
+- story: 0.003223271109163761
+- world: 0.003213427495211363
+- power: 0.0030363211408257484
+- call: 0.002974137896671891
+Topic 4:
+- letter: 0.01147470809519291
+- bronte: 0.010789111256599426
+- book: 0.010096825659275055
+- library: 0.008259505964815617
+- collection: 0.00825923215597868
+- date: 0.0076805897988379
+- year: 0.0057875956408679485
+- copy: 0.005658584181219339
+- charlotte: 0.0054230582900345325
+- read: 0.005278930068016052
+- word: 0.005233926232904196
+- life: 0.004803672898560762
+- manuscript: 0.004773519933223724
+- mrs: 0.004747559782117605
+- biography: 0.004725624341517687
+- poem: 0.00470378715544939
+- author: 0.004579402040690184
+- emily: 0.004489449318498373
+- open: 0.00424682954326272
+- fact: 0.004115469288080931
+- great: 0.004086558241397142
+- time: 0.003978860564529896
+- novel: 0.003952292259782553
+- print: 0.003916532266885042
+- short: 0.003724165027961135
+- little: 0.0036626732908189297
+- end: 0.003608092200011015
+- sign: 0.003602470038458705
+- last: 0.0035435131285339594
+- lewe: 0.003537698881700635
+Topic 5:
+- poem: 0.012069644406437874
+- tennyson: 0.012041602283716202
+- life: 0.007275413256138563
+- poet: 0.006175524089485407
+- hardy: 0.005056960973888636
+- man: 0.0049537597224116325
+- art: 0.004239881876856089
+- london: 0.0039016937371343374
+- image: 0.003432059893384576
+- time: 0.0034147133119404316
+- eliot: 0.003148081712424755
+- sense: 0.0031307057943195105
+- form: 0.0030585872009396553
+- poetry: 0.002889760071411729
+- artist: 0.0028575442265719175
+- french: 0.002757697133347392
+- great: 0.0026701230090111494
+- novel: 0.0025876567233353853
+- year: 0.002582372399047017
+- letter: 0.00254642846994102
+- roger: 0.0024700479116290808
+- three: 0.0024231676943600178
+- world: 0.002406387822702527
+- golden: 0.002328557660803199
+- song: 0.002258917083963752
+- west: 0.0022036167792975903
+- appear: 0.0021529661025851965
+- place: 0.002152131637558341
+- read: 0.0020937256049364805
+- garden: 0.0020679596345871687
+Topic 6:
+- play: 0.007551020011305809
+- shaw: 0.00716424873098731
+- man: 0.006342122796922922
+- dream: 0.006150228437036276
+- dicken: 0.005856934003531933
+- character: 0.005211151670664549
+- life: 0.004853301215916872
+- act: 0.004236978478729725
+- london: 0.0038925916887819767
+- time: 0.0038431815337389708
+- stage: 0.003774043871089816
+- mind: 0.003612309927120805
+- great: 0.0034556458704173565
+- world: 0.0033061776775866747
+- art: 0.0032449797727167606
+- scene: 0.003244531573727727
+- actor: 0.003210230963304639
+- view: 0.0030061949510127306
+- word: 0.0029380093328654766
+- jasper: 0.0029192441143095493
+- never: 0.0028007563669234514
+- critic: 0.00271620019339025
+- mrs: 0.0026023518294095993
+- hand: 0.0025917906314134598
+- shakespeare: 0.002591789932921529
+- year: 0.0024785075802356005
+- feel: 0.002319531748071313
+- truth: 0.0022956221364438534
+- nineteenth: 0.0022601454984396696
+- last: 0.002248064847663045
+Topic 7:
+- henry: 0.035806961357593536
+- love: 0.029948100447654724
+- thackeray: 0.027492590248584747
+- rachel: 0.01689761132001877
+- theme: 0.009186389856040478
+- feeling: 0.008387100882828236
+- reader: 0.007711157668381929
+- heart: 0.006735255476087332
+- david: 0.0065519120544195175
+- novel: 0.006240801885724068
+- mother: 0.005818065255880356
+- time: 0.0054569547064602375
+- story: 0.004295434337109327
+- look: 0.003989282995462418
+- away: 0.0036956171970814466
+- relation: 0.0036723297089338303
+- life: 0.0036681080237030983
+- character: 0.0036181409377604723
+- wife: 0.0036013515200465918
+- scene: 0.003590355394408107
+- ever: 0.0035413894802331924
+- never: 0.0034530304837971926
+- sin: 0.0033565103076398373
+- passion: 0.0033350910525768995
+- nature: 0.003329846076667309
+- lady: 0.0033149709925055504
+- feel: 0.0032561058178544044
+- long: 0.003246680134907365
+- end: 0.003235435113310814
+- problem: 0.0030200532637536526
+Topic 8:
+- arnold: 0.017239321023225784
+- poetry: 0.00894571840763092
+- time: 0.007301774341613054
+- poem: 0.006659708451479673
+- man: 0.006603173445910215
+- criticism: 0.006128600332885981
+- conrad: 0.006112284027040005
+- life: 0.0055161938071250916
+- rossetti: 0.004637710750102997
+- essay: 0.004330865573137999
+- moral: 0.004140758421272039
+- art: 0.004045823588967323
+- religious: 0.004008024465292692
+- spirit: 0.003909992519766092
+- human: 0.0037633548490703106
+- critic: 0.0037449148949235678
+- child: 0.0036621878389269114
+- view: 0.0036512480583041906
+- literary: 0.0036288222763687372
+- wait: 0.003113042563199997
+- love: 0.003107710275799036
+- belief: 0.00301471003331244
+- world: 0.0029810755513608456
+- poet: 0.0029733306728303432
+- william: 0.0028961794450879097
+- religion: 0.0028596578631550074
+- london: 0.002816579770296812
+- great: 0.0027484744787216187
+- pater: 0.002621046267449856
+- force: 0.00261844415217638
+Topic 9:
+- brown: 0.008795702829957008
+- dramatic: 0.008424488827586174
+- heathcliff: 0.007150663528591394
+- monologue: 0.00705369096249342
+- hugo: 0.006191312335431576
+- poem: 0.006190665997564793
+- man: 0.005488380789756775
+- god: 0.0049780262634158134
+- character: 0.004783513490110636
+- reader: 0.004710775334388018
+- drama: 0.004660449456423521
+- buchanan: 0.0045741405338048935
+- form: 0.004370240028947592
+- cathy: 0.004261084366589785
+- sordello: 0.004002825822681189
+- action: 0.00389861804433167
+- life: 0.0035026599653065205
+- last: 0.0034447689540684223
+- might: 0.003420466324314475
+- soul: 0.0033973518293350935
+- time: 0.0033228788524866104
+- love: 0.0031533462461084127
+- great: 0.00308354664593935
+- height: 0.002968129701912403
+- judge: 0.00293265120126307
+- hawthorne: 0.002896302379667759
+- present: 0.0028952828142791986
+- world: 0.002871679374948144
+- novel: 0.002865185495465994
+- contrast: 0.002836462575942278
+Topic 0:
+	0.9997918605804443	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1956_71.5_The Politics of Dickens' Novels.txt
+	0.9996680617332458	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1951_6.3_Dickens and the Daily News Preliminaries to Publication.txt
+	0.9996656179428101	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1959_74.3_Background to Modern Painters The Tradition and the Turner Controversy.txt
+	0.9747053980827332	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1945_1.1_Trollope and Bacon's Essays.txt
+	0.906260073184967	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1954_69.4_Dickens versus Thackeray The Garrick Club Affair.txt
+	0.8706627488136292	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1955_10.3_Dickens and the Brick-and-Mortar Sects.txt
+	0.8594273924827576	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1951_66.6_Dickens the Paymaster.txt
+	0.8455300331115723	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1949_64.5_Serialization and Evan Harrington.txt
+	0.7548691630363464	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1946_1.3_Newton's Trollope Society.txt
+	0.7008653879165649	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1948_3.3_The Meaning of Egoism in George Meredith's The Egoist.txt
+	0.6224498748779297	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1949_4.3_Nicholas Nickleby and Educational Reform.txt
+	0.6147737503051758	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1951_66.2_The Structure of Newman's Apologia.txt
+	0.5771329402923584	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1945_1.1_Trollope at Harrow School.txt
+	0.55586177110672	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1957_72.5_The Early Development of Carlyle's Style.txt
+	0.5303632020950317	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1948_3.3_The Trollopes Write to Bentley Part Two.txt
+	0.49561887979507446	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1956_11.2_Mill and Gradgrind.txt
+	0.4821934401988983	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1955_10.3_Blackmore's Novels Before Lorna Doone.txt
+	0.45159998536109924	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1945_1.1_Preface.txt
+	0.44349876046180725	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1958_12.4_A Letter from Conan Doyle on the Novelist-Journalist.txt
+	0.4392039179801941	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1951_6.3_The Reception of Trollope's First Novel.txt
+	0.3919476270675659	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1946_1.3_Trollope on Sidney's Arcadia and Lytton's The Wanderer.txt
+	0.3641323745250702	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1959_14.1_A Note on Henry James's The Pupil.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1950_5.2_Charles Dickens and Henry James Two Approaches to the Art of Fiction.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1950_5.2_The Personal and Literary Relationships of Dickens and Poe Part Two English Notes and The Poets of A.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1950_5.2_The Significance of Trollope's American Senator.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1950_5.2_Whyte-Melville and Galsworthy's Bright Beings.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1950_5.2_Wilkie Collins and British Law.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1952_7.3_Charlotte Brontë and Harriet Martineau.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1952_7.3_Henry James and the Age of Innocence.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1952_7.3_Kipling in Vermont.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1952_7.3_R S Surtees Satirist and Sociologist.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1952_7.3_The Window Figure and the Two-Children Figure in Wuthering Heights.txt
+	0.10000000149011612	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1952_7.3_Trollope and the Royal Literary Fund.txt
+Topic 1:
+	0.999745786190033	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1947_62.1_Character-Types of Scott Balzac Dickens Zola.txt
+	0.9179632663726807	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1949_4.3_Mr Trollope's Young Ladies.txt
+	0.7761514782905579	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1955_10.3_A Note on Thackeray's Amelia.txt
+	0.7736404538154602	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1959_14.1_The Divided Mind of Anthony Trollope.txt
+	0.7412508726119995	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1951_6.3_Scott's Achievement as a Novelist Part Two.txt
+	0.532814621925354	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1959_14.1_Four Versions of The Return of the Native.txt
+	0.5267598628997803	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1954_9.2_Poe's Two-Edged Satiric Tale.txt
+	0.5138292908668518	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1953_8.3_Recent Criticism of Dickens.txt
+	0.30257725715637207	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1946_1.3_The Infusions of Dickens in Trollope.txt
+Topic 2:
+	0.9995110034942627	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1945_60.1_Unique and Repeated Situations and Themes in Reade's Fiction.txt
+	0.9994922280311584	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1948_63.2_The Sheffield Flood A Critical Study of Charles Reade's Fiction.txt
+	0.9135368466377258	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1954_69.3_Thackeray's Narrative Technique.txt
+	0.8047193288803101	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1958_73.5_The Browning-Rossetti Friendship Some Unpublished Letters.txt
+	0.8003437519073486	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1945_60.4_Pre-Raphaelitism in Charles Reade's Early Fiction.txt
+	0.6837812066078186	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1957_72.3_Browning's Witless Duke.txt
+	0.5697603225708008	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1959_74.5_Edith Wharton and Henry James The Literary Relation.txt
+	0.5250946879386902	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1953_8.3_The Death of Bryan Lyndon An Analogue in Gone with the Wind.txt
+	0.420512318611145	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1946_1.3_The New World in Charles Dickens's Writings Part One.txt
+	0.3925233781337738	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1946_61.1_Thackeray and Sir Martin Archer Shee.txt
+	0.33221733570098877	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1955_10.3_A Suggestion for the Original of Thackeray's Rawdon Crawley.txt
+	0.2687174677848816	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1958_12.4_Michael Sadleir (1881-1957).txt
+Topic 3:
+	0.9995647072792053	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1953_8.3_Mr Pickwick and the Seven Deadly Sins.txt
+	0.9995571970939636	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1958_73.1_Dickens' Archetypal Jew.txt
+	0.9994011521339417	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1957_12.3_The Golden Bough at Merry Mount.txt
+	0.8003969788551331	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1956_11.2_Hawthorne's Dimmesdale Fugitive from Wrath.txt
+	0.7288585901260376	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1957_12.3_Charles Dickens and Harriet Beecher Stowe.txt
+Topic 4:
+	0.9997153282165527	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1947_2.3_A Census of Brontë Manuscripts in the United States Part One.txt
+	0.9274877309799194	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1947_2.3_The Authorship of Wuthering Heights.txt
+	0.835472583770752	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1947_2.3_Little God-Sister.txt
+	0.8133020401000977	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1949_4.3_Jane Austen's Friend Mrs Barrett.txt
+	0.7779759764671326	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1957_12.3_Marryat Monsieur Violet and Edward La Salle.txt
+	0.7673128843307495	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1951_66.4_Lytton Strachey's Conception of Biography.txt
+	0.6504866480827332	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1954_9.2_Spark and Stanford's Emily Brontë.txt
+	0.5978723764419556	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1945_1.1_Textual Criticism A Provisional Bibliography.txt
+	0.5765573978424072	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1945_1.1_The Parrish Trollope Collection.txt
+	0.5486754179000854	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1956_71.1_Dickens and Lewes.txt
+	0.5460742712020874	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1948_3.3_A Census of Brontë Manuscripts in the United States Part Five Letters-Concluded.txt
+	0.4080111086368561	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1946_1.3_Letters to Trollope.txt
+	0.4073117673397064	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1945_1.1_Morris L Parrish Trollope Collector.txt
+	0.40696486830711365	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1951_6.3_The Letters of Anthony Trollope.txt
+	0.3797582983970642	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1959_14.1_Inconsistencies and Inaccuracies in Adam Bede.txt
+	0.34082508087158203	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1957_12.3_An Experiment on the American Bookseller Two Letters from Irving to Godwin.txt
+	0.3114194869995117	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1951_66.6_Dover Beach and Say Not the Struggle Nought Availeth.txt
+Topic 5:
+	0.9999030232429504	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1952_67.5_Tennyson's Garden of Art A Study of the Hesperides.txt
+	0.9892427325248718	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1949_64.3_Tennyson's Hail Briton! and Tithon in the Heath Manuscript.txt
+	0.9740867614746094	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1953_68.3_Tennyson's Allegory in the Distance.txt
+	0.946788489818573	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1953_68.4_A Neglected Phase of the Aesthetic Movement English Parnassianism.txt
+	0.7801535129547119	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1955_10.3_Independence vs Isolation Hawthorne and James on the Problem of the Artist.txt
+	0.7324767112731934	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1949_4.3_The Wheel and the Beast The Influence of London on Thomas Hardy.txt
+	0.7186141610145569	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1954_69.1_Tennyson's Princess and Vestiges.txt
+	0.6834480166435242	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1948_63.3_The Influence of London on the Dynasts.txt
+	0.6532227396965027	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1948_63.1_The High-Born Maiden Symbol in Tennyson.txt
+	0.6170846819877625	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1957_72.1_George Eliot and the Climate of Realism.txt
+	0.604299008846283	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1959_14.1_The Ambassadors Strether's Vision of Evil.txt
+	0.5921412706375122	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1956_11.2_The Function of Slang in the Dramatic Poetry of The Golden Bowl.txt
+	0.5555363297462463	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1949_64.5_The Lily and the Rose Symbolic Meaning in Tennyson's Maud.txt
+	0.49678605794906616	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1947_62.2_Samuel Rogers Man of Taste.txt
+	0.49131354689598083	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1957_12.3_Thomas Hardy and The Lyrical Novel.txt
+	0.46423080563545227	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1958_12.4_H G Wells's The Man of the Year Million.txt
+	0.43666112422943115	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1957_12.3_Mr James's Aesthetic Mr Nash.txt
+	0.426875501871109	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1953_8.3_Russian Translations of Nineteenth-Century English Fiction.txt
+	0.4237438440322876	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1951_66.6_The Inadequate Vulgarity of Henry James.txt
+	0.42016300559043884	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1951_6.3_Michael Sadleir's XIX Century Fiction.txt
+	0.3940109610557556	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1954_9.2_The Interpretation of Adam Bede.txt
+	0.3131222128868103	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1957_72.5_The Literary Criticism of George Eliot.txt
+	0.22401835024356842	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1951_6.3_Mary Arnold Ward and the Victorian Ideal.txt
+Topic 6:
+	0.9999023079872131	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1946_61.2_Players and Painted Stage Nineteenth Century Acting.txt
+	0.9996340274810791	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1948_3.3_John Jasper-Murderer Part Two.txt
+	0.9992951154708862	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1951_66.6_Pygmalion Bernard Shaw's Dramatic Theory and Practice.txt
+	0.9735822677612305	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1948_63.3_Dickens and the Psychology of Dreams.txt
+	0.9609856009483337	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1957_72.4_Bernard Shaw's Shakespeare Criticism.txt
+	0.9213823676109314	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1953_8.3_Insight the Essence of Jane Austen's Artistry.txt
+	0.8628947138786316	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1958_12.4_Blake's Urizen as Hawthorne's Ethan Brand.txt
+	0.852072536945343	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1959_74.4_Bernard Shaw's beginnings on the London Stage.txt
+	0.6602538228034973	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1949_4.3_Was Edwin Drood Murdered Part Two.txt
+	0.6569478511810303	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1949_4.3_Jane Austen's Victorian Novel.txt
+	0.5898613929748535	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1950_65.2_Point of View in Dickens.txt
+	0.588300347328186	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1959_74.4_The Abstruser Themes of Browning's Fifine at the Fair.txt
+	0.5468501448631287	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1954_9.2_The Undisciplined Heart of David Copperfield.txt
+	0.49737802147865295	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1948_3.3_Vanity Fair After One Hundred Years.txt
+	0.4631827473640442	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1953_8.3_George Eliot's Middlemarch.txt
+	0.4188691973686218	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1958_12.4_Satire and Symbolism in Bleak House.txt
+	0.38464972376823425	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1953_68.1_Lytton Strachey's Point of View.txt
+	0.3608379662036896	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1959_14.1_Crane's Decoration Day Article and The Red Badge of Courage.txt
+	0.3343682885169983	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1958_12.4_Conrad's Void.txt
+	0.3238913416862488	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1955_10.3_Another Look at The Octopus.txt
+	0.31151822209358215	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1955_70.1_The Jewelled Bow A Study in Browning's Imagery and Humanism.txt
+Topic 7:
+	0.9999431371688843	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1952_67.5_The Love Theme of Henry Esmond.txt
+Topic 8:
+	0.9996923208236694	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1957_72.5_The Zeitgeist of Matthew Arnold.txt
+	0.9993852376937866	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1955_70.3_Christina Rossetti's Sing-Song and Nineteenth-Century Children's Poetry.txt
+	0.9565799832344055	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1953_68.5_Robert Buchanan's Critical Principles.txt
+	0.9048896431922913	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1958_73.1_The Divided Tradition of English Criticism.txt
+	0.9045155048370361	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1958_73.4_Symbol and Reality in Christina Rossetti's Goblin Market.txt
+	0.668631374835968	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1958_12.4_Conrad Criticism and The Nigger of the Narcissus.txt
+	0.4557119905948639	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1954_9.2_Humorist as Rebel The Melville of Typee.txt
+Topic 9:
+	0.9997289776802063	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1956_11.2_Nelly Dean and the Power of Wuthering Heights.txt
+	0.9995805621147156	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1947_62.2_The Dramatic Monologue.txt
+	0.9994893670082092	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1959_14.1_Structure and Theme in The House of the Seven Gables.txt
+	0.9807451963424683	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1954_69.5_The Original Source of Hardy's Dynasts.txt
+	0.973200798034668	./txt_preprocessed\PMLA\1940-50s\article\general\PMLA_1954_69.5_Browning's Sordello as a Study of the Will.txt
+	0.8582911491394043	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1955_10.3_Hawthorne's Alice Doane's Appeal.txt
+	0.8505167365074158	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1957_12.3_Markheim and Chesterton's The Hammer of God.txt
+	0.8017489910125732	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1957_12.3_An American Sequel to Daniel Deronda.txt
+	0.4918198585510254	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1958_12.4_Emily Brontë's Mr Lockwood.txt
+	0.3139541447162628	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1949_4.3_Sentimentality in Thackeray's The Newcomes.txt
+	0.30897286534309387	./txt_preprocessed\NCL\1940-50s\article\general\NCL_1959_14.1_The Incest Theme in Wuthering Heights.txt

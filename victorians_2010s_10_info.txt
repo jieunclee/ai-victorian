@@ -1,0 +1,883 @@
+Topic 0:
+- victorian: 0.008136744610965252
+- culture: 0.005437431391328573
+- novel: 0.00535147450864315
+- life: 0.004302609246224165
+- social: 0.004165824502706528
+- class: 0.004104615189135075
+- london: 0.003685648087412119
+- literature: 0.003643802832812071
+- world: 0.0034304398577660322
+- history: 0.002915052929893136
+- time: 0.002793894149363041
+- nineteenth: 0.0026811601128429174
+- man: 0.002614145167171955
+- morris: 0.0025221221148967743
+- woman: 0.0024780037347227335
+- university: 0.002456095302477479
+- body: 0.0023844107054173946
+- form: 0.0023742562625557184
+- law: 0.00222014170140028
+- eliot: 0.00219235522672534
+- cosmopolitanism: 0.0020935924258083105
+- sense: 0.0020451911259442568
+- society: 0.002005860209465027
+- cultural: 0.0019323892192915082
+- might: 0.0019214939093217254
+- human: 0.001888505881652236
+- british: 0.0018790799658745527
+- nature: 0.0018352167680859566
+- experience: 0.0018250482389703393
+- language: 0.0018247868865728378
+Topic 1:
+- child: 0.008902797475457191
+- woman: 0.006220106966793537
+- victorian: 0.005936077330261469
+- british: 0.005023417063057423
+- kingsley: 0.004378164187073708
+- hymn: 0.004030918702483177
+- man: 0.0038826458621770144
+- culture: 0.0037986310198903084
+- white: 0.0036987499333918095
+- london: 0.0036667061503976583
+- death: 0.00335965515114367
+- story: 0.0031795334070920944
+- nineteenth: 0.003054099390283227
+- life: 0.003026472171768546
+- case: 0.0029209416825324297
+- theatre: 0.002809119177982211
+- image: 0.0027753161266446114
+- garden: 0.002603956265375018
+- mother: 0.002499948488548398
+- england: 0.0024489467032253742
+- narrative: 0.002429030602797866
+- space: 0.00235079531557858
+- art: 0.002349505666643381
+- literature: 0.0023424893151968718
+- black: 0.002339969389140606
+- figure: 0.0021815039217472076
+- landscape: 0.002145937876775861
+- baby: 0.0020893574692308903
+- painting: 0.002049224218353629
+- empire: 0.0020081184338778257
+Topic 2:
+- london: 0.007805465254932642
+- reader: 0.0067383116111159325
+- dicken: 0.005812754854559898
+- art: 0.0055045741610229015
+- novel: 0.004905940033495426
+- victorian: 0.004587235860526562
+- culture: 0.0033530662767589092
+- home: 0.003279025899246335
+- news: 0.0032020832877606153
+- text: 0.00318375532515347
+- story: 0.0030445773154497147
+- pickwick: 0.0029173095244914293
+- advertisement: 0.0029049376025795937
+- child: 0.002821083413437009
+- public: 0.002709063235670328
+- book: 0.00267998268827796
+- exhibition: 0.0026686375495046377
+- time: 0.002612013602629304
+- figure: 0.0025162892416119576
+- narrative: 0.002411424648016691
+- life: 0.002378314733505249
+- year: 0.002369849244132638
+- literature: 0.002308737486600876
+- world: 0.002280687214806676
+- commodity: 0.002271329052746296
+- form: 0.0022579513024538755
+- newspaper: 0.0021706693805754185
+- advertising: 0.002165975049138069
+- popular: 0.00215850374661386
+- artist: 0.0021460140123963356
+Topic 3:
+- victorian: 0.01652715541422367
+- history: 0.00781113188713789
+- university: 0.006030630320310593
+- literary: 0.006028295494616032
+- nineteenth: 0.005566317122429609
+- form: 0.005277070216834545
+- historical: 0.0051307291723787785
+- text: 0.004416058771312237
+- digital: 0.004286988638341427
+- book: 0.004275947343558073
+- time: 0.004232088569551706
+- literature: 0.004199405200779438
+- culture: 0.004100046586245298
+- woman: 0.0039656516164541245
+- novel: 0.0039349086582660675
+- read: 0.0036609810777008533
+- research: 0.0035985165741294622
+- ballad: 0.0035809872206300497
+- scholar: 0.0035322965122759342
+- age: 0.0030283178202807903
+- might: 0.0029850236605852842
+- reading: 0.002734985202550888
+- social: 0.0026626363396644592
+- journal: 0.002592002507299185
+- periodical: 0.0025647685397416353
+- essay: 0.0025197030045092106
+- material: 0.002513369545340538
+- cultural: 0.0024954089894890785
+- field: 0.0024489585775882006
+- author: 0.0024260287173092365
+Topic 4:
+- class: 0.007218452636152506
+- man: 0.006191143300384283
+- victorian: 0.006150158122181892
+- culture: 0.005949974525719881
+- animal: 0.005948007106781006
+- london: 0.005426948424428701
+- letter: 0.004498041234910488
+- medicine: 0.0035003582015633583
+- journal: 0.003251500893384218
+- life: 0.0032299093436449766
+- railway: 0.003209379268810153
+- religion: 0.0029510273598134518
+- child: 0.002928324043750763
+- arnold: 0.0028839579317718744
+- university: 0.002880918327718973
+- woman: 0.0028473034035414457
+- history: 0.00273901573382318
+- story: 0.0027215618174523115
+- lecture: 0.0026577268727123737
+- christian: 0.0026544416323304176
+- literature: 0.002606860361993313
+- middle: 0.0025695981457829475
+- mulock: 0.002553148427978158
+- novel: 0.002520000096410513
+- self: 0.0025055597070604563
+- social: 0.002470537554472685
+- moral: 0.0023865425027906895
+- human: 0.0023624999448657036
+- freeman: 0.0023446863051503897
+- society: 0.0022727514151483774
+Topic 5:
+- darwin: 0.005973980762064457
+- science: 0.005905216094106436
+- victorian: 0.005580906756222248
+- human: 0.004597501363605261
+- art: 0.0044267671182751656
+- london: 0.0038956201169639826
+- image: 0.003790977643802762
+- life: 0.003785607172176242
+- time: 0.0037382279988378286
+- world: 0.003377053653821349
+- natural: 0.00329450611025095
+- museum: 0.0031590184662491083
+- form: 0.0031542156357318163
+- nature: 0.002998825628310442
+- animal: 0.002815142972394824
+- culture: 0.002753667300567031
+- visual: 0.002660973696038127
+- man: 0.00261077587492764
+- object: 0.0025910232216119766
+- aesthetic: 0.0025757825933396816
+- history: 0.0025628902949392796
+- scientific: 0.0025197439827024937
+- theory: 0.002468031132593751
+- wilde: 0.002462751232087612
+- photography: 0.002442354569211602
+- energy: 0.002405524719506502
+- house: 0.002363204723224044
+- nineteenth: 0.0022851047106087208
+- photograph: 0.0021053908858448267
+- light: 0.0020852533634752035
+Topic 6:
+- poem: 0.007757197599858046
+- victorian: 0.005334167741239071
+- poetry: 0.004296415951102972
+- tennyson: 0.00426058005541563
+- character: 0.004205912351608276
+- life: 0.0041921380907297134
+- form: 0.00380699266679585
+- love: 0.0037348102778196335
+- self: 0.0036795642226934433
+- novel: 0.0033953001257032156
+- reader: 0.0033072554506361485
+- eliot: 0.0031460407190024853
+- webster: 0.0028968423139303923
+- word: 0.0028219972737133503
+- man: 0.002731664339080453
+- world: 0.002684158505871892
+- poet: 0.002658468671143055
+- sense: 0.002487974241375923
+- read: 0.002458542585372925
+- human: 0.0024492242373526096
+- woman: 0.0024436938110738993
+- arnold: 0.0024342709220945835
+- thing: 0.0024296510964632034
+- might: 0.0023527152370661497
+- critic: 0.002314909128472209
+- poetic: 0.0022932703141123056
+- time: 0.0022738308180123568
+- play: 0.0022150916047394276
+- object: 0.0020967323798686266
+- mind: 0.002059952123090625
+Topic 7:
+- trollope: 0.006011663470417261
+- local: 0.005952424369752407
+- novel: 0.00583747960627079
+- fiction: 0.005184064619243145
+- newspaper: 0.0046363831497728825
+- woman: 0.004447190091013908
+- asylum: 0.0043102134950459
+- victorian: 0.004111220128834248
+- narrative: 0.004083493258804083
+- periodical: 0.003960806876420975
+- character: 0.003939484711736441
+- livingstone: 0.0038970052264630795
+- serial: 0.0037136280443519354
+- reader: 0.003707452677190304
+- london: 0.00346676935441792
+- patient: 0.0033976000268012285
+- government: 0.003336869180202484
+- pocket: 0.0032092249020934105
+- book: 0.0031130618881434202
+- body: 0.0030036908574402332
+- british: 0.002956435550004244
+- time: 0.0028219609521329403
+- text: 0.0027747058775275946
+- class: 0.0025767351035028696
+- nineteenth: 0.0025608723517507315
+- hand: 0.002515739295631647
+- installment: 0.0024871553760021925
+- include: 0.0024691715370863676
+- australian: 0.002379403682425618
+- diary: 0.002312860917299986
+Topic 8:
+- poem: 0.010547888465225697
+- poetry: 0.008806854486465454
+- woman: 0.007443267852067947
+- periodical: 0.007172728423029184
+- magazine: 0.005838032346218824
+- book: 0.005436278413981199
+- victorian: 0.004901529289782047
+- reader: 0.004251514561474323
+- time: 0.004243082366883755
+- poet: 0.003926025703549385
+- london: 0.0034063127823174
+- journal: 0.003248602617532015
+- letter: 0.0031571765430271626
+- rossetti: 0.0031508069951087236
+- publication: 0.002940819365903735
+- lady: 0.002936804201453924
+- literary: 0.0029001759830862284
+- supplement: 0.002884145127609372
+- life: 0.0028558906633406878
+- year: 0.00278550386428833
+- man: 0.0026092282496392727
+- class: 0.0025303526781499386
+- print: 0.002519334200769663
+- issue: 0.0025078277103602886
+- word: 0.0023994101211428642
+- verse: 0.0023396213073283434
+- illustration: 0.0022274565417319536
+- william: 0.002223586430773139
+- form: 0.002204704796895385
+- thackeray: 0.00216058106161654
+Topic 9:
+- british: 0.008877353742718697
+- india: 0.005624235607683659
+- woman: 0.0054084076546132565
+- political: 0.004211274441331625
+- victorian: 0.00420083524659276
+- colonial: 0.004094618838280439
+- girl: 0.0040140775963664055
+- indian: 0.003983124624937773
+- society: 0.0037733716890215874
+- empire: 0.0037655418273061514
+- culture: 0.003570492146536708
+- war: 0.003531803609803319
+- london: 0.0035235597752034664
+- class: 0.0034855816047638655
+- history: 0.003456065198406577
+- england: 0.0033495095558464527
+- man: 0.003228274406865239
+- imperial: 0.0031072013080120087
+- reader: 0.003082351526245475
+- literature: 0.0027571695391088724
+- novel: 0.0026555866934359074
+- letter: 0.002637416822835803
+- people: 0.002531348029151559
+- nineteenth: 0.002488720929250121
+- life: 0.0024338492657989264
+- missionary: 0.002415607450529933
+- year: 0.0024073931854218245
+- time: 0.002375854877755046
+- education: 0.0023399884812533855
+- narrative: 0.002318281913176179
+Topic 0:
+	0.9909598231315613	./txt_preprocessed\JVC\2010s\article\general\JVC_2013_18.1_Wong-CharlotteBronte.txt
+	0.9598703384399414	./txt_preprocessed\VS\2010s\article\special\VS_2014_56.4_Harriet Martineau and the Impersonality of Pain.txt
+	0.954591691493988	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_William Morris Extraction Capitalism and the Aesthetics of Surface.txt
+	0.9448642730712891	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_RULE BOHEMIA THE COSMOPOLITICS OF SUBCULTURE IN GEORGE DU MAURIER'S TRILBY.txt
+	0.9437775611877441	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_SANITATION AND TELEPATHY GEORGE ELIOT'S THE LIFTED VEIL.txt
+	0.9221782088279724	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_INADMISSIBLE EVIDENCE THE TRIAL OF MADELEINE SMITH AND COLLINS'S THE LAW AND THE LADY.txt
+	0.9185637831687927	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.4_Labors of Attention The Parish Novel Parochialism and George Eliot's Endearing Parsons.txt
+	0.912771999835968	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_CONFESSIONS OF AN ENGLISH GREEN TEA DRINKER SHERIDAN LE FANU AND THE MEDICAL AND METAPHYSICAL DANGER.txt
+	0.9095889329910278	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_GOOD EUROPEANS AND NEO-LIBERAL COSMOPOLITANS ETHICS AND POLITICS IN LATE VICTORIAN AND CONTEMPORARY .txt
+	0.9027780890464783	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Parkins-FeelingatHome.txt
+	0.9001240730285645	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_NEGOTIATING “A WOMAN'S WORK” PHILANTHROPY TO SOCIAL SCIENCE IN GASKELL'S NORTH AND SOUTH.txt
+	0.8968223333358765	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Hunt-TheAuthoritativeMedium.txt
+	0.8881316184997559	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Indian Objects English Body Utopian Yearnings in Elizabeth Gaskell’s North and South.txt
+	0.8553209900856018	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_History's (Un)Reason Victorian Intellectualism from J S Mill to Leslie Stephen.txt
+	0.8531680107116699	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_IN THE “WORLD OF DEATH AND BEAUTY” RISK CONTROL AND JOHN TYNDALL AS ALPINIST.txt
+	0.8236707448959351	./txt_preprocessed\JVC\2010s\article\special\JVC_2016_21.1_Zakreski-Fashioning.txt
+	0.8146212100982666	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_THE CHINESE LANGUAGE IN THE SATURDAY REVIEW A CASE STUDY IN SINOPHOBIA’S SCHOLARLY ROOTS.txt
+	0.8114914298057556	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_VICTORIAN COSMOPOLITANISMS INTRODUCTION.txt
+	0.8065482974052429	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_MEDICAL COSMOPOLITANISM MIDDLEMARCH CHOLERA AND THE PATHOLOGIES OF ENGLISH MASCULINITY.txt
+	0.8036435842514038	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.4_“Postscript 1976” E P Thompson and the River of Fire.txt
+	0.803119421005249	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Sustainability.txt
+	0.8015123009681702	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_“THE COUNTRY OF THE PLAGUE” ANTICULTURE AND AUTOETHNOGRAPHY IN DICKENS'S 1850S.txt
+	0.785251796245575	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Ability.txt
+	0.7852512001991272	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Stupidity.txt
+	0.7782680988311768	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_PATER'S MOUTH.txt
+	0.765153169631958	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Why Looking Backward Is Necessary to Looking Forward.txt
+	0.7611515522003174	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Class-1.txt
+	0.7518680691719055	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Enclosure.txt
+	0.7265558838844299	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Ward-theCase.txt
+	0.7177466154098511	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_COSMOPOLITANISM FEMINISM AND THE MOVING BODY.txt
+	0.7106790542602539	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Betts-SharingACab.txt
+	0.7106648683547974	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Sharing a Cab with Mr Pooter A Reply to Peter K Andersson’s ‘How Civilized Were the Victorians’.txt
+	0.7075992226600647	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_COSMOPOLITANISM'S ACTUALLY EXISTING BEYOND; TOWARD A VICTORIAN GEOPOLITICAL AESTHETIC.txt
+	0.7034057378768921	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_VICTORIAN COSMOPOLITANISM INTERRUPTED.txt
+	0.6772333383560181	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_EUTHANASIA AND (D)EVOLUTION IN SPECULATIVE FICTION.txt
+	0.6531866788864136	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Beauty.txt
+	0.651722252368927	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Searching for the Material in Peter K Andersson’s ‘How Civilized Were the Victorians’.txt
+	0.6453555822372437	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Environment-1.txt
+	0.6389935612678528	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Banfield-CurrentVictorianMusicology.txt
+	0.6373535990715027	./txt_preprocessed\VP\2010s\article\general\VP_2013_51.1_Tennyson's Maud (1855) and the unmeaning of names Geology Language Theory and Dialogics.txt
+	0.6185572147369385	./txt_preprocessed\VS\2010s\article\special\VS_2018_60.4_Industrial Souls Climate Change Immorality and Victorian Anticipations of the Good Anthropocene.txt
+	0.6141583919525146	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.4_Casual Racism in Victorian Literature.txt
+	0.6087098121643066	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Beyond the Civilizing Process A Response to Peter K Andersson’s ‘How Civilized Were the Victorians’.txt
+	0.6061083078384399	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_MATTHEW ARNOLD'S DIET.txt
+	0.5961945652961731	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_Contested Boundaries Domesticity Spatiality and Short Fiction in the South China Morning Post 1904–1.txt
+	0.5958248972892761	./txt_preprocessed\JVC\2010s\article\general\JVC_2014_19.2_Levine-Reading.txt
+	0.5894449949264526	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_THE REAL BAYADÈRE MEETS THE BALLERINA ON THE WESTERN STAGE.txt
+	0.5739192962646484	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Ideology.txt
+	0.5674630999565125	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_War.txt
+	0.5573955178260803	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_THE MORAL AND LITERARY CHARACTER OF BULWER'S NOVELS.txt
+	0.5498926639556885	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Democracy.txt
+	0.5445294976234436	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Linking with W R Bion.txt
+	0.5354786515235901	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Class.txt
+	0.5352746248245239	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_CIVILIZED DEPRAVITY EVANGELICAL REPRESENTATIONS OF EARLY-NINETEENTH-CENTURY CHINA AND THE REDEFINITI.txt
+	0.5270951390266418	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Organicism.txt
+	0.5121370553970337	./txt_preprocessed\VPR\2010s\article\general\VPR_2019_52.1_The neglected the unutterable Verlaine Arthur Symons the Saturday Review and French Literature in th.txt
+	0.5056625604629517	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_Victorian Periodical Publishing and Ethical Debates Subjectivity Evidence and the Formation of Ethos.txt
+	0.4976890981197357	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_THINKING OBJECTIVELY AN OVERVIEW OF “THING THEORY” IN VICTORIAN STUDIES.txt
+	0.49741843342781067	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Aestheticism.txt
+	0.49061882495880127	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Victorian Self-Projection and Critique Response.txt
+	0.4782661497592926	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Progress-1.txt
+	0.47044214606285095	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Strange Modernity.txt
+	0.46339622139930725	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_RELUCTANT COSMOPOLITANISM IN DICKENS'S GREAT EXPECTATIONS.txt
+	0.4597947895526886	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Decadence.txt
+	0.45672833919525146	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Environment.txt
+	0.4546067416667938	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Emotions.txt
+	0.4533315598964691	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Progress.txt
+	0.4414002597332001	./txt_preprocessed\JVC\2010s\article\general\JVC_2015_20.4_Anderson-HowCivilizedWeretheVictorians.txt
+	0.44035854935646057	./txt_preprocessed\VS\2010s\article\special\VS_2018_60.4_Climate Change and Victorian Studies Introduction.txt
+	0.42550721764564514	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Empire-1.txt
+	0.4235069751739502	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Aesthetics.txt
+	0.41874948143959045	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Ethics.txt
+	0.39276230335235596	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Global Circulation.txt
+	0.37473607063293457	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_The Stakes of Victorian Political Criticism Today.txt
+	0.3368943929672241	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Necroecology Undead Dead and Dying on the Limits of the Colony.txt
+	0.3294442594051361	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_BEAUTIFUL SOULS MIXED UP WITH HOOKED NOSES ART DEGENERATION AND ANTI-SEMITISM IN THE MASTER AND TRIL.txt
+	0.31568098068237305	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Visuality-2.txt
+	0.30399683117866516	./txt_preprocessed\JVC\2010s\article\general\JVC_2019_24.1_On the Invisible Threat Bacteriologists in Fiction and Periodical Advertisements 1894–1913.txt
+	0.29254159331321716	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Materiality.txt
+Topic 1:
+	0.9998338222503662	./txt_preprocessed\JVC\2010s\article\general\JVC_2018_23.1_‘Kaleidoscopes of Changing Pictures’ Representing Nations in Toy Theatre.txt
+	0.999789834022522	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_ON THE CLIFF EDGE OF ENGLAND TOURISM AND IMPERIAL GOTHIC IN CORNWALL.txt
+	0.9218711256980896	./txt_preprocessed\JVC\2010s\article\general\JVC_2014_19.2_Buscemi-theCase.txt
+	0.9158710241317749	./txt_preprocessed\JVC\2010s\article\general\JVC_2014_19.2_Nead-TheSecretofEngland'sGreatness.txt
+	0.8720988631248474	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_WRITING FOR YET APART NINETEENTH-CENTURY BRITISH WOMEN'S CONTENTIOUS STATUS AS HYMN WRITERS AND EDIT.txt
+	0.8381689786911011	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_THE “AFTER-LIFE” OF ILLNESS READING AGAINST THE DEATHBED IN GASKELL'S RUTH AND NINETEENTH-CENTURY CO.txt
+	0.8044853806495667	./txt_preprocessed\JVC\2010s\article\general\JVC_2013_18.1_Shepherd-OneoftheBestFathers.txt
+	0.7958045601844788	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_MEMSAHIBS AND THE “SUNNY EAST” REPRESENTATIONS OF BRITISH INDIA BY MILLICENT DOUGLAS PILKINGTON AND .txt
+	0.7753732204437256	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_PICTURING THE INDIAN TIGER IMPERIAL ICONOGRAPHY IN THE NINETEENTH CENTURY.txt
+	0.729411780834198	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_VICTORIANS LIVE.txt
+	0.6853036284446716	./txt_preprocessed\VP\2010s\article\general\VP_2019_57.1_Naturally Artificial The Pre-Raphaelite Garden Enclosed.txt
+	0.6337330937385559	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_CHARLES KINGSLEY'S THE WATER-BABIES INDUSTRIAL ENGLAND THE IRISH FAMINE AND THE AMERICAN CIVIL WAR.txt
+	0.5946921706199646	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_RUDYARD KIPLING'S TACTICAL IMPRESSIONISM.txt
+	0.5942044854164124	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_INTERNATIONALISING THE SONNET TORU DUTT'S “SONNET – BAUGMAREE”.txt
+	0.5516990423202515	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_“NOT ALTOGETHER UNPICTURESQUE” SAMUEL BOURNE AND THE LANDSCAPING OF THE VICTORIAN HIMALAYA.txt
+	0.5112835168838501	./txt_preprocessed\VPR\2010s\article\special\VPR_2014_47.4_British Solutions to Irish Problems Representations of Ireland in the British Architectural Press 18.txt
+	0.4685640037059784	./txt_preprocessed\JVC\2010s\article\general\JVC_2013_18.1_Grey-Liable.txt
+	0.45780885219573975	./txt_preprocessed\JVC\2010s\article\general\JVC_2013_18.1_Young-IndustrializingCrusoe.txt
+	0.4390084147453308	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Champagne in the Shrubbery Sex Science and Space in James Tissot’s London Conservatory.txt
+	0.4259764850139618	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_EDITH MATURIN AND THE WIDE WORLD MAGAZINE NEW WOMAN REWRITINGS OF IMPERIAL ADVENTURE.txt
+	0.4046773910522461	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_VICTORIANS LIVE.txt
+	0.35044148564338684	./txt_preprocessed\VS\2010s\article\special\VS_2012_54.2_Charles Kingsley From Being Green to Green Being.txt
+	0.3297531008720398	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_VICTORIANS LIVE.txt
+Topic 2:
+	0.9998120069503784	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_PICKWICK'S OTHER PAPERS CONTINUALLY READING DICKENS.txt
+	0.999565601348877	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_The Art Market and the Spaces of Sociability in Victorian London.txt
+	0.9989045858383179	./txt_preprocessed\VPR\2010s\article\general\VPR_2012_45.1_2011 VanArsdel Prize Essay Tessellating Texts Reading The Moonstone in All the Year Round.txt
+	0.9985892176628113	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_FORM AND REFORM THE “MISCELLANY NOVEL”.txt
+	0.9803652763366699	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_Edmund Yates and the Voice of Society Journalism.txt
+	0.9343435168266296	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_“Out with It” as the Subeditor Said to the Novel Wellerisms and the Humor of Newspaper Excerpts.txt
+	0.9082604050636292	./txt_preprocessed\VPR\2010s\article\general\VPR_2016_49.1_Health Advice in Popular Periodicals Reynolds’s Miscellany the Family Herald and Their Correspondent.txt
+	0.8822479844093323	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_SECURING THE ENGLISHMAN'S CASTLE SITUATIONAL CRIME PREVENTION IN THE NINETEENTH CENTURY.txt
+	0.845809280872345	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_VICTORIANS LIVE.txt
+	0.8233155012130737	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_ADVERTISING AND FICTION IN THE PICKWICK PAPERS.txt
+	0.8169599771499634	./txt_preprocessed\JVC\2010s\article\general\JVC_2014_19.2_Palmer-Investigatin.txt
+	0.8164516687393188	./txt_preprocessed\JVC\2010s\article\general\JVC_2018_23.1_A ‘Permanent Environment of Brightness Warmth and “Homeliness”’ Domesticity and Authority in a Victo.txt
+	0.8072308897972107	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_Advertisements Hyper-Reading and Fin de Siècle Consumer Culture in the Illustrated London News and t.txt
+	0.780799925327301	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_IMITATION FICTION PIRATE CITINGS IN ROBERT LOUIS STEVENSON'S TREASURE ISLAND.txt
+	0.7805802226066589	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_BOY-ORPHANS MESMERIC VILLAINS AND FILM STARS INSCRIBING OLIVER TWIST INTO TREASURE ISLAND.txt
+	0.7086727023124695	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Purton-‘Nobody'sFault’.txt
+	0.7055820226669312	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_“LIKE BOTTLED WASPS” BEERBOHM HUYSMANS AND THE DECADENTS’ SUBURBAN RETREAT.txt
+	0.7023807764053345	./txt_preprocessed\JVC\2010s\article\general\JVC_2018_23.1_The Tables Turned Curious Commodities in Victorian Children’s Literature.txt
+	0.6678875088691711	./txt_preprocessed\VPR\2010s\article\special\VPR_2013_46.3_Contributing to Most Things Richard Marsh Literary Production and the Fin de Siècle Periodicals Mark.txt
+	0.5519164800643921	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_Journalism behind Bars Bethell's Anti-Japanese English-Korean Newspapers.txt
+	0.5438069701194763	./txt_preprocessed\VPR\2010s\article\special\VPR_2011_44.2_The Art Press and Its Parodies Unraveling Networks in Swinburne’s 1868 Academy Notes.txt
+	0.5436182618141174	./txt_preprocessed\VPR\2010s\article\special\VPR_2011_44.2_Laurence Binyon and the Belgian Artistic Scene Unearthing Unknown Brotherhoods.txt
+	0.5409952402114868	./txt_preprocessed\VP\2010s\article\special\VP_2010_48.1_Embodying the City in A London Garland.txt
+	0.5407615900039673	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_The Newspaper and the Novel William Morris’s News from Nowhere in Commonweal.txt
+	0.537351667881012	./txt_preprocessed\VS\2010s\article\special\VS_2014_56.4_Plot Circles Hardy’s Drunkards and Their Walks.txt
+	0.4953448474407196	./txt_preprocessed\VP\2010s\article\general\VP_2018_56.1_All about fishes The Riddle of Humpty Dumpty's Song and Recursive Understanding in Lewis Carroll's T.txt
+	0.48664969205856323	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_THOMAS HARDY'S “THE MOCK WIFE” MAUMBURY AND THE MAYOR OF CASTERBRIDGE.txt
+	0.4656807482242584	./txt_preprocessed\JVC\2010s\article\digital\JVC_2016_21.1_Reading with the Occultists Arthur Machen A E Waite and the Ecstasies of Popular Fiction.txt
+	0.4646328389644623	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_ANTI-SLAVERY COSMOPOLITANISM IN THE BLACK ATLANTIC.txt
+	0.4282588064670563	./txt_preprocessed\VPR\2010s\article\special\VPR_2013_46.3_2011 Michael Wolff Lecture An Uncommercial Proposition At Work on Household Words and All the Year R.txt
+	0.4173623025417328	./txt_preprocessed\VP\2010s\article\special\VP_2010_48.1_Le Petit Journal des Refusées  A Graphical Reading.txt
+	0.3860189914703369	./txt_preprocessed\VPR\2010s\article\special\VPR_2014_47.4_“Peculiarly marked with the character of our own time” Photography and Family Values in Victorian Do.txt
+Topic 3:
+	0.9996142387390137	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_Marcus’s Sources Archives Canons Texts.txt
+	0.9994522333145142	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Counting Culture; or How to Read Victorian Newspapers from a Distance.txt
+	0.9993985891342163	./txt_preprocessed\JVC\2010s\article\digital\JVC_2016_21.1_Moving on by Staying the Same.txt
+	0.9993267059326172	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_Exploring Victorian Contexts Using Wikis to Enrich Cultural Understanding.txt
+	0.9991859793663025	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_The Victorian Short Fiction Project A Web-Based Undergraduate Research Assignment.txt
+	0.9991440176963806	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_How to Not Read a Victorian Novel.txt
+	0.9990922212600708	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Technologies of Serendipity.txt
+	0.9987874031066895	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Digital Pedagogies Building Learning Communities for Studying Victorian Periodicals.txt
+	0.9986624717712402	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Scale.txt
+	0.9985150694847107	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Counterfactual Literary Theory.txt
+	0.9984695315361023	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Keywords.txt
+	0.9969040155410767	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Introduction-1.txt
+	0.9967231750488281	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Introduction.txt
+	0.9963813424110413	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Editors' Introduction.txt
+	0.996354877948761	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_TechnoRomanticism Creating Digital Editions in an Undergraduate Classroom.txt
+	0.9953083395957947	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_Using Digital Resources in Class.txt
+	0.9949693083763123	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Nineteenth-Century Newspapers in the Digital Age.txt
+	0.9940727949142456	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Readers and Users.txt
+	0.9808341264724731	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_OA_Small_intro.txt
+	0.9786494970321655	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Genre.txt
+	0.96317458152771	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Redesigning NINES.txt
+	0.9558733105659485	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Authorship.txt
+	0.9549581408500671	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Reading in the Digital Archive.txt
+	0.9441949725151062	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Lake District Online Studies in Book Ecology and Digital Migration.txt
+	0.940097451210022	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Response Search and Serendipity.txt
+	0.9395904541015625	./txt_preprocessed\JVC\2010s\article\digital\JVC_2016_21.1_Academic Journals in the Digital Age An Editor’s Perspective.txt
+	0.9331791400909424	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_The Counterfactual in the Age of Trump.txt
+	0.9310310482978821	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Literature.txt
+	0.9286313056945801	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_NEO-VICTORIAN STUDIES.txt
+	0.9259125590324402	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Anachronism.txt
+	0.9254619479179382	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_DIGITAL SCHOLARLY RESOURCES FOR THE STUDY OF VICTORIAN LITERATURE AND CULTURE.txt
+	0.9238496422767639	./txt_preprocessed\JVC\2010s\article\digital\JVC_2016_21.1_The Future of Academic Journals.txt
+	0.9153987765312195	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Periodical Pedagogy in the Undergraduate Classroom.txt
+	0.9068284630775452	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Generations.txt
+	0.906448483467102	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Collaborative Knowledge and Merging Media Teaching Victorian Periodical Print Using Digital Tools.txt
+	0.9035860300064087	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Victorian Feminist Criticism Recovery Work and the Care Community.txt
+	0.9016764760017395	./txt_preprocessed\VS\2010s\article\special\VS_2011_54.1_Learning to Read Data Bringing out the Humanistic in the Digital Humanities.txt
+	0.8968939185142517	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_OA_Dames-UltimatelyContextualizations.txt
+	0.8930178284645081	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Neo-Victorian.txt
+	0.8848949074745178	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Author.txt
+	0.8835042715072632	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Canon.txt
+	0.8828467726707458	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Transatlanticism.txt
+	0.8803273439407349	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Form.txt
+	0.875415563583374	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Feminism.txt
+	0.8710123896598816	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_From “We Other Victorians” to “Pussy Grabs Back” Thinking Gender Thinking Sex and Feminist Methodolo.txt
+	0.8690038919448853	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Tweeting the Victorians.txt
+	0.8666716814041138	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Peter K Andersson’s ‘How Civilized Were the Victorians’ An Introduction.txt
+	0.865591287612915	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Anthropocene.txt
+	0.8592365384101868	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_Michael Wolff 1927–2016 A Tribute.txt
+	0.8567265272140503	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Logistics.txt
+	0.8546799421310425	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_OA_Looser-oldAge.txt
+	0.8468182682991028	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_London Letter Researching the Historical Press Now and Here.txt
+	0.8423176407814026	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Career.txt
+	0.8389278054237366	./txt_preprocessed\JVC\2010s\article\digital\JVC_2016_21.1_Blogging the Victorians for the Journal of Victorian Culture Online.txt
+	0.8369988799095154	./txt_preprocessed\VPR\2010s\article\special\VPR_2011_44.2_Introduction to the Special Issue Victorian Networks and the Periodical Press.txt
+	0.8359981179237366	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Fin de Siècle.txt
+	0.8356213569641113	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_The Reading Experience Database.txt
+	0.8336908221244812	./txt_preprocessed\VS\2010s\article\special\VS_2013_55.4_From Nation to Network.txt
+	0.8328147530555725	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Victorian(ist) Technologies Response.txt
+	0.8300536870956421	./txt_preprocessed\VS\2010s\article\special\VS_2011_54.1_A Conversation with Data Prospecting Victorian Words and Ideas.txt
+	0.8290470242500305	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Reading Counterfactually.txt
+	0.8113584518432617	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Response.txt
+	0.810579240322113	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Rethinking Student Research and Writing in the Digital Age The Punch Historical Archive 1841–1992 an.txt
+	0.8081903457641602	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Uchronia.txt
+	0.8074864745140076	./txt_preprocessed\JVC\2010s\article\special\JVC_2016_21.1-Editorial.txt
+	0.8050310015678406	./txt_preprocessed\VP\2010s\article\special\VP_2016_54.4_Afterword.txt
+	0.8027613759040833	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Advances in the Visualization of Data The Network of Genre in the Victorian Periodical Press.txt
+	0.8006668090820312	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_On Being Modern and Other Things.txt
+	0.799271285533905	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_OA_Mangum-LiteraryTales.txt
+	0.7968426942825317	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Poetry.txt
+	0.7878738641738892	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Looking Backward Looking Forward The Victorians in the Rearview Mirror of Future History.txt
+	0.787684440612793	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Discovering Dracula’s Coffins in the Digital Archive.txt
+	0.7822282314300537	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_The Weak Protagonism of Nations.txt
+	0.7802405953407288	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Half Full and Half Empty.txt
+	0.7797006964683533	./txt_preprocessed\VS\2010s\article\special\VS_2012_54.2_Questions of Empire Reflections from an Open Frontier.txt
+	0.7783970236778259	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_BristowRogersLivesey-Editorial.txt
+	0.7736957669258118	./txt_preprocessed\VS\2010s\article\special\VS_2013_55.4_The Ends of History Afterword.txt
+	0.769772469997406	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Science.txt
+	0.7656968832015991	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_OA_Chase-TheComingofAgeII.txt
+	0.7540790438652039	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_The Roots of RSVP and VPR A Talk with Louis James.txt
+	0.7530641555786133	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_“Is This Real”.txt
+	0.7475858330726624	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_Aesthetic Categories and the Social Life of Genre in Victorian Criticism.txt
+	0.7465688586235046	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Reading-1.txt
+	0.7464284300804138	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Particular Webs Middlemarch Typologies and Digital Studies of Women's Lives.txt
+	0.7270974516868591	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Feeling Like It Wasn't.txt
+	0.7264081239700317	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Politics.txt
+	0.723117470741272	./txt_preprocessed\VP\2010s\article\special\VP_2016_54.4_Introduction.txt
+	0.7162792086601257	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Formalism.txt
+	0.7154501080513	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Caribbean.txt
+	0.6990016102790833	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Empire.txt
+	0.698039174079895	./txt_preprocessed\VPR\2010s\article\general\VPR_2016_49.1_Pay It Forward A Tribute to Sally H Mitchell (1937–2016).txt
+	0.6967712640762329	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_Conference Review European Society for Periodical Research “Periodical Counter Cultures Tradition Co.txt
+	0.6885029077529907	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_The Marriage of Social Science and Literary Criticism in The Other Victorians.txt
+	0.6745837926864624	./txt_preprocessed\VP\2010s\article\general\VP_2013_51.1_Two Clocks Aurora Leigh Poetic Form and the Politics of Timeliness.txt
+	0.6738731265068054	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Stealth Mesohistory for Austere Times.txt
+	0.6714696884155273	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_The Roots of RSVP An Interview with Founding RSVP President Michael Wolff.txt
+	0.6678430438041687	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Temporality.txt
+	0.6581329703330994	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Reflections on 20000 Victorian Newspapers ‘Distant Reading’ The Times using The Times Digital Archiv.txt
+	0.6361597776412964	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Affect.txt
+	0.6352012157440186	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Queer.txt
+	0.6231979131698608	./txt_preprocessed\VS\2010s\article\special\VS_2013_55.4_Interpretation 1980 and 1880.txt
+	0.6187489032745361	./txt_preprocessed\VP\2010s\article\special\VP_2016_54.4_Modern-Antiques Ballad Imitation and the Aesthetics of Anachronism.txt
+	0.6179580092430115	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_Past Present and Pornography.txt
+	0.6011075973510742	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Teleology.txt
+	0.6008237600326538	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Science Fiction.txt
+	0.5857573747634888	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_We Are Not Yet Queer (in Victorian Studies) Response.txt
+	0.5768605470657349	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Oceans.txt
+	0.5721164345741272	./txt_preprocessed\VPR\2010s\article\special\VPR_2014_47.4_Introduction to the Special Issue Tradition and the New.txt
+	0.5670801997184753	./txt_preprocessed\VP\2010s\article\special\VP_2011_49.2_Victorian Prosody Measuring the Field.txt
+	0.5635586977005005	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_A Victorianist Looks Back Fluidity vs Fragmentation.txt
+	0.5605683326721191	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Neurology.txt
+	0.5563523769378662	./txt_preprocessed\JVC\2010s\article\general\JVC_2018_23.1_The Artist–Historian Victorian natural history in the work of Mark Dion.txt
+	0.5562816262245178	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Transimperial.txt
+	0.5418499708175659	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Data.txt
+	0.5390793681144714	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Integrating the Strands of Victorian Diversity.txt
+	0.5381376147270203	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_SISTER OF THE TYPE THE FEMINIST COLLECTIVE IN GRANT ALLEN'S THE TYPE-WRITER GIRL.txt
+	0.5368791222572327	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_How I Came to Write A Magazine of Her Own Domesticity and Desire in the Woman’s Magazine 1800–1914.txt
+	0.5300918817520142	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_The Punch Historical Archive 1841–1992 A Sustainable Brand for the Digital Age.txt
+	0.5290026664733887	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Victorian Memes.txt
+	0.5202755928039551	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Visuality-1.txt
+	0.5161331295967102	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Dorothea or Jane The Dilemmas of Early Feminist Criticism.txt
+	0.5129051208496094	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Tennyson’s Elegy for the Anthropocene Genre Form and Species Being.txt
+	0.5055837035179138	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Circulation.txt
+	0.5035285949707031	./txt_preprocessed\VS\2010s\article\special\VS_2012_54.2_Victorian History Some Experiments with Syllabi.txt
+	0.5014364719390869	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Work.txt
+	0.49768856167793274	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_OA_Tadmo-DegreesofPrivilege.txt
+	0.4960281252861023	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_Our Golden Anniversary The 50th Volume of VPR.txt
+	0.488569974899292	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Britain.txt
+	0.4845108687877655	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Information.txt
+	0.4842565357685089	./txt_preprocessed\VP\2010s\article\special\VP_2016_54.4_Against Communal Nostalgia Reconstructing Sociality in the Pornographic Ballad.txt
+	0.4839978516101837	./txt_preprocessed\VP\2010s\article\special\VP_2016_54.4_Irish Melodies of Anacreontic Balladry.txt
+	0.4834173321723938	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Human and Nonhuman in Hawaii Agency Elegy Ecology Response.txt
+	0.47352471947669983	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Animal.txt
+	0.469072550535202	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_Reader Viewer Spectator Beholder Response.txt
+	0.46642830967903137	./txt_preprocessed\VPR\2010s\article\special\VPR_2011_44.2_“Time’s Turbulence” Mapping Journalism Networks.txt
+	0.4647231996059418	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Refamiliarizing Viktor Shklovsky.txt
+	0.448541522026062	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Monstrosity.txt
+	0.4476745128631592	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Melodrama.txt
+	0.4459013044834137	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Material Culture and the ‘Backstage’ A Response to Peter K Andersson’s ‘How Civilized Were the Victo.txt
+	0.44484591484069824	./txt_preprocessed\VP\2010s\article\special\VP_2016_54.4_Tirra-Lirrical Ballads Source Hunting with the Lady of Shalott.txt
+	0.43018248677253723	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Exploring the Backstage of Victorian Respectability.txt
+	0.43017831444740295	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Causality.txt
+	0.4163871705532074	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Who Owns the Victorians.txt
+	0.40270787477493286	./txt_preprocessed\VP\2010s\article\special\VP_2011_49.2_Manifest Prosody.txt
+	0.38765662908554077	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Media.txt
+	0.3776646852493286	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_Here I Could Rove at Will Harriet Martineau Sartain's Union Magazine and Freedom in the Transatlanti.txt
+	0.375704824924469	./txt_preprocessed\JVC\2010s\article\general\JVC_2015_20.4_Bellanta-HisTwo.txt
+	0.37555238604545593	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Child.txt
+	0.373914897441864	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Ecology.txt
+	0.35504046082496643	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Image.txt
+	0.3496326804161072	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Sexuality.txt
+	0.3314439356327057	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Education.txt
+	0.29812541604042053	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_DISABILITY AND GENDER IN THE VISUAL FIELD SEEING THE SUBTERRANEAN LIVES OF MICHAEL FIELD'S WILLIAM R.txt
+	0.29270273447036743	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_BODIES OF SCHOLARSHIP WITNESSING THE LIBRARY IN LATE-VICTORIAN FICTION.txt
+	0.27195364236831665	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Penetrating Boundaries An Ethics of Anti-Perfectionism in Victorian Pornography.txt
+Topic 4:
+	0.9833570718765259	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_“HOW DOES YOUR COLLAR SUIT ME” THE HUMAN ANIMAL IN THE RSPCA'S ANIMAL WORLD AND BAND OF MERCY.txt
+	0.9075324535369873	./txt_preprocessed\JVC\2010s\article\general\JVC_2019_24.1_A ‘Transcript of Their Mind’ Ragged School Literacy in the Mid-Nineteenth Century.txt
+	0.9007778167724609	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_DICKENS'S “JEWISH QUESTION” PARIAH CAPITALISM AND THE WAY OUT.txt
+	0.891606867313385	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_Finnegan-Exeter.txt
+	0.8754339218139648	./txt_preprocessed\JVC\2010s\article\general\JVC_2015_20.4_Alborn-King.txt
+	0.8734771609306335	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_Morrisroe-EasternHistory.txt
+	0.8366920948028564	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_DIVERTING THE DRUNKARD'S PATH CHARTIST TEMPERANCE NARRATIVES.txt
+	0.8277721405029297	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_TONO-BUNGAY AND BURROUGHS WELLCOME BRANDING IMPERIAL POPULAR MEDICINE.txt
+	0.8268917202949524	./txt_preprocessed\VS\2010s\article\special\VS_2010_52.3_A Great Man in Clogs Performing Authenticity in Victorian Lancashire.txt
+	0.8087325096130371	./txt_preprocessed\JVC\2010s\article\special\JVC_2016_21.1_Milne-Smith-Shattered.txt
+	0.7655463218688965	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_NARRATING INSANITY IN THE LETTERS OF THOMAS MULOCK AND DINAH MULOCK CRAIK.txt
+	0.6843633055686951	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_HUNTING GWENDOLEN ANIMETAPHOR IN DANIEL DERONDA.txt
+	0.499254047870636	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Dialect.txt
+	0.4750370681285858	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_MATTHEW ARNOLD AND RELIGION'S COSMOPOLITAN HISTORIES.txt
+	0.4574059545993805	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_SELF-MADE MAIDS BRITISH EMIGRATION TO THE PACIFIC RIM AND SELF-HELP NARRATIVES.txt
+	0.453911691904068	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Medicine.txt
+Topic 5:
+	0.9998428821563721	./txt_preprocessed\VS\2010s\article\special\VS_2019_62.1_“Throes and struggles    witnessed with painful distinctness” The oxy-hydrogen microscope performing.txt
+	0.9997853636741638	./txt_preprocessed\JVC\2010s\article\general\JVC_2014_19.2_Feuerstein-Chicken.txt
+	0.9991706609725952	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_GODS AND GHOST-LIGHT ANCIENT EGYPT ELECTRICITY AND X-RAYS.txt
+	0.995029866695404	./txt_preprocessed\VS\2010s\article\special\VS_2019_62.1_Victorian Excess and the Darwinian Aesthetic.txt
+	0.9402003884315491	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Why Beauty Matters.txt
+	0.9389447569847107	./txt_preprocessed\JVC\2010s\article\general\JVC_2015_20.4_Bush-Kaleidoscopism.txt
+	0.9093011021614075	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Surround Background and the Overlooked.txt
+	0.8918465375900269	./txt_preprocessed\VS\2010s\article\special\VS_2018_60.4_Petrodrama Melodrama and Energetic Modernity.txt
+	0.873259425163269	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_“A SERIOUSNESS THAT FAILS” RECONSIDERING SYMBOLISM IN OSCAR WILDE'S SALOMÉ.txt
+	0.8476906418800354	./txt_preprocessed\JVC\2010s\article\general\JVC_2019_24.1_Scaling Down H G Wells’s The Time Machine (1895) Tono-Bungay (1909) and the Uppark Dolls House.txt
+	0.7565355896949768	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_Vibrating through all its breadth Musical Fiction and Materialist Aesthetics in the Strand Musical M.txt
+	0.7438923120498657	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_CONSERVATION OF ENERGY INDIVIDUAL AGENCY AND GOTHIC TERROR IN RICHARD MARSH'S THE BEETLE OR WHAT'S S.txt
+	0.7346816658973694	./txt_preprocessed\VS\2010s\article\special\VS_2010_52.3_The Mobile Museum Collecting and Circulating Indian Textiles in Victorian Britain.txt
+	0.7282968759536743	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Cartomania Sensation Celebrity and the Democratized Portrait.txt
+	0.7149602770805359	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Watt-Smith-Darwin'sFlinch.txt
+	0.7077166438102722	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_OUR MUTUAL ENGINE THE ECONOMICS OF VICTORIAN THERMODYNAMICS.txt
+	0.6968544721603394	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Fictions of Time On Aging Teaching and Mining Response.txt
+	0.6838892102241516	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Parameters of Vibration Technologies of Capture and the Layering of Voices and Faces in the Nineteen.txt
+	0.6820775866508484	./txt_preprocessed\VS\2010s\article\special\VS_2010_52.3_Visualizing Darwinian Evolution.txt
+	0.6445252299308777	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_VICTORIANS LIVE.txt
+	0.6428326368331909	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Surround Background Context Response.txt
+	0.6338617205619812	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Visuality.txt
+	0.6251999139785767	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Kingsley’s Chrono-Baby Standardized Fictions of Class Time.txt
+	0.6176119446754456	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Cohn-OneSingleIvoryCellOscarWildeandtheBrain.txt
+	0.6028205752372742	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_NON-EVOLUTIONARY DEGENERATION IN ARTHUR MACHEN'S SUPERNATURAL TALES.txt
+	0.5863720178604126	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Melodrama-1.txt
+	0.581314742565155	./txt_preprocessed\VP\2010s\article\special\VP_2011_49.2_Eye Rhyme Visual Experience and the Poetics of Gerard Manley Hopkins.txt
+	0.555840790271759	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Evolution.txt
+	0.5388416051864624	./txt_preprocessed\VS\2010s\article\special\VS_2010_52.3_Seeking Darwin’s Origins.txt
+	0.5340052247047424	./txt_preprocessed\VS\2010s\article\special\VS_2018_60.4_Charles Darwin and the Victorian Pre-History of Climate Denial.txt
+	0.521062970161438	./txt_preprocessed\VPR\2010s\article\special\VPR_2013_46.3_One of the bright objects that solace us in these regions Labour Leisure and the Arctic Shipboard Pe.txt
+	0.5198741555213928	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_DRACULA’S APOLOGETICS OF PROGRESS.txt
+	0.48011741042137146	./txt_preprocessed\VPR\2010s\article\general\VPR_2016_49.1_“But the narrative is not gloomy” Imperialist Narrative Blackwood’s Edinburgh Magazine and the Suita.txt
+	0.46059736609458923	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Sentience.txt
+	0.44595032930374146	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_GIFTING PAIN THE PLEASURES OF LIBERAL GUILT IN LONDON A PILGRIMAGE AND STREET LIFE IN LONDON.txt
+	0.43511056900024414	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_ARTHUR MACHEN AND THE HORRORS OF DEEP HISTORY.txt
+	0.42903026938438416	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Technology.txt
+	0.39603790640830994	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_G H Lewes and the Impossible Classification of Organic Life.txt
+	0.3800666630268097	./txt_preprocessed\JVC\2010s\article\general\JVC_2018_23.1_‘That Which Mere Modernity Cannot Kill’ The Evolution of Legal Professionalism in Bram Stoker’s Drac.txt
+	0.3582870066165924	./txt_preprocessed\JVC\2010s\article\general\JVC_2014_19.2_FosterBlackwellGoldberg-TheLegacy.txt
+	0.3049916625022888	./txt_preprocessed\JVC\2010s\article\general\JVC_2013_18.1_Burrow-TheImperialSouvenir.txt
+	0.28941115736961365	./txt_preprocessed\VS\2010s\article\special\VS_2018_60.4_Slow Causality The Function of Narrative in an Age of Climate Change.txt
+Topic 6:
+	0.9997779726982117	./txt_preprocessed\VP\2010s\article\general\VP_2012_50.1_Poor Faun! poor Faun! A Nietzschean reading of Empedocles on Etna.txt
+	0.9997498989105225	./txt_preprocessed\VP\2010s\article\special\VP_2011_49.2_Polymetrical Dissonance Tennyson A Mary F Robinson and Classical Meter.txt
+	0.9982196688652039	./txt_preprocessed\VP\2010s\article\special\VP_2017_55.1_Fretted Lines Di-versification in Augusta Webster's Dramatic Monologues.txt
+	0.9967560172080994	./txt_preprocessed\VP\2010s\article\general\VP_2015_53.1_Augusta Webster Dramatic Forms and the Religious Aesthetic of Robert Browning's The Ring and the Boo.txt
+	0.9862691164016724	./txt_preprocessed\VP\2010s\article\special\VP_2017_55.1_A Sensation of the Action The Inscription of Performance in the Verse Dramas of Augusta Webster.txt
+	0.9853449463844299	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.4_The Flat Heroine Flat Character and Agency in Miss Marjoribanks.txt
+	0.9644904732704163	./txt_preprocessed\VP\2010s\article\special\VP_2017_55.1_We Should Be That Iago Counterfactual Sympathy and the Lyric We in Augusta Webster's Portraits and A.txt
+	0.9603686332702637	./txt_preprocessed\VP\2010s\article\special\VP_2017_55.1_Freaks of Femininity Webster's Gallery of Female Grotesques in Portraits.txt
+	0.957512378692627	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Thinking of Me Thinking of You Sympathy Versus Empathy in the Realist Novel.txt
+	0.9371222853660583	./txt_preprocessed\VP\2010s\article\general\VP_2013_51.1_The Irony of Swinburne's Atalanta in Calydon.txt
+	0.9354628920555115	./txt_preprocessed\VP\2010s\article\special\VP_2017_55.1_A Strange Second Flowering and the Second Heart Reimagined Modes of Aestheticism and Romanticism in .txt
+	0.9333396553993225	./txt_preprocessed\VP\2010s\article\general\VP_2019_57.1_Edward Lear's Tears.txt
+	0.9217514991760254	./txt_preprocessed\VP\2010s\article\general\VP_2012_50.1_The Recovery of Friendship Male Love and Developmental Narrative in Tennyson's In Memoriam.txt
+	0.9057354927062988	./txt_preprocessed\VP\2010s\article\general\VP_2015_53.1_The Repression of the Return Tennyson's In Memoriam and the Art of the Unheard Echo.txt
+	0.902519702911377	./txt_preprocessed\VP\2010s\article\general\VP_2019_57.1_Hopkins's Kestrel Drafting The Windhover 1877–1884.txt
+	0.8939555287361145	./txt_preprocessed\VS\2010s\article\special\VS_2013_55.4_Always Sympathize! Surface Reading Affect and George Eliot’s Romola.txt
+	0.8644275069236755	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_Does Grandcourt Exist Description and Fictional Characters.txt
+	0.8306024074554443	./txt_preprocessed\VS\2010s\article\special\VS_2013_55.4_Materiality Form and Context Marx contra Latour.txt
+	0.8167508840560913	./txt_preprocessed\VS\2010s\article\special\VS_2014_56.4_Anthony Trollope on Akrasia Self-Deception and Ethical Confusion.txt
+	0.8166707754135132	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_Phantoms and Fictional Persons Hardy’s Phenomenology of Loss.txt
+	0.8146332502365112	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_MALIGNANT FAITH AND COGNITIVE RESTRUCTURING REALISM IN ADAM BEDE.txt
+	0.8030868768692017	./txt_preprocessed\VP\2010s\article\general\VP_2013_51.1_The life of such dead things Psychological Obsession in Swinburne's Félise.txt
+	0.7867523431777954	./txt_preprocessed\VS\2010s\article\special\VS_2014_56.4_George Eliot’s Vagueness.txt
+	0.7714866995811462	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_UNSPEAKABLE GEORGE ELIOT.txt
+	0.7538672089576721	./txt_preprocessed\VP\2010s\article\general\VP_2013_51.1_Meter and Context Hardy's Neutral Tones.txt
+	0.7538107633590698	./txt_preprocessed\JVC\2010s\article\general\JVC_2019_24.1_Affective Ethics and Democratic Politics in Sweeney Todd and the Victorian Penny Press.txt
+	0.7322579026222229	./txt_preprocessed\VP\2010s\article\general\VP_2018_56.1_Hopkins in Three Words.txt
+	0.6689509153366089	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Realism.txt
+	0.665428102016449	./txt_preprocessed\VS\2010s\article\special\VS_2012_54.2_Wild Charges The Afro-Haitian Charge of the Light Brigade.txt
+	0.6528242230415344	./txt_preprocessed\VP\2010s\article\special\VP_2011_49.2_Materializing Meter Physiology Psychology Prosody.txt
+	0.6516780853271484	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Free Indirect Discourse.txt
+	0.6511844396591187	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_On Hegel History and Reading as if for Life Response.txt
+	0.6362727284431458	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_Fictional Character Response.txt
+	0.6330321431159973	./txt_preprocessed\VP\2010s\article\special\VP_2011_49.2_Ironizing Prosody in John Davidson's A Ballad in Blank Verse.txt
+	0.6286534667015076	./txt_preprocessed\VP\2010s\article\special\VP_2011_49.2_Poetic Data and the News from Poems A For Better for Verse Memoir.txt
+	0.6282562017440796	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Dickens's As If Analogy and Victorian Virtual Reality.txt
+	0.6194738745689392	./txt_preprocessed\VP\2010s\article\general\VP_2012_50.1_Life-Lyrics Autobiography Poetic Form and Personal Loss in Hardy's Moments of Vision.txt
+	0.613899827003479	./txt_preprocessed\VPR\2010s\article\special\VPR_2014_47.4_Touchstones and Tit-Bits Extracting Culture in the 1880s.txt
+	0.6067070960998535	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Rhyme Rhythm and the Materiality of Poetry Response.txt
+	0.6057658791542053	./txt_preprocessed\VP\2010s\article\special\VP_2017_55.1_The Limits of Liberty Gender Power and Freedom in Augusta Webster's In a Day.txt
+	0.5871581435203552	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Sound.txt
+	0.5747455358505249	./txt_preprocessed\VP\2010s\article\general\VP_2019_57.1_Sea Dreams and Realities Tennyson Travel and the Shifting Currents of Littoral Space in Victorian Cu.txt
+	0.5713855028152466	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.1_Translation and Its Affects.txt
+	0.538070797920227	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Reader.txt
+	0.5372347831726074	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Character.txt
+	0.526752769947052	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Reading.txt
+	0.5260764360427856	./txt_preprocessed\VP\2010s\article\special\VP_2011_49.2_Rhythms Poetic and Political The Case of Elizabeth Barrett Browning.txt
+	0.507642924785614	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.4_Victorian Lyric in the Anthropocene.txt
+	0.5061312913894653	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Poetess.txt
+	0.5040631294250488	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Love.txt
+	0.49755772948265076	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Religion.txt
+	0.49572885036468506	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_Behlman-TheVictorianMarcusAurelius.txt
+	0.4916786551475525	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_The Victorian Serial Novel and Transfictional Character.txt
+	0.4910596013069153	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Alice Meynell Walter Pater and Aestheticist Temporality.txt
+	0.4832064211368561	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Character-1.txt
+	0.4817787706851959	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Soul.txt
+	0.4780421257019043	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_THE NAUTICAL MELODRAMA OF MARY BARTON.txt
+	0.47453221678733826	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Memory.txt
+	0.4702966809272766	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Realism-1.txt
+	0.4698542654514313	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Freedgood-WhatObjectsKnew.txt
+	0.46021196246147156	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_The Non-Taxonomical Mayhew.txt
+	0.4594435393810272	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Rhyme.txt
+	0.4515787363052368	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_The Semi-Detached Provincial Novel.txt
+	0.45027926564216614	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_Novel Violations The Hermaphrodite and the Failure of Form.txt
+	0.44973576068878174	./txt_preprocessed\VPR\2010s\article\special\VPR_2013_46.3_Who are we to judge Issues of Identity and Cultural Authority in Late Victorian Metacritical Debate.txt
+	0.4324074983596802	./txt_preprocessed\VP\2010s\article\special\VP_2016_54.4_Taking Back the Ballad Swinburne in the 1860s.txt
+	0.39999112486839294	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Performance.txt
+	0.39945846796035767	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Description.txt
+	0.36232444643974304	./txt_preprocessed\JVC\2010s\article\digital\JVC_2011_16.1_Nash-Reassessing.txt
+	0.35362762212753296	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Theatricality.txt
+	0.3527674376964569	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_PERFORMING VICTORIAN WOMANHOOD ELSIE FOGERTY STAGES TENNYSON'S PRINCESS IN GIRLS' SCHOOLS.txt
+	0.33929750323295593	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_CHANCE PROVIDENCE AND IMPERIAL ENNUI IN ALFRED DOMETT’S RANOLF AND AMOHIA A SOUTH-SEA DAY-DREAM.txt
+	0.3354218602180481	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_BREAKING THE IDOL OF THE MARRIAGE PLOT IN YEAST AND VILLETTE.txt
+	0.33425867557525635	./txt_preprocessed\JVC\2010s\article\general\JVC_2013_18.1_James-Marie.txt
+Topic 7:
+	0.9998062252998352	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_Emotional Density Suspense and the Serialization of The Woman in White in All the Year Round.txt
+	0.9997985363006592	./txt_preprocessed\JVC\2010s\article\general\JVC_2019_24.1_Playing Cards Cricket and Carpentry Amusement Recreation and Occupation in Caterham Imbecile Asylum.txt
+	0.9875751733779907	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_Participatory Government by Journalism Class Periodicals and the Local State 1880–1914.txt
+	0.985150933265686	./txt_preprocessed\JVC\2010s\article\general\JVC_2013_18.1_HamlettHoskins-Comfort.txt
+	0.9709091782569885	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_Fictional Systems Mass-Digitization Network Analysis and Nineteenth-Century Australian Newspapers.txt
+	0.9387018084526062	./txt_preprocessed\VPR\2010s\article\general\VPR_2016_49.1_The Sympathy of Suspense Gaskell and Braddon’s Slow and Fast Sensation Fiction in Family Magazines.txt
+	0.8932546973228455	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_“SKINS TO JUMP INTO” THE SLIPPERINESS OF IDENTITY AND THE BODY IN WILKIE COLLINS'S NO NAME.txt
+	0.8891339302062988	./txt_preprocessed\JVC\2010s\article\general\JVC_2018_23.1_Travels in Fiction Baker Stanley Cameron and the Adventure of African Exploration.txt
+	0.7671145796775818	./txt_preprocessed\VPR\2010s\article\special\VPR_2011_44.2_Blackfriars The Post Office Magazine A Nineteenth-Century Network of “The Happy Ignorant”.txt
+	0.7286317348480225	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_“Always Called Jack” A Brief History of the Transferable Skill.txt
+	0.721123218536377	./txt_preprocessed\VLC\2010s\article\general\VLC_2017_45.1_ACTIVITY AND PASSIVITY CLASS AND GENDER IN THE CASE OF THE ARTIFICIAL HAND.txt
+	0.6966062784194946	./txt_preprocessed\VPR\2010s\article\general\VPR_2012_45.1_The Illustrated Pocket Diary Generic Continuity and Innovation 1820–40.txt
+	0.6435354351997375	./txt_preprocessed\VPR\2010s\article\general\VPR_2016_49.1_Finding a Transatlantic Audience Reading Dinah Mulock Craik’s Mistress and Maid in Good Words and Ha.txt
+	0.6195846796035767	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Institutions.txt
+	0.5668590664863586	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_“SAVING BRITISH NATIVES” FAMILY EMIGRATION AND THE LOGIC OF SETTLER COLONIALISM IN CHARLES DICKENS A.txt
+	0.5600844025611877	./txt_preprocessed\JVC\2010s\article\general\JVC_2019_24.1_Gender Inheritance and Sweat in Anthony Trollope’s Cousin Henry (1879).txt
+	0.44834715127944946	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Seriality-1.txt
+	0.42799052596092224	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_A “BODY” OF EVIDENCE THE POSTHUMOUS PRESENTATION OF DAVID LIVINGSTONE.txt
+	0.4085933268070221	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_FEMININITY AND COMMUNITY AT HOME AND AWAY SHIPBOARD DIARIES BY SINGLE WOMEN EMIGRANTS TO NEW ZEALAND.txt
+	0.4047556221485138	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Spectrally Illuminating the Hidden Material History of David Livingstone’s 1870 Field Diary.txt
+	0.38215211033821106	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Sensation Fiction.txt
+	0.37583133578300476	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Seriality-2.txt
+	0.35685041546821594	./txt_preprocessed\VPR\2010s\article\general\VPR_2019_52.1_Serialization Illustration and the Art of Sensation.txt
+	0.3358216881752014	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Mukhopadhyay-OnNotReading.txt
+	0.32912707328796387	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Seriality.txt
+Topic 8:
+	0.9998237490653992	./txt_preprocessed\VPR\2010s\article\general\VPR_2012_45.1_“Show me the money!” A Pecuniary Investigation of William Makepeace Thackeray’s Early Victorian Jour.txt
+	0.999765157699585	./txt_preprocessed\VP\2010s\article\general\VP_2012_50.1_The Fall of the House of Moxon James Bertrand Payne and the Illustrated Idylls of the King.txt
+	0.9872421026229858	./txt_preprocessed\VP\2010s\article\special\VP_2014_52.1_Making Poetry in Good Words Why Illustration Matters to Periodical Poetry Studies.txt
+	0.9869114756584167	./txt_preprocessed\VPR\2010s\article\general\VPR_2016_49.1_Marion Bernstein and the Glasgow Weekly Mail in the 1870s.txt
+	0.9804252982139587	./txt_preprocessed\VPR\2010s\article\special\VPR_2010_43.2_Companions Supplements and the Proliferation of Print in the 1830s.txt
+	0.9789478182792664	./txt_preprocessed\VPR\2010s\article\general\VPR_2016_49.1_Oscar Wilde and the French Press 1880–91.txt
+	0.9751678705215454	./txt_preprocessed\VP\2010s\article\special\VP_2014_52.1_Between Politics and Deer-Stalking Browning's Periodical Poetry.txt
+	0.9616591930389404	./txt_preprocessed\VP\2010s\article\special\VP_2014_52.1_A Very Poetical Town Newspaper Poetry and the Working-Class Poet in Victorian Dundee.txt
+	0.9602512121200562	./txt_preprocessed\VP\2010s\article\general\VP_2019_57.1_Elizabeth Barrett Browning's Unpublished Honeymoon Poem a Poetics in Transition and Petrarch's Vaucl.txt
+	0.9547075033187866	./txt_preprocessed\VPR\2010s\article\special\VPR_2010_43.2_What How Why Broadening the Mind with the Treasury of Literature (1868–1875) Supplement to the Ladie.txt
+	0.9455807209014893	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_“Donations need not be large to be acceptable” Children Charity and the Great Ormond Street Hospital.txt
+	0.9100300669670105	./txt_preprocessed\VPR\2010s\article\special\VPR_2010_43.2_Finding and Defining the Victorian Supplement.txt
+	0.9040564894676208	./txt_preprocessed\VP\2010s\article\special\VP_2010_48.1_Inventing Poetry and Pictorialism in Once a Week  A Magazine of Visual Effects.txt
+	0.8902883529663086	./txt_preprocessed\VPR\2010s\article\special\VPR_2010_43.2_Subversive Supplements Satirical Title Pages of the Periodical Press in the 1830s.txt
+	0.858526885509491	./txt_preprocessed\VP\2010s\article\special\VP_2014_52.1_Time and the Poetess Violet Fane and Fin-de-Siècle Poetry in Periodicals.txt
+	0.8471589088439941	./txt_preprocessed\VPR\2010s\article\special\VPR_2014_47.4_Not an Ordinary “Ladies’ Paper” Work Motherhood and Temperance Rhetoric in the Woman’s Signal 1894–1.txt
+	0.8317519426345825	./txt_preprocessed\VP\2010s\article\special\VP_2014_52.1_Imagining the Cockney University Humorous Poetry the March of Intellect and the Periodical Press 182.txt
+	0.8305930495262146	./txt_preprocessed\VPR\2010s\article\special\VPR_2010_43.2_Lost and Found Serial Supplements in the Nineteenth Century.txt
+	0.8218458890914917	./txt_preprocessed\JVC\2010s\article\general\JVC_2018_23.1_Advertising Poetry the Working-Class Poet and the Victorian Newspaper Press.txt
+	0.8125503659248352	./txt_preprocessed\VP\2010s\article\special\VP_2010_48.1_Literature by Design Since 1790.txt
+	0.804628312587738	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_The Gallery of Comicalities Graphic Humour Wood-Engraving and the Development of the Comic Magazine .txt
+	0.7833707928657532	./txt_preprocessed\VPR\2010s\article\general\VPR_2012_45.1_Christmas Books and Victorian Book Reviewing.txt
+	0.7791757583618164	./txt_preprocessed\VP\2010s\article\general\VP_2013_51.1_Dante Gabriel Rossetti's Absurd Antiquarian and Modern-Antique Medievalism(s) Girlhood of Mary Virgi.txt
+	0.7642161250114441	./txt_preprocessed\VP\2010s\article\special\VP_2010_48.1_From Blake to Beardsley On Some of the Characteristics of Modern Poetry.txt
+	0.7401747703552246	./txt_preprocessed\VPR\2010s\article\special\VPR_2014_47.4_“The Squire of Boyhood” G A Hutchison and the Boy’s Own Paper.txt
+	0.7367686033248901	./txt_preprocessed\VPR\2010s\article\general\VPR_2016_49.1_A “duty” to “tabulate and record” Emma Hardinge Britten as Periodical Editor and Spiritualist Histor.txt
+	0.7325375080108643	./txt_preprocessed\VP\2010s\article\special\VP_2014_52.1_Introduction.txt
+	0.7290121912956238	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Trebled Beauty William Morris's Terza Rima.txt
+	0.709678053855896	./txt_preprocessed\VPR\2010s\article\special\VPR_2014_47.4_Novel Networks The “Specialité” of the English Woman’s Journal.txt
+	0.7074275016784668	./txt_preprocessed\VP\2010s\article\general\VP_2015_53.1_The Factory Exile Ellen Johnston's Autobiography Poems and Songs.txt
+	0.706965982913971	./txt_preprocessed\VP\2010s\article\general\VP_2018_56.1_Christina Rossetti's By Way of Remembrance Address Intertextuality and Abiding Self-Scrutiny.txt
+	0.6920173764228821	./txt_preprocessed\VS\2010s\article\special\VS_2010_52.3_Adventures in the Archives Two Literary Critics in Pursuit of a Victorian Subject.txt
+	0.6851206421852112	./txt_preprocessed\JVC\2010s\article\special\JVC_2017_22.1_Pigeon-StealIt.txt
+	0.6844244003295898	./txt_preprocessed\VP\2010s\article\special\VP_2014_52.1_How Local Newspapers Came to Dominate Victorian Poetry Publishing.txt
+	0.6833806037902832	./txt_preprocessed\VPR\2010s\article\special\VPR_2011_44.2_Professional Networking Masculine and Feminine.txt
+	0.6744878888130188	./txt_preprocessed\VP\2010s\article\general\VP_2012_50.1_Remembrance of Things Past Literary Annuals' Self-Historicization.txt
+	0.670933187007904	./txt_preprocessed\VP\2010s\article\general\VP_2018_56.1_Half-Poets and Whole Democrats The Politics of Poetic Aggregation in Aurora Leigh.txt
+	0.6457541584968567	./txt_preprocessed\VPR\2010s\article\special\VPR_2010_43.2_Supplements and Paratext The Rhetoric of Space.txt
+	0.6451994776725769	./txt_preprocessed\VP\2010s\article\general\VP_2018_56.1_The Goblin Men and the Flower Girl New Sources for Goblin Market.txt
+	0.6187461018562317	./txt_preprocessed\VS\2010s\article\special\VS_2019_62.1_Dante Gabriel Rossetti’s Déjà Vu.txt
+	0.6015362739562988	./txt_preprocessed\VPR\2010s\article\special\VPR_2013_46.3_Reciprocal Investments John Galt the Periodical Press and the Business of North American Emigration.txt
+	0.5718671679496765	./txt_preprocessed\VP\2010s\article\general\VP_2015_53.1_Poetry on Pre-Raphaelite Principles Science Nature and Knowledge in William Michael Rossetti's Fanci.txt
+	0.5711362361907959	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_The Birth and Growth of Victorian Periodicals Newsletter and the Research Society for Victorian Peri.txt
+	0.5678987503051758	./txt_preprocessed\VP\2010s\article\general\VP_2012_50.1_The Sentimental Policeman Poetry and Social Mobility in the Police Review and Parade Gossip.txt
+	0.566121518611908	./txt_preprocessed\VPR\2010s\article\special\VPR_2010_43.2_“Killing Time” or Mrs Braby’s Peppermints The Double Economy of the Family Herald and the Family Her.txt
+	0.561258852481842	./txt_preprocessed\VLC\2010s\article\general\VLC_2013_41.1_DESTRUCTIVE MATERNITY IN AURORA LEIGH.txt
+	0.5338055491447449	./txt_preprocessed\VPR\2010s\article\special\VPR_2015_48.2_Oscar Wilde in Philadelphia The Rosenbach Exhibition.txt
+	0.5296502709388733	./txt_preprocessed\VS\2010s\article\special\VS_2011_53.3_Rhyme's End.txt
+	0.5168313384056091	./txt_preprocessed\VP\2010s\article\special\VP_2014_52.1_Creating an Audience for a British School LEL's Poetical Catalogue of Pictures in The Literary Gazet.txt
+	0.5139246582984924	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_I am not going on Negotiating Christmas Publishing Rhythms with Dickens's Mugby Junction.txt
+	0.5010792016983032	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_THE DEAD STILL AMONG US VICTORIAN SECULAR RELICS HAIR JEWELRY AND DEATH CULTURE.txt
+	0.4789343774318695	./txt_preprocessed\VPR\2010s\article\special\VPR_2013_46.3_That inscrutable something Business in the Periodical Press.txt
+	0.4664933979511261	./txt_preprocessed\VP\2010s\article\special\VP_2010_48.1_Palms and Temples Edward Lear's Topographies.txt
+	0.4507560431957245	./txt_preprocessed\JVC\2010s\article\general\JVC_2019_24.1_The Right Stuff Class Identity Material Culture and the Victorian Police Detective.txt
+	0.35132551193237305	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_GEORGE EGERTON'S KEYNOTES NIETZSCHEAN FEMINISM AND FIN-DE-SIÈCLE FETISHISM.txt
+	0.3395459055900574	./txt_preprocessed\JVC\2010s\article\digital\JVC_2016_21.1_Masters of Healing Cocaine and the Ideal of the Victorian Medical Man.txt
+Topic 9:
+	0.9998603463172913	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Crone-ReappraisingVictorianLiteracy.txt
+	0.9997484087944031	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_“THE DEVIL'S CODE OF HONOR” FRENCH INVASION AND THE RETURN OF HISTORY IN VANITY FAIR.txt
+	0.9861410856246948	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_INDIAN MUTINYENGLISH MUTINY NATIONAL GOVERNANCE IN CHARLOTTE YONGE'S THE CLEVER WOMAN OF THE FAMILY.txt
+	0.9848877191543579	./txt_preprocessed\VS\2010s\article\special\VS_2012_54.2_Outworks of the Citadel of Corruption The Chartist Press Reports the Empire.txt
+	0.9431326985359192	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_CIVILIZING HAWAII ISABELLA BIRD BISHOP IN THE SANDWICH ISLANDS.txt
+	0.9352933168411255	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_TRANSPORTED TO BOTANY BAY IMAGINING AUSTRALIA IN NINETEENTH-CENTURY CONVICT BROADSIDES.txt
+	0.925113320350647	./txt_preprocessed\VPR\2010s\article\general\VPR_2019_52.1_Politics for Girls Representations of Political Girlhood in the Girl's Own Paper and the Girl's Real.txt
+	0.9141144752502441	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_BEYOND BENGAL GENDER EDUCATION AND THE WRITING OF COLONIAL INDIAN HISTORY.txt
+	0.8863102197647095	./txt_preprocessed\JVC\2010s\article\general\JVC_2013_18.1_Rogers-TheJohnsonClub.txt
+	0.8807750344276428	./txt_preprocessed\VPR\2010s\article\general\VPR_2019_52.1_Community as Counterpublic The Shield (1870–86) and the Campaign to Repeal the Contagious Diseases A.txt
+	0.8793885111808777	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_THE SQUAB AND THE IDLER A COSMOPOLITAN – COLONIAL DIALOGUE IN THE CALCUTTA STAR BETWEEN WILLIAM THAC.txt
+	0.8622030019760132	./txt_preprocessed\VPR\2010s\article\general\VPR_2019_52.1_Pleasing Testimony Plebeian Readers' Voices in the Tract Magazine.txt
+	0.8195104598999023	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_ADVANCED CONSERVATIVE LIBERALISM PARTY AND PRINCIPLE IN TROLLOPE'S PARLIAMENTARY NOVELS.txt
+	0.8172153830528259	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_INVOLUNTARY SIGHTSEEING SOLDIERS AS TRAVEL WRITERS AND THE CONSTRUCTION OF COLONIAL BURMA.txt
+	0.8167427778244019	./txt_preprocessed\JVC\2010s\article\general\JVC_2015_20.4_Turner-Defending.txt
+	0.8147781491279602	./txt_preprocessed\VS\2010s\article\special\VS_2019_62.1_Victorian Afghanistan the Iron Amir and the Poetics of Marginal Sovereignty.txt
+	0.8094505667686462	./txt_preprocessed\VPR\2010s\article\general\VPR_2019_52.1_Newman's Conversion Francis William Newman and Vegetarianism on the Instalment Plan.txt
+	0.7963833808898926	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_LITTLE BUILDERS CORAL INSECTS MISSIONARY CULTURE AND THE VICTORIAN CHILD.txt
+	0.7957056164741516	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_QUESTIONS FROM WORKERS WHO READ EDUCATION AND SELF-FORMATION IN CHARTIST PRINT CULTURE AND ELIZABETH.txt
+	0.795412540435791	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_BETWEEN TWO WORLDS RACIAL IDENTITY IN ALICE PERRIN'S THE STRONGER CLAIM.txt
+	0.7922088503837585	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Living Links to History or Victorian Veterans in the Twentieth-Century World.txt
+	0.7884787917137146	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_War and the Victorians Response.txt
+	0.7861034870147705	./txt_preprocessed\VPR\2010s\article\general\VPR_2018_51.1_Victorian Girls' Periodicals and the Challenge of Adolescent Autonomy.txt
+	0.7749192118644714	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_LITTLE HENRY'S BURDENS COLONIZATION CIVILIZATION CHRISTIANITY AND THE CHILD.txt
+	0.7517048120498657	./txt_preprocessed\JVC\2010s\article\general\JVC_2015_20.4_Nunn-Come.txt
+	0.7283855080604553	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_“GREATLY ALTERED” THE LIFE OF SYDNEY OWENSON'S INDIAN NOVEL.txt
+	0.7196550965309143	./txt_preprocessed\VPR\2010s\article\general\VPR_2019_52.1_Kangaroo Politics Kangaroo Ideas and Kangaroo Society The Early Years of Melbourne Punch in Colonial.txt
+	0.7135156393051147	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Imperialism.txt
+	0.6821988821029663	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_COLLEGE ENGLISH IN INDIA THE FIRST TEXTBOOK.txt
+	0.6790543794631958	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Humanitarian(ism).txt
+	0.6731874942779541	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_THE EPISTEMOLOGICAL PROBLEM OF BRITISH INDIA IN RUDYARD KIPLING'S “THE MAN WHO WOULD BE KING”.txt
+	0.6701011657714844	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_MISSING LINK FOUND 1880 THE RHETORIC OF COLONIAL PROGRESS IN ISABELLA BIRD’S UNBEATEN TRACKS IN JAPA.txt
+	0.621286153793335	./txt_preprocessed\VS\2010s\article\special\VS_2017_59.3_Evidence of Reading The Social Network of the Heath Book Club.txt
+	0.604202926158905	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Nomadic Taxonomy How the Bedouin Lost His Poetry.txt
+	0.6033918857574463	./txt_preprocessed\JVC\2010s\article\special\JVC_2016_21.1_Rose-AFaministNetwork.txt
+	0.5804764628410339	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_WRITING AS FEMALE NATIONAL AND IMPERIAL RESPONSIBILITY FLORENCE NIGHTINGALE'S SCHEME FOR SOCIAL AND .txt
+	0.5645325779914856	./txt_preprocessed\VPR\2010s\article\general\VPR_2017_50.1_Melodrama and Natural Science Reading the “Greenwich Murder” in the Mid-Century Periodical Press.txt
+	0.5599954724311829	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Morgan-Material Culture.txt
+	0.5456119775772095	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Fault Lines of Loyalty Kipling’s Boer War Conflict.txt
+	0.5443862676620483	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_INTRODUCTION ENGLISH IN INDIA INDIA IN ENGLAND.txt
+	0.5168055891990662	./txt_preprocessed\VLC\2010s\article\general\VLC_2016_44.1_“THE BLOOD OF OUR POOR PEOPLE” 1848 INCIPIENT NATIONAL IDENTITY AND THE FRENCH REVOLUTION IN ANTHONY.txt
+	0.5159370303153992	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_TRANSFORMATIONS OF BYRON IN THE LITERATURE OF BRITISH INDIA.txt
+	0.5038112998008728	./txt_preprocessed\VLC\2010s\article\general\VLC_2012_40.1_LYING EPITAPHS VANITY FAIR WATERLOO AND THE CULT OF THE DEAD.txt
+	0.48850128054618835	./txt_preprocessed\VP\2010s\article\general\VP_2015_53.1_The Poetic Negotiations of a Gentleman Radical Ernest Jones and the Mighty Mind.txt
+	0.4832864999771118	./txt_preprocessed\VLC\2010s\article\special\VLC_2010_38.2_THE COSMOPOLITAN NATIONALISM OF SAROJINI NAIDU NIGHTINGALE OF INDIA.txt
+	0.4805791676044464	./txt_preprocessed\VLC\2010s\article\special\VLC_2019_47.4_Empire and Indifference.txt
+	0.4778766334056854	./txt_preprocessed\VS\2010s\article\special\VS_2012_54.2_Empire's Discontents Burton in Retrospect.txt
+	0.4653075337409973	./txt_preprocessed\VS\2010s\article\special\VS_2016_58.2_Who or What is Victorian Ecology Indigo and the Transimperial.txt
+	0.4487130641937256	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_INTRODUCTION THE NINETEENTH-CENTURY PACIFIC RIM VICTORIAN TRANSOCEANIC STUDIES BEYOND THE POSTCOLONI.txt
+	0.4458337128162384	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_WHEN DITCHERS AND JACK TARS COLLIDE BENEFIT THEATRICALS AT THE CALCUTTA LYRIC THEATRE IN THE WAKE OF.txt
+	0.4416007399559021	./txt_preprocessed\VPR\2010s\article\general\VPR_2019_52.1_Victorian Gendered Photography in the Boy's Own Paper and the Girl's Own Paper.txt
+	0.4372021555900574	./txt_preprocessed\JVC\2010s\article\digital\JVC_2012_17.2_Maltz-ArdentService.txt
+	0.42885342240333557	./txt_preprocessed\VLC\2010s\article\special\VLC_2014_42.3_TROUBLING CONJUGAL LOYALTIES THE FIRST INDIAN NOVEL IN ENGLISH AND THE TRANSIMPERIAL FRAMEWORK OF SE.txt
+	0.42814162373542786	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_War-1.txt
+	0.4267480969429016	./txt_preprocessed\VLC\2010s\article\general\VLC_2011_39.1_A LIFE IN FRAGMENTS THOMAS COOPER'S CHARTIST BILDUNGSROMAN.txt
+	0.4165199398994446	./txt_preprocessed\VLC\2010s\article\special\VLC_2015_43.2_ROMANCES OF UNEVEN DEVELOPMENT SPATIALITY TRADE AND FORM IN ROBERT LOUIS STEVENSON’S PACIFIC NOVELS.txt
+	0.4133051633834839	./txt_preprocessed\JVC\2010s\article\digital\JVC_2010_15.1_Broughton-TheBengal.txt
+	0.4071502983570099	./txt_preprocessed\VS\2010s\article\special\VS_2012_54.2_Islands of Whiteness.txt
+	0.3658848702907562	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Settler Colonialism.txt
+	0.36580249667167664	./txt_preprocessed\VS\2010s\article\special\VS_2015_57.3_The Making of Modernity.txt
+	0.29401442408561707	./txt_preprocessed\VLC\2010s\article\special\VLC_2018_46.3-4_Boy.txt
